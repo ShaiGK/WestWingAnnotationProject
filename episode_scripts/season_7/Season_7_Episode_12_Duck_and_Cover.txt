@@ -1,0 +1,2225 @@
+Season 7 – Episode 12 – “Duck and Cover”
+
+Post author:chris
+Post published:April 12, 2014
+Post category:Season 7 / The Show
+
+Episode Summary:
+
+Bartlet (Martin Sheen) must face the possibility of an exploding nuclear reactor in California. In the midst of this emergency exists the presidential campaign and the candidates find themselves struggling to find a good strategy to deal with the situation. Meanwhile, Kate (Mary McCormack) keeps an eye on the impending battle between Russia and China over Kazakhstan.
+
+Script:
+
+THE WEST WING
+7x12 - "DUCK AND COVER"
+WRITTEN BY ELI ATTIE
+DIRECTED BY CHRISTOPHER MISIANO
+
+Transcribed by Soundman for www.twiztv.com. Send feedback to
+sparticus1611@hotmail.com.
+
+TEASER
+
+FADE IN: EXT. - PORTICO - NIGHT
+9:19 PM
+
+C.J. and Kate are waiting for Bartlet to walk out. He does and they start
+talking.
+
+BARTLET
+What do we know?
+
+C.J.
+17 minutes ago, at 6:02 Pacific Time, emergency sirens went off at the
+nuclear generating station in San Andreo, California. The main feed-water
+pump failed. Everything proceeded as expected: a relief valve opened to let
+the water escape, the reactor scrammed...
+
+BARTLET
+It shut itself down.
+
+C.J.
+But now a valve is malfunctioning and coolant has stopped flowing into the
+reactor's core.
+
+BARTLET
+If they can't get coolant into the core...
+
+C.J.
+The uranium fuel rods become exposed, which makes them highly combustible. We
+could be looking at a full-scale nuclear meltdown.
+
+BARTLET
+Full-scale as in...?
+
+They have walked into the Oval Office.
+
+C.J.
+FEMA thinks the plume could cover all of San Andreo - population:
+42,000. Federal response teams are on their way.
+
+BARTLET
+Any word on the cause?
+
+C.J.
+Could be human error, a design flaw...
+
+KATE
+It's not likely a terrorist would sneak in there and jam a valve. We're
+rechecking all the relevant intel.
+
+BARTLET
+Has the public been notified?
+
+C.J.
+No. But when they shut down the reactor there was a steam release that
+sounded something like a Concorde landing and CNN's already running rumors
+of an explosion.
+
+BARTLET
+I want the FEMA director and the Chair of the Nuclear Regulatory Commission
+in here right away. Get CNN to stop running rumors. I'll make a statement
+in 15 minutes.
+
+KATE
+Sir, you really don't want to notify the public until there's a plan in
+place. There could be widespread panic.
+
+BARTLET
+Then we'd better get moving on a plan, because I'm making a statement in
+15 minutes.
+
+C.J.
+Yes, sir.
+
+KATE
+Thank you, Mr. President.
+
+CUT TO: EXT. - CAMPAIGN EVENT - NIGHT
+WEDNESDAY NIGHT, 9:21 PM
+TAMPA, FLORIDA
+
+Santos and Helen are speaking at a "Rock the Vote" event.
+
+SANTOS
+Yes, we worry about what's happening in the culture: we have two young
+children. But censorship is like saying I can't have a steak because a baby
+can't chew it. Let's be careful. Yeah?
+
+We pan to where Josh and Donna are watching the event.
+
+DONNA
+He's good tonight.
+
+JOSH
+As long as he keeps pivoting to the issues, I'm fine.
+
+AUDIENCE MAN #1
+You told Rolling Stone you like Bob Dylan. I was just wondering: what's your
+favorite album?
+
+SANTOS
+My favorite Bob Dylan album? I guess I should say Highway 61 Revisited and
+then we could just ease into transportation policy, but  really, it's Blonde
+on Blonde.
+
+Helen looks at him funny as the audience laughs.
+
+SANTOS
+Believe me, there's no policy implications to that.
+
+DONNA
+Did he just imply...
+
+JOSH
+Jay Leno's going to have field day.
+
+DONNA
+No big issues captivated the voters. You're surprised it came down to geyser
+rock trivia?
+
+Bram walks up and hands Josh a piece of paper.
+
+JOSH
+Wrap it up.
+
+Bram walks away.
+
+DONNA
+What?
+
+JOSH
+There was a nuclear accident in California. Get to a television, laptop. Get
+any details you can.
+
+She walks away.
+
+CUT TO: INT. - LIMO - MOTORCADE - NIGHT
+9:23 PM
+FALLS CHURCH, VIRGINIA
+
+BRUNO
+Santos is doing that "Rock the Vote" event in Tampa. Probably pandering like
+mad to a bunch of preteens.
+
+VINICK
+There better be some post-teens. You're sending me there tomorrow.
+
+BRUNO
+I'm sending you because you talk like a President, not some latter day,
+Mick Jagger-in-Chief.
+
+Bruno's phone rings and he answers it.
+
+BRUNO [into phone]
+Yeah, Bruno.
+
+VINICK
+I could tell them about my psychedelic phase when I wore brown socks on the
+Senate floor.
+
+BRUNO [into phone]
+Call me the second you get confirmation.
+
+He hangs up.
+
+VINICK
+Confirmation on what?
+
+BRUNO
+A problem with a nuclear plant in California. San Andreo. There might be
+an explosion.
+
+VINICK
+San Andreo?
+
+BRUNO
+Yeah, it's near San Diego.
+
+VINICK
+Yeah, I know where it is.
+
+BRUNO
+What?
+
+VINICK
+I pushed the licensing commission to get San Andreo up and running 25
+years ago.
+
+BRUNO
+Pushed?
+
+VINICK
+I helped get that plant online.
+
+SMASH CUT TO: MAIN TITLES.
+END TEASER.
+* * *
+
+ACT ONE
+
+FADE IN: INT. - OUTER OVAL OFFICE - NIGHT
+9:26 PM
+
+C.J. is on the phone at Debbie's desk. A news report is going about the
+incident. Kate is also on the phone, she at Charlie's desk. Both conversations
+are indecipherable. They hang up simultaneously and turn to see a news report.
+
+ANCHOR
+We've received numerous reports of a loud explosion as well as Arab tourists
+seen near the facility in the last two days.
+
+KATE
+How can they run these crazy rumors?
+
+C.J.
+The only thing certain in cases like this: first reports are always wrong.
+
+They go into the Oval Office where Bartlet is meeting with several people.
+
+BARTLET
+How we handle this in the next 90 minutes will determine whether there's
+panic within 100 miles of every nuclear plant in this country. We don't get
+a second chance to make a first impression. Harry?
+
+NRC CHAIR HARRY
+The coolant in the reactor has dropped at least a foot, exposing an eighth
+of the fuel rods.
+
+BARTLET
+How can we get cool water in there.
+
+HARRY
+They're running a temporary feed line to bypass the broken valve while they
+try to figure out what's wrong.
+
+BARTLET
+In the meantime?
+
+HARRY
+They're activating an emergency heat removal pump. The hope is that it will
+lower temperatures enough to prevent a meltdown.
+
+FEMA DIRECTOR
+There's a second problem.
+
+HARRY
+Yes. Another valve is stuck open. With the temperatures rising in the reactor,
+an awful lot of radioactive steam is being generated and it's pouring into
+the containment building.
+
+C.J.
+Are we worried about a radiation leak?
+
+HARRY
+We're worried they may have to pump radioactive gases into an auxiliary
+building which is not built to hold them. One poorly welded seam...
+
+BARTLET
+How much radiation are we talking about?
+
+HARRY
+It's unclear. But administrators at CalVista Gas & Electric...
+
+KATE
+They run the San Andreo plant.
+
+HARRY
+Yes. They believe any leak would pose little or no threat to the public health.
+
+BARTLET
+Without knowing how big it might be.
+
+C.J.
+It's chaos over there. I couldn't even get them on the phone.
+
+BARTLET
+I want the Nuclear Regulatory Commission to take command of that plant and
+I want to evacuate the area.
+
+C.J.
+It's a state and local matter.
+
+BARTLET
+Get the governor of California right away.
+
+NANCY
+Yes, sir.
+
+FEMA DIRECTOR
+Governor Tillman wants to wait until we're absolutely sure it's necessary.
+
+KATE
+He'll argue that rash, messy, night-time evacuation could be worse...
+
+NANCY
+The Governor's on the line.
+
+BARTLET
+Thank you.
+
+He picks up the phone.
+
+BARTLET
+Gabe, you have to evacuate San Andreo. ... We're all working off
+sketchy information. ... 'Cause, trust me on this, we would rather have
+a few fender-benders on the I-5 than a generation of babies with thyroid
+cancer. ... My FEMA Director is right here. He'll coordinate with your state
+emergency services and I'm going to declare a major federal disaster. You're
+going to have every federal resource you need. ... We're going to get
+through this.
+
+He hangs up.
+
+C.J.
+Mr. President, with all the levels of government involved in this, maybe now
+is a good time to designate a czar - a single, point person to oversee all...
+
+BARTLET
+You're looking at him.
+
+CUT TO: INT. - VINICK-SULLIVAN HQ - NIGHT
+
+Vinick is in his office. He is on the phone, trying to get through. He gets
+a busy signal. Bob and Bruno come in.
+
+BOB
+We talked to the Senate office.
+
+BRUNO
+They're reaching out to the Governor's office. Regional officials...
+
+BOB
+Hundreds of press requests...
+
+VINICK
+I want to issue a statement supporting the Governor's evacuation plan.
+
+BOB
+We should couple it with a call for an investigation. This has to have been
+a regulatory failure.
+
+BRUNO
+We want to be careful, though. Everyone knows the Senator is pro-nuclear. He
+said it in the first debate.
+
+BOB
+That's why we have to act defensively. The DNC's got to know he lobbied to
+get that plant open.
+
+Vinick picks up the phone again and dials. He again gets a busy signal.
+
+BRUNO
+Defensive, but not destructive. What do you want?
+
+Vinick hangs up.
+
+BRUNO
+Jamie and your grandkids are in San Diego?
+
+VINICK
+Phone lines are jammed, cell phones, everything.
+
+BOB
+We'll put out a statement supporting the governor.
+
+He and Bruno leave. Vinick tries again on the phone with still no luck.
+
+CUT TO: INT. - LOBBY - WHITE HOUSE - NIGHT
+
+Will is walking in. His phone is going off. He drops it as he meets C.J. She
+picks it up for him.
+
+C.J.
+The President wants to make a statement in the next few minutes.
+
+WILL
+Saying what?
+
+C.J.
+Whatever we can figure out in the next few minutes.
+
+WILL
+You wouldn't believe the rumors that are bouncing around here: that there's
+a fire near the reactor and it's about to blow.
+
+C.J.
+Not exactly.
+
+WILL
+That we're shutting down every nuclear plant with the same design.
+
+C.J.
+Not the dumbest of ideas, but no. Look, the press are going to talk to
+everybody, they're going to speculate about everything. I need you to grab
+hold of the information flow.
+
+WILL
+I have no information.
+
+C.J.
+Welcome to the club. Let's start with that statement.
+
+CUT TO: INT. - OVAL OFFICE - NIGHT
+
+Bartlet is talking with FEMA Director and Harry. They are walking out of
+the office.
+
+BARTLET
+What are the odds this leads to a meltdown?
+
+HARRY
+A meltdown isn't when one thing goes wrong, it's when 12 things go wrong.
+
+BARTLET
+There must be 6 million people living within a hundred miles of that plant.
+
+FEMA DIRECTOR
+Based on prevailing winds, FEMA recommends we evacuate 15 down, 6 and 9
+around. It'll cover all of San Andreo.
+
+WILL
+15 down?
+
+C.J.
+15 miles between 6 and 9 like a clock.
+
+FEMA DIRECTOR
+But state emergency services want to do just 10 down, 6 and 9 around: the
+legal minimum.
+
+BARTLET
+Tell them if they're fine with 10 miles, the Governor and I will be setting
+up a command post at 10.1 miles from the plant. We'd like them to join us
+there. [to Will] Is the press ready for my statement?
+
+WILL
+Readier than we are.
+
+C.J.
+It's not like we have much to tell them.
+
+FEMA DIRECTOR
+It sounds like they're more comfortable with 15 miles.
+
+CUT TO: INT. - BRIEFING ROOM - NIGHT
+9:34 PM
+
+Bartlet walks into the room and to the podium. The press stands as he does.
+
+BARTLET
+Good evening.
+
+He indicates for them to sit.
+
+BARTLET
+32 minutes ago, there was a mechanical problem at the nuclear generating
+plant in San Andreo, California which is causing the reactor's core to
+overheat. There's been no explosion. There's no indication of terrorism or
+foul play. Engineers are working to address the problem right now. Governor
+Tillman has begun an evacuation and I'm declaring a major federal disaster
+and dispatching every possible resource. We don't have all the facts. You
+will have them as soon as we do but every level of government is working on
+this. No matter what happens, we're going to handle it.
+
+CUT TO: INT. - HOTEL ROOM - NIGHT
+WILLIAM D. MOSELEY HOTEL
+TAMPA, FLORIDA
+
+Helen and Santos are sitting on the couch watching the news reports about
+the accident. Also in the room are Josh, Donna, and Bram.
+
+ANCHOR
+So what they're doing is bypassing the broken valve and running a new pipeline
+to get cool water into that reactor so it doesn't meltdown. Federal officials
+believe they can avoid the worst, but I can tell you...
+
+DONNA
+I don't understand why they put a nuclear plant so close to a population
+center.
+
+SANTOS
+They're all near population centers. Otherwise, they'd lose too much power
+in transmission.
+
+DONNA
+So the whole idea is kind of crazy.
+
+SANTOS
+Kind of.
+
+HELEN
+You should give a big speech on that. Put out a whole new energy plan.
+
+BRAM
+Or point out that Vinick's plan glows in the dark.
+
+HELEN
+It's true. Vinick's for nuclear power. You fought against him for years.
+
+DONNA
+We can get every environmental group for a press conference.
+
+BRAM
+Skip Oregon, campaign along the evacuation route, give out bottled water.
+
+JOSH
+Can I talk to you?
+
+SANTOS
+Let me know when they get the pipeline to the core.
+
+He and Josh stand and walk out into the hallway.
+
+SANTOS
+Where's Leo?
+
+JOSH
+He's on a charter to Ohio. He's going to call in when he lands.
+
+SANTOS
+Get them to cool it on the political chatter. I don't want us holding rallies
+on the Hindenburg.
+
+JOSH
+Yeah. I'm going to cancel our events tomorrow. We can't be exploiting this.
+
+SANTOS
+Yeah.
+
+JOSH
+And I don't think we're going to have to. You're anti-nuclear. Vinick's got
+a long history on the other side. This is all upside for us. I say we go
+completely dark. Let the press go after Vinick on their own so they can't
+accuse us of playing politics.
+
+SANTOS
+I'm fine doing nothing on this issue.
+
+JOSH
+I mean nothing on any issue: no speeches, no press releases. We stay right
+here.
+
+SANTOS
+See which way the wind blows.
+
+JOSH
+And what's blowing in it.
+
+CUT TO: INT. - SITUATION ROOM - NIGHT
+10:28PM
+
+Bartlet walks into the room. Several people are already there.
+
+BARTLET
+Have we cooled down the reactor's core?
+
+C.J.
+The heat removal pump hasn't had much impact: a 20-degree drop but we're
+talking 700 degrees in there.
+
+HARRY
+Hang on. We've got a temporary coolant line to the core.
+
+There is a pause. Nobody says or does anything.
+
+BARTLET
+I don't see anyone popping champagne corks. I thought if we got a line in
+there we'd avoid a meltdown.
+
+FEMA DIRECTOR
+Radioactive steam is still gushing into the containment building. They had
+to start pumping it into the auxiliary building.
+
+BARTLET
+It wasn't designed to hold it.
+
+C.J.
+No. IT can accommodate up to 50 pounds of pressure per square inch. It's
+now at 34psi and rising. The coolant won't be enough to stop it. The fuel
+rods give off hydrogen gas.
+
+FEMA DIRECTOR
+Which is extremely explosive; if we get near maximum pressure levels...
+
+HARRY
+The containment building might be able to withstand that kind of a blast. The
+auxiliary building cannot.
+
+BARTLET
+So?
+
+HARRY
+Unless we fix the valve soon, we have to vent radioactive gas into the
+atmosphere to relieve the pressure.
+
+BARTLET
+How many people are still in San Andreo?
+
+FEMA DIRECTOR
+About 30,000.
+
+BARTLET
+I don't want to release any radiation until everyone's been evacuated. What's
+the alternative?
+HARRY
+An explosion that spreads radiation all over Southern California; maybe
+parts of Arizona and Nevada, sir.
+
+BARTLET
+How much would we have to vent?
+
+HARRY
+We think it will be within EPA's standard parameters for an acceptable dosage.
+
+FEMA DIRECTOR
+It's Santa Ana season in Southern California.
+
+C.J.
+Which could be good if the winds stay consistent; the radiation could drift
+out over the ocean.
+
+BARTLET
+How do we speed up the evacuation?
+
+C.J.
+Tell people we're about to spill radiation into the air, good chance it will
+speed it up.
+
+BARTLET
+How much time before we reach 50psi?
+
+HARRY
+Maybe an hour.
+
+BARTLET
+Who would give the order?
+
+HARRY
+We've taken charge of the plant, sir. That would be you.
+
+FADE OUT.
+END ACT ONE.
+* * *
+
+ACT TWO
+
+FADE IN: INT. - COMMUNICATIONS OFFICE - NIGHT
+10:41 PM
+
+Will is speaking with the spokespeople from several different agencies.
+
+WILL
+DOE, EPA, NOA... okay, let's get started. I wanted all the agency spokespeople
+in one place so we could... yes, Blyden?
+
+SPOKESPERSON BLYDEN
+Do you have an update for us?
+
+WILL
+Radioactive steam has been spilling into the containment building, so much
+that they've had to pump it into another building. The other building can
+only hold 50 pounds of pressure per inch. It's now at 38. We may have to
+vent radiation into the atmosphere to avoid a big bang.
+
+Those in the room start calling for Will's attention.
+
+WILL
+Guys, I don't have time to do this by Socratic Method. I called you all here
+because each of your agencies is going to be involved in this but no one,
+not a single one of you, is going to talk to the press. All right? No one.
+
+SPOKESPERSON #1
+I've got a call list ten pages long.
+
+WILL
+I can assure you, they've all called my office too. There will be one
+briefer: me.
+
+BLYDEN
+What if this turns out to be the administration's fault? We can't withhold
+information from the public.
+
+WILL
+We won't be withholding anything. We're trying to maintain calm; make it
+look like we know what we're doing, so there will be one voice: the dulcet
+tones of Will Bailey. Get your souvenir programs in the lobby.
+
+SPOKESPERSON #2
+What about political questions? Vinick's the pro-nuke guy. In the first
+debate...
+
+WILL
+There will be one briefer, and I won't be answering political questions.
+
+They again raise their hands for his attention.
+
+CUT TO: INT. - HALLWAY - WHITE HOUSE - NIGHT
+
+Bartlet and Kate are walking and talking as Bartlet heads toward the Sit Room.
+
+KATE
+It's almost morning in Kazakhstan, sir. The polls open in two hours.
+
+BARTLET
+Busy night for you.
+
+KATE
+It's always morning somewhere.
+
+BARTLET
+We have election monitors on the ground?
+
+KATE
+Through the OSCE. China needs to see this as a genuine democracy, not some
+Russian puppet government out to screw them out of their oil interests. China's
+got troops along the border. If they think it's a phony election rigged to
+protect the Russian-installed incumbent...
+
+BARTLET
+They cross the borders, so does Russia, and we have a war on our hands.
+
+KATE
+I'll have regular updates for you.
+
+Bartlet walks into the Sit Room and Kate walks away.
+
+BARTLET
+So, we're at 46psi?
+
+C.J.
+We don't have much time to relieve the pressure in that auxiliary building.
+
+BARTLET
+Where are we on the evacuation?
+
+C.J.
+Maybe a third of the people in the evacuation zone are out. At least 700,000
+in the region are pouring onto the freeway.
+
+BARTLET
+700,000?
+
+FEMA DIRECTOR
+That's a conservative estimate.
+
+C.J.
+Plus there aren't enough buses and vans to take care of at-risk populations:
+seniors, people with disabilities. The governor wants you to activate military
+support from Camp Pendleton.
+
+BARTLET
+So ordered. Do we have a direct line to the control room in San Andreo?
+
+HARRY
+The Superintendent for Operations is on now.
+
+C.J.
+We've got helicopters overhead to get an immediate reading to make sure
+we're within the acceptable dosage.
+
+BARTLET
+Which is?
+
+FEMA DIRECTOR
+500 milligrams.
+
+BARTLET
+Is there any way to wait for support from Camp Pendleton? I don't like the
+idea of the elderly and the disabled taking the brunt of this.
+
+HARRY
+The longer we wait, the more chance of an explosion and God knows how much
+radiation shooting into the atmosphere.
+
+BARTLET
+[pause] Vent it now.
+
+HARRY
+Open the stack.
+
+MAN [on phone]
+Opening auxiliary stack.
+
+BARTLET
+What do we mean by "acceptable dosage" anyway?
+
+HARRY
+It's the amount the body can safely absorb through direct exposure. But
+radiation also enters the surface layers of the soil where it's
+absorbed by plants and insects and enters the food supply. It seeps into
+water sources. When it does enter the body, sometimes it kills cells
+instantly. Sometimes it forms damaged cells.
+
+BARTLET
+Cancer?
+
+HARRY
+Yes, sir.
+
+MAN [on phone]
+Stack open; steady at 1200 reps.
+
+BARTLET
+1200?
+
+C.J.
+Inside the stack. Once it's in the air it'll disperse. Anything below 500
+and we're fine.
+
+FEMA DIRECTOR
+569 milligrams above the stack.
+
+BARTLET
+We have to announce the number.
+
+HARRY
+It'll make the evacuation 50 times harder.
+
+BARTLET
+Can we take another reading?
+
+FEMA DIRECTOR
+Steady at 561.
+
+BARTLET
+It's more than we consider safe. We have to let the people know.
+
+HARRY
+Anyone who's not on the freeway will be looking for an on-ramp.
+
+C.J.
+Make the freeway one-way.
+
+FEMA DIRECTOR
+No one feels comfortable making that choice. Santa Ana winds could shift at
+any time.
+
+BARTLET
+We're spilling radiation into the sky, people are jamming the freeways, and we
+don't know what direction they should drive? Tell Will to announce the number.
+
+C.J.
+Yes, sir.
+
+CUT TO: INT. - BRIEFING ROOM - NIGHT
+11:47 PM
+
+Will is briefing the press.
+
+FEMALE REPORTER
+So, you're saying the radiation release was at an unsafe level?
+
+WILL
+No, I'm saying it was slightly above EPA's standards for an acceptable dosage.
+
+MALE REPORTER
+The government believes it's safe?
+
+WILL
+I didn't say that. I'm just trying to state the facts.
+
+REPORTER WALTER
+An estimated 1 million people are fleeing Southern California. Isn't the
+President worried about public panic?
+
+WILL
+He's worried about public safety. He's urging those outside the evacuation
+zone to stay home so those in the zone can get out.
+
+FEMALE REPORTER
+Will, is the EPA going to brief on the levels of radiation?
+
+WILL
+I'm briefing, on that and everything else.
+
+FEMALE REPORTER
+What if we need more information?
+
+WILL
+Ask me and I'll get it.
+
+TIMES REPORTER
+Assistant Secretary Blyden at HHS says the weather agencies are worried the
+winds will shift, that people could be evacuating the wrong way.
+
+WILL
+Blyden said that?
+
+TIMES REPORTER
+Yes, that NOA and NERIC...
+
+WILL
+I'll get into it.
+
+He closes his folder and walks away from the podium.
+
+CUT TO: INT. - HOTEL HALLWAY - NIGHT
+
+Josh is walking through the hallway. He sees a TV which is showing footage
+from the debate, in which Vinick is defending nuclear power. Bram walks up.
+
+BRAM
+They're playing Vinick's debate clip a lot.
+
+JOSH
+Yeah, starting to. Yeah.
+
+BRAM
+Site Advance wants to know if we're scrubbing the whole Oregon trip.
+
+JOSH
+The Congressman doesn't want to politicize a tragedy.
+
+BRAM
+We don't want to do a press statement in the morning; a few interviews?
+
+JOSH
+No interviews, no statements; not from us, not from the DNC, not from anyone
+we control.
+
+BRAM
+We could make a lot of hay out of this. Vinick's the pro-nuke poster child.
+
+Donna walks up.
+
+JOSH
+No hay, no posters; the Oregon trip is off.
+
+DONNA
+You may want to hang on to your pitchfork.
+
+She shows him a folder.
+
+CUT TO: INT. - HOTEL ROOM - NIGHT
+
+Santos is on the phone.
+
+SANTOS
+I'm behind you on all this. ... All right, bye.
+
+He hangs up.
+
+HELEN
+How's the governor?
+
+SANTOS
+Nervous.
+
+HELEN
+I don't see why. Any angry constituents will just be vaporized anyway, right?
+
+He says nothing.
+
+HELEN
+Oh, am I the only one left in the family with a sense of humor?
+
+Josh walks in.
+
+SANTOS
+Anything new?
+
+JOSH
+How about something old?
+
+HELEN
+What is it?
+
+JOSH
+Vinick lobbied for federal approval for San Andreo 25 years ago.
+
+SANTOS
+When is this going to break?
+
+JOSH
+I don't know. The press is kind of preoccupied.
+
+HELEN
+We don't want to nudge them along?
+
+JOSH
+We could put it out, yeah. But then he could hit us back for playing
+politics with a mushroom cloud. If the press finds it on its own, it'll be
+900 times bigger.
+
+HELEN
+And what if they don't find it?
+
+JOSH
+They will.
+
+HELEN
+This isn't politics, this is policy. Those places are unsafe. It's a
+legitimate point.
+
+Santos hears something on the TV and walks toward it to hear it better.
+
+ANCHOR
+In New Mexico, in Arizona, in Colorado, people are getting in their cars and
+driving east. And while higher than acceptable levels of radiation drift
+into the air, the White House won't say if we're past risk of a meltdown
+or explosion.
+
+SANTOS
+Hide these under your mattress. For now.
+
+Josh gets up and leaves, taking the papers with him.
+
+CUT TO: INT. - HALLWAY - WHITE HOUSE - NIGHT
+12:21 AM
+
+Bartlet and C.J. are walking and talking.
+
+BARTLET
+I don't like hearing the word "meltdown" on cable news. 12 things have not
+gone wrong yet. By my count, we're barely at 6 or 7.
+
+C.J.
+They're still trying everything to fix the valves.
+
+BARTLET
+Who's they?
+
+C.J.
+Our engineers plus their engineers; lots of engineers.
+
+BARTLET
+Radioactive steam is going to build up in that damned auxiliary building again.
+
+They have walked into the Oval Office where Harry, the FEMA Director and
+others are waiting.
+
+HARRY
+11psi and climbing.
+
+WILL
+The more immediate concern is panic. The freeways are like parking lots. FOX
+is running a story about a family in Michigan that's leaving the country.
+
+BARTLET
+How soon can I visit San Andreo without diverting resources from the
+evacuation?
+
+FEMA DIRECTOR
+I could get FEMA's okay for you to travel tomorrow, assuming that the valves
+are fixed, but there's substantial risk...
+
+BARTLET
+Tell the press now I'm flying out tomorrow.
+
+HARRY
+Sir, steam is still building up. If we have to vent...
+
+BARTLET
+If people know I'm going, maybe they'll stop buying one-way tickets to Norway.
+
+C.J.
+What about Senator Vinick? It's his home state. We always invite the senators
+to join you for disaster trips.
+
+WILL
+Have we ever had a situation where one's a major-Party nominee?
+
+C.J.
+And if we take Vinick, do we take Santos? Maybe we're better off...
+
+BARTLET
+Vinick's senator from California; He's on the plane if he wants to be. Set
+up a call with Matt Santos.
+
+CUT TO: INT. - VINICK HQ - NIGHT
+1:02 AM
+
+Bruno and Bob are watching a news clip from the debate.
+
+BOB
+Fifth time this hour.
+
+They start walking.
+
+BOB
+You know how many press requests we've got?
+
+BRUNO
+A bunch.
+
+BOB
+Every network, every major newspaper, plus Japanese TV, Internet radio; there's
+probably requests from homing pigeons in here. We have to say something.
+
+BRUNO
+We support the governor's evacuation. We'll say it in Japanese.
+
+BOB
+The Senator, on camera; we have to give them fresh video or they keep running
+that debate clip. He should whack federal regulators.
+
+BRUNO
+Bob.
+
+BOB
+No, the regulations are too lax. It's practically scout's honor.
+
+BRUNO
+We're in a great big, glass house. We do not throw the first stone.
+
+BOB
+Okay, a moratorium on all new nuclear plant construction.
+
+BRUNO
+He cannot retreat from what he said in the debate.
+
+BOB
+They're killing us out there. And they still don't know our guy helped get
+that plant approved in the first place.
+
+BRUNO
+Bob. Bob, I know Josh Lyman. There is a reason he's camped out in Florida,
+the swinging-est of swing states. Santos is gonna whack us. Then we hit him
+back for politicizing a national disaster.
+
+BOB
+That's a big roll of the dice on one weak pair of knees.
+
+BRUNO
+Trust me. Josh has the political equivalent of Turret's Syndrome. He can't
+help himself.
+
+Bruno's phone starts ringing.
+
+BRUNO [cont.]
+We wait for his next spasm and then we strike back.
+
+He answers his phone.
+
+BRUNO [into phone]
+Yeah, Bruno. ... Yeah. [to Bob] C.J. [into phone] Yeah, I'll tell him.
+
+He hangs up.
+
+BRUNO
+The President wants the Senator to fly with him on Air Force One tomorrow
+to San Andreo.
+
+He walks away.
+
+CUT TO: INT. - OVAL OFFICE - NIGHT
+
+Bartlet is on the phone. Nancy is there.
+
+BARTLET
+Yes, Mr. Mayor, there's coolant running into the reactor now. ... Fingers
+crossed.
+
+He hangs up.
+
+BARTLET
+I thought a degree in economics was plenty for this job. My kingdom for a
+plumbing license.
+
+NANCY
+I have Matt Santos on the line.
+
+BARTLET
+Thanks.
+
+She leaves and Bartlet picks up the phone and starts talking to Santos.
+
+BARTLET
+Matt, you look great out there... when you're actually, you know, out there.
+
+CUT TO: INT. - HOTEL ROOM - CONTINUOUS
+
+Santos is on the phone with Bartlet. Helen is sitting, listening to Santos's
+end of the conversation.
+
+SANTOS
+Just holding tight, Mr. President. Praying for the people of San Andreo.
+
+CUT TO: INT. - OVAL OFFICE - CONTINUOUS
+
+BARTLET
+Matt, I'm taking Arnie Vinick to San Andreo.
+
+CUT TO: INT. - HOTEL ROOM - CONTINUOUS
+
+BARTLET [VO]
+I know this could help him politically.
+
+Santos sits, obviously taken aback by the news.
+
+SANTOS
+Yes, sir.
+
+BARTLET [VO]
+Senior Senator from California; if I do anything else, I'll be playing games
+with a national emergency.
+
+SANTOS
+Well, you have to do what you think is best.
+
+Helen looks over at this, looking concerned.
+
+BARTLET [VO]
+Keep me in your prayers too.
+
+SANTOS
+Yes, Mr. President, I will.
+
+CUT TO: INT. - OVAL OFFICE - CONTINUOUS
+
+BARTLET
+Thanks.
+
+He hangs up.
+
+CUT TO: INT. - HOTEL ROOM - CONTINUOUS
+
+Santos hangs up and looks at Helen as if he is upset.
+
+FADE OUT.
+END ACT TWO.
+* * *
+
+ACT THREE
+
+FADE IN: INT. - VINICK'S OFFICE - VINICK HQ - NIGHT
+
+Vinick, Bruno, and Bob are talking.
+
+BRUNO
+It's an enormous gift. Jed Bartlet is our radiation shied.
+
+BOB
+Now we're banking on a Democrat helping us.
+
+VINICK
+Is Santos coming?
+
+BRUNO
+No. Your state, not his.
+
+BOB
+What if news of your lobbying for San Andreo breaks while you're standing
+next to the President?
+
+BRUNO
+This is how we survive it.
+
+BOB
+Not if the story breaks while we're right there.
+
+BRUNO
+You don't get it; Santos is shut out of this trip. Josh has to attack us now.
+
+BOB
+Flying down there links us to the disaster and just hoping Josh's blood
+sugar spikes isn't any kind of...
+
+VINICK
+I represent the state. I'm taking that seat on Air Force One.
+
+CUT TO: INT. - OVAL OFFICE - NIGHT
+
+Bartlet is at his desk writing on some papers when C.J. knocks and comes in
+from her office.
+
+BARTLET
+What is it?
+
+C.J.
+The temporary pipeline that runs cool water to the core: it usually carries
+hot water, not cold.
+
+BARTLET
+Okay?
+
+C.J.
+Imagine heating a glass to 700 degrees and then pouring ice water in it.
+
+BARTLET
+The pipe's cracking.
+
+C.J.
+And the water level around the fuel rods is dropping again. They've tried
+everything to fix the valves from the control room. We have to send men into
+the containment building to fix them by hand.
+
+BARTLET
+I'm guessing the radiation in there is above the acceptable dosage.
+
+C.J.
+Five times more, even with anti-contamination gear.
+
+BARTLET
+Who would we be sending in?
+
+C.J.
+Two mechanical engineers from the Nuclear Regulatory Mission.
+
+BARTLET
+Civilian engineers? There isn't some military team, some Pentagon specialist
+we could deploy?
+
+C.J.
+This is their job, sir.
+
+BARTLET
+You think when they started engineering school, they imagined the President
+would ask them to risk their lives by prying open a piece of pipe? Send
+them in.
+
+She leaves and Bartlet sits back in his chair.
+
+CUT TO: INT. - BRIEFING ROOM - NIGHT
+1:15 AM
+
+Will walks into the room and up to the podium.
+
+WILL
+I have a couple announcements to make. The emergency secondary pipeline, the
+temporary line that is bringing cool water to the reactor's core, is cracking
+and degrading. Technicians are working to run new pipe, and NRC engineers
+will be entering the containment building to try to fix the valves manually.
+
+FEMALE REPORTER
+They must be taking an enormous risk just by walking in there.
+
+WILL
+It's a very dangerous work environment, but they're trained for it.
+
+WALTER
+Is more radioactive gas building up in the auxiliary structure?
+
+WILL
+We're hoping we can fix the underlying problem before that's an issue.
+
+WALTER
+You'd tell us if we were on the verge of an explosion?
+
+WILL
+I promised you the facts and you're going to get them.
+
+TIMES REPORTER
+The AP is saying these kind of mechanical problems show clear Regulatory
+failures on the part of the Bartlet administration.
+
+WILL
+There are lots of people who think they know what's going on. Let me tell
+you who does: he briefs from this podium.
+
+MALE REPORTER
+This isn't the Kremlin, Will. How do we know you're not covering something?
+
+WILL
+Second announcement: tomorrow morning, the President will travel to a command
+center outside the evacuation zone. He'll be accompanied by the California
+Congressional Delegation.
+
+FEMALE REPORTER
+He believes it's safe?
+
+WILL
+The immediate danger is inside the zone.
+
+WALTER
+Does this mean Senator Vinick's going?
+
+WILL
+He's a member of the California delegation.
+
+FEMALE REPORTER
+What about Congressman Santos?
+
+WILL
+No other delegations are going.
+
+The reporters start shouting for his attention. He closes his folder and
+walks off the stage.
+
+CUT TO: INT. - HALLWAY - OUTSIDE BRIEFING ROOM - CONTINUOUS
+
+Will has walked out of the briefing room. Blyden is waiting for him.
+
+BLYDEN
+Tough crowd in there.
+
+WILL
+You told Time we were worried about wind shifts?
+
+BLYDEN
+I got that from your office.
+
+WILL
+Which is why my office has taken you off the talking points distribution list.
+
+BLYDEN
+I need those to do my job.
+
+WILL
+Not anymore. You're being transferred. You no longer speak for this government.
+
+BLYDEN
+For telling people the truth?
+
+WILL
+For telling people something which can only cause further panic. It doesn't
+matter if it's true. It doesn't matter if I've already said it. We're
+trying to prevent mass hysteria in a climate in which even the truth can be
+misinterpreted, so we speak with one voice. You're lucky you still have a job.
+
+CUT TO: INT. - HALLWAY - HOTEL - NIGHT
+
+Donna is walking and walks past a group of reporters who try to get her
+attention.
+
+DONNA
+No comment.
+
+CUT TO: INT. - HOTEL ROOM - NIGHT
+
+We see Josh take a basketball and throw it at one of the dry-erase boards
+in the room. Donna walks in.
+
+DONNA
+I guess you've heard the President is taking Vinick to California.
+
+JOSH
+Yeah.
+
+DONNA
+It's his home state. There's a protocol to these things, right?
+
+JOSH
+Well, let's hope everyone uses the correct fork.
+
+DONNA
+It could hurt Vinick. He's flying into the fog.
+
+JOSH
+He gets to be statesmen, healer. And when is the press going to figure out
+he got the plant open.
+
+DONNA
+Cable news is still running the debate clip.
+
+Bram walks in.
+
+BRAM
+More press requests, plus...
+
+Josh takes some papers out of his hand.
+
+JOSH
+Denver, Colorado, DNC... these are all for me?
+
+BRAM
+Yeah. They're wondering why we're holed up in Florida instead of mobilizing
+the whole party to slam Vinick.
+
+JOSH
+Prevailing winds.
+
+BRAM
+Even the Advance guys are begging us to get off the dime.
+
+JOSH
+Tell Advance to stick to losing my luggage.
+
+BRAM
+Vinick's coasting toward his bipartisan buddy weekend with the President. The
+Advance guys are right: if we don't take him on...
+
+Josh is obviously upset and storms out of the room.
+
+CUT TO: INT. - HOTEL ROOM - SANTOS'S ROOM - NIGHT
+
+Josh walks in. Helen and Santos are watching the news.
+
+HELEN
+They just sent two engineers into the containment building. It's like putting
+them in a microwave set on high.
+
+JOSH
+We're getting a few press requests.
+
+SANTOS
+By a few, you mean...
+
+JOSH
+A million gajillion.
+
+SANTOS
+Okay, that's not a real number.
+
+JOSH
+I'm not talking radio for yonkers. Every morning show wants you for their
+lead segment. Every cable...
+
+SANTOS
+Are you changing your mind on this?
+
+JOSH
+I don't know. It's just, the second Vinick gets on Air Force One, the second
+he has Jed Bartlet's arm around him, it's like a mega dose of political
+penicillin.
+
+SANTOS
+One day with the President does not erase three decades of pushing plutonium.
+
+HELEN
+Josh is right: it gives Vinick a chance to absolve himself.
+
+JOSH
+If the press finds out he lobbied for San Andreo before he gets on that plane,
+there goes his get out of jail free card.
+
+SANTOS
+If we do anything, if our fingerprints are anywhere on that...
+
+JOSH
+Maybe we get a third party to do it.
+
+HELEN
+Why hasn't anyone linked Vinick to that plant?
+
+SANTOS
+Because they just sent two engineers into the containment building; the
+press are clogging the freeways to.
+
+JOSH
+If it comes out after that trip, after they become the Martin & Lewis of
+disaster management...
+
+Bram walks in.
+
+BRAM
+A couple of network presidents called; direct appeals to do their morning
+shows.
+
+SANTOS
+You were right four hours ago, you're still right now.
+
+CUT TO: INT. - CONFERENCE ROOM - VINICK HQ - NIGHT
+
+Bruno and Bob are looking at some weblogs for some sign of the report.
+
+BRUNO
+Nothing on Drudge, nothing on The Note, nothing on the wires; I don't know
+what Josh is waiting for.
+
+BOB
+The Senator has to say something on camera before he gets on that plane.
+
+BRUNO
+No he doesn't.
+
+BOB
+Sympathy for the region, sympathy for the Red Skins; I don't care what he
+says. You want that debate clip to air another 6,000 times?
+
+BRUNO
+Josh hits us, we call it bare-knuckled exploitation of a tragedy and we let
+the President do the heavy lifting.
+
+BOB
+The President?
+
+BRUNO
+Yeah. We get him to say it right there, in California, that accidents happen.
+
+BOB
+You think the President will defend us on nuclear power?
+
+BRUNO
+A nuclear disaster on his watch? He'll jump at the chance. He'll be defending
+himself too.
+
+CUT TO: INT. - SITUATION ROOM - NIGHT
+1:28 AM
+
+Bartlet, C.J., Harry, and FEMA Director are waiting around the phone as the
+engineers try to fix the problem.
+
+BARTLET
+Did you talk to the head of the Red Cross?
+
+C.J.
+20 minutes ago.
+
+BARTLET
+They need more potassium iodide in the shelters. FEMA can work it through HHS.
+
+C.J.
+We took care of it.
+
+MAN [on phone]
+Handcock's working. The valve is turning.
+
+BARTLET
+What happened?
+
+HARRY
+The engineers opened the coolant valve. Once they make sure there's no
+overflow, we can pull them out.
+
+FEMA DIRECTOR
+What about the relief valve? Radioactive steam is still pouring into the
+containment building.
+
+HARRY
+It's already been 17 minutes. I didn't want them in there any longer than
+15 minutes.
+
+FEMA DIRECTOR
+They shut the other valve, we're out of the woods.
+
+HARRY
+It'll take too long. This is an extremely toxic environment.
+
+C.J.
+If more gas spills out of that structure, so is most of Southern California.
+
+FEMA DIRECTOR
+Plus, they're already in there. You want to expose another team?
+
+BARTLET
+How much longer will it take?
+
+HARRY
+Five, maybe ten minutes.
+
+BARTLET
+Ask them to try and shut down the other valve.
+
+HARRY [into phone]
+Ask them to move onto the relief valve.
+
+Kate comes into the Sit Room.
+
+KATE
+Excuse me, Mr. President.
+
+Kate, C.J., and Bartlet go into the outer room.
+
+KATE
+Polls just closed in Kazakhstan. The Russian-installed incumbent...
+
+BARTLET
+Tarimov.
+
+KATE
+...he's been declared the winner.
+
+BARTLET
+Please tell me they counted the votes first.
+
+KATE
+Our election monitors are reporting wide-spread harassment: beatings, mass
+arrests of civic activists.
+
+BARTLET
+We barely got China to hold their troops by scheduling this election.
+
+Someone hands C.J. a note.
+
+BARTLET [cont.]
+This could lead to open hostilities.
+
+C.J.
+We've already got them: a pro-democracy riot's broken out in the Kazakh
+capitol.
+
+ENGINEER [on phone]
+There's a corrosion build-up on the valve stem. We're not getting enough
+torque.
+
+Bartlet looks between the two rooms, contemplating.
+
+CUT TO: INT. - VINICK'S OFFICE - VINNICK'S HQ - NIGHT
+
+Bruno walks into the office.
+
+VINICK
+They finally pulled out the engineers. 32 minutes and they couldn't stop
+the steam leak.
+
+BRUNO
+Did you see my memo about your press availability with the President tomorrow?
+
+VINICK
+Bob wants me to make a statement from the Capitol in the morning before we
+get on Air Force One.
+
+BRUNO
+Yeah. Senator...
+
+VINICK
+You want me to get the President accidents happen, that's fine. But Bob is
+right: I can't wait another seven hours to show my face in public.
+
+BRUNO
+You want to show your face and say what? You've been wrong your whole
+career? Nuclear is peachy keen while a million are on the run?
+
+VINICK
+This wasn't a failure of nuclear technology. This was a regulatory screw up.
+
+BRUNO
+You point fingers now and it will look like you are trying to avoid taking
+any responsibility for this.
+
+VINICK
+You know why Europe's greenhouse emissions are so much lower than ours? Nuclear
+power: it's totally emissions-free.
+
+BRUNO
+Sure, but...
+
+VINICK
+You know how many from oil refinery explosions? From coal soot in the air? Tens
+of thousands. And not one from a nuclear power anything in thirty years.
+
+BRUNO
+Okay, you're right. But that is still not the...
+
+VINICK
+Every time they show that debate clip it looks like I ran into that plant
+myself and spilt uranium on the floor.
+
+BRUNO
+Santos is going to hit us. You have to wait. That is how we change the story.
+
+VINICK
+I'm going to give the press some footage besides that debate clip.
+
+BRUNO
+I need you to keep your political hat on.
+
+VINICK
+31 states with nuclear plants; we don't know how many voters will be living
+in California on Election Day. My lobbying for San Andreo is out there
+like a ticking time bomb. We can't control the politics of this, not even
+close. I'll talk to the President about his speech, but I'm the senator from
+California and I'm going to make a statement before I get on that plane.
+
+CUT TO: INT. - OVAL OFFICE - NIGHT
+4:25 AM
+
+C.J. knocks and comes in from her office.
+
+C.J.
+Both the engineers who were in the containment building, they've been
+hospitalized for radiation sickness. One has slipped into a coma. Sir,
+they knew the danger better than us. You weren't wrong to...
+
+BARTLET
+No one ever told me their names.
+
+C.J.
+James Cook is the one in the... James Cook and Mark LaRoche. We'll get call
+sheets for the families. The pressure in the auxiliary building is up to
+28psi. You may need to authorize a second team to try to shut the valve
+manually. If you like, you can deputize the NRC Chair to make the call.
+
+BARTLET
+15 minutes and out.
+
+C.J.
+If they don't solve the problem...
+
+BARTLET
+15 minutes and out.
+
+C.J.
+Of course, but if they can't solve the problem, we may be looking at another
+venting of radiation and the Santa Anas don't stay consistent for long. If
+the sea winds push them north...
+
+BARTLET
+Call the governor. Make a contingency plan to widen the evacuation. And I
+want updated weather models every half hour.
+
+C.J.
+You weren't wrong to keep them in there, Mr. President.
+
+FADE OUT.
+END ACT THREE.
+* * *
+
+ACT FOUR
+
+FADE IN: INT. - SENATE PRESS ROOM - DAY
+6:49 AM
+
+Vinick is walking in to make his statement before he leaves for California. Bob
+walks in behind him to meet Bruno along the way. He stops and they start
+talking.
+
+BRUNO
+Still nothing from Santos?
+
+BOB
+No press advisories, they haven't reserved any rooms for press conferences.
+
+BRUNO
+Josh must be strapped to a gurney with a gag in his mouth. This is a mistake.
+
+Vinick has stepped to the podium and begins the statement.
+
+VINICK
+Good morning. We're all struck by the difficult events in San Andreo. I've
+been in constant touch with the governor's office and I hope, as we all do,
+that the evacuation is only a precaution.
+
+SENATE REPORTER
+Do you still support nuclear power?
+
+Bruno, on the side, whispers to himself.
+
+BRUNO
+Finish the statement.
+
+VINICK
+And I hope that the situation will be resolved quickly and safely.
+
+MARK
+Your family is in the region. Don't you question what you said in the debate?
+
+VINICK
+My family is not the issue.
+
+SENATE REPORTER
+You didn't answer the question. Are you still pro-nuclear?
+
+VINICK
+Nuclear power didn't break those valves. To blame nuclear technology itself
+for whatever mess happened... Federal Regulators are the ones who fell down
+on the job. You can start a fire with a match, too, you know.
+
+CUT TO: INT. - HOTEL ROOM - CONTINUOUS
+
+Santos, Helen, Josh, Donna, and Bram are watching the press release.
+
+REPORTER [on TV]
+You're suggesting this is the Bartlet Administration's fault?
+
+JOSH
+He just did.
+
+HELEN
+And he strapped himself to that reactor.
+
+VINICK [on TV]
+This isn't the time to point fingers. This is a time for national unity
+which is why the President and I are traveling to that region later this
+morning. Thank you.
+
+Santos leans back, terse about what's happening.
+
+CUT TO: INT. - SENATE PRESS ROOM - CONTINUOUS
+
+Vinick grabs his things and walks away from the podium.
+
+CUT TO: INT. - HOTEL - WAR ROOM - DAY
+
+Josh walks in and talks to Donna.
+
+JOSH
+The President is wheels-up in an hour.
+
+DONNA
+Tray tables and all.
+
+JOSH
+I want you to lead a couple of reporters to those documents about Vinick
+and San Andreo.
+
+DONNA
+I thought you didn't want our fingerprints on it.
+
+JOSH
+Just drop hints. Ask leading questions. Do it off the record.
+
+DONNA
+That's going to get out. You're the one who didn't want...
+
+JOSH
+Once the President bear hugs Vinick, the game is over.
+
+DONNA
+Does the Congressman know about this?
+
+JOSH
+Just go.
+
+DONNA
+Leading questions?
+
+JOSH
+Yeah, or we'll blow the biggest chance we have at winning this thing we're
+ever going to get.
+
+She nods and walks out of the room.
+
+CUT TO: INT. - HALLWAY - WHITE HOUSE - DAY
+
+Will is walking out and reporters are there to question him as he walks.
+
+WALTER
+Isn't Vinick right? How can this not be a failure of Bartlet's regulators?
+
+WILL
+We don't even know the cause of the accident. I'm not going to speculate.
+
+FEMALE REPORTER
+You can't deny that the NRC leaves tons of inspection procedures up to the
+plants themselves.
+
+WILL
+Five minutes until the motorcade leaves. I'll see you on the plane.
+
+Will walks out to meet C.J., who is on the phone.
+
+C.J. [into phone]
+I can't talk about the Armenian genocide. I know it's important, but it's
+non-binding. Right now I only have time for things that could spontaneously
+combust.
+
+She hangs up.
+
+C.J.
+You ready?
+
+WILL
+To fly into a massive cloud of radiation while the rest of the country's
+making hats out of tin foil?
+
+C.J.
+Yeah, that was more of a rhetorical question. You think we're flying into
+a massive cloud of radiation?
+
+WILL
+I was dramatizing a point. Maybe.
+
+CUT TO: INT. - LOBBY - HOTEL - DAY
+
+Donna steps out of the elevator and into the lobby where a few people are
+seated including a reporter who is typing on a computer. She walks over and
+sits next to the reporter.
+
+REPORTER
+I thought you weren't talking to the press today.
+
+DONNA
+I was wondering if I could interest you in a little mumbling and whispering.
+
+REPORTER
+Biggest political story in six months - I don't care if you start humming
+off-key.
+
+DONNA
+You think this is the biggest...
+
+REPORTER
+Vinick's lobbying for that San Andreo plant? Make your quote good, it'll be
+front page, column six.
+
+DONNA
+Yeah, sorry. Not talking to the press today.
+
+She gets up and leaves.
+
+CUT TO: INT. - BARTLET'S OFFICE - AIR FORCE ONE - DAY
+8:15 AM
+
+Bartlet is seated, looking over some papers. C.J. knocks and comes in.
+
+C.J.
+Excuse me, Mr. President. Senator Vinick has asked for a moment.
+
+BARTLET
+Sure.
+
+C.J. walks out and shows Vinick in.
+
+VINICK
+Mr. President.
+
+BARTLET
+Arnie.
+
+VINICK
+Thanks for bringing me along.
+
+BARTLET
+Standard protocol.
+
+VINICK
+Well, I appreciate it. I thought we might want to coordinate our statements
+for the press availability.
+
+BARTLET
+You're expecting me to bash myself, too?
+
+VINICK
+That wasn't aimed at you.
+
+BARTLET
+Federal regulators? I think a few of them work for me.
+
+VINICK
+Due respect, two broken valves and a radiation leak say some of them should
+look for other work.
+
+BARTLET
+Where's your bill to improve federal oversight? Senate leader on the issue,
+let's have your bill. I'll sign it now.
+
+VINICK
+You've had eight years to do something about it.
+
+BARTLET
+You've had 25.
+
+VINICK
+I'm not the one who manages it. Nuclear power itself is safe.
+
+BARTLET
+Take a nuclear reaction 20 times more powerful than Hiroshima, run it through
+a power plant every day near families; what management would negate the risk?
+
+VINICK
+Risk is everywhere. People get into car accidents.
+
+BARTLET
+And when they do, they don't tell you to stop eating produce three states away.
+
+VINICK
+What's your answer? Solar? One-fifth of one percent of all our energy at
+five times the cost. Wind? Another spike in OPEC prices. Nuclear is the
+only alternative.
+
+BARTLET
+It is not and alternative. I know the Regulation's a mess. No regulation
+could make it safe. We could barely evacuate a town...
+
+C.J. knocks and comes in.
+
+C.J.
+Forgive me, Mr. President. The second team has closed the relief valve. The
+crisis is over for now. But the engineer who had fallen into the coma, he
+died 20 minutes ago from acute radiation poisoning. We'll get you another
+call sheet.
+
+BARTLET
+Two copies of that call sheet.
+
+She leaves.
+
+CUT TO: INT. - VINICK HQ - DAY
+
+Bruno and Bob are watching as a news story tells of Vinick's involvement in
+the plant's opening.
+
+ANCHOR
+The Vinick campaign can't be happy with the Post's online scoop. Documents
+showing that Vinick was a strong and early supporter of the San Andreo plant...
+
+CUT TO: INT. - HOTEL WAR ROOM - DAY
+
+Donna walks into the room where Santos staffers are watching a similar report.
+
+MALE ANCHOR
+... that now symbolizes more than anything since Three Mile Island or
+Chernobyl, the cost and perils of nuclear power in the United States.
+
+CUT TO: INT. - BARTLET'S OFFICE - AF1 - DAY
+
+Bartlet and C.J. are talking.
+
+C.J.
+You might get some questions as you deplane. Apparently, Senator Vinick was
+involved in the original Federal approval of the San Andreo plant.
+
+BARTLET
+Are you sure it's safe to take everyone out there?
+
+C.J.
+According to the EPA, the remaining radiation is within the acceptable dosage.
+
+BARTLET
+You're too young to remember Duck and Cover.
+
+They begin walking.
+
+C.J.
+Sir?
+
+BARTLET
+We'd hide under our little wooden desks at school. At some point they
+stopped the drills. The threat was still there - they just stopped having
+the drills. I guess the realized a piece of plywood wasn't going to protect
+us against an atomic blast.
+
+They meet Kate and start talking of Kazakhstan.
+
+BARTLET
+Kazakhstan?
+
+KATE
+Newly elected governments killed 114 protestors. China is crossing the border
+into ethnic Chinese enclaves. Russian troops are ready to enter as well.
+
+BARTLET
+We can't have China and Russia blowing each other to bits over election fraud.
+
+C.J.
+No, oil, really. Fraud's just the kicker.
+
+Will walks up.
+
+WILL
+The governor's waiting in the motorcade.
+
+KATE
+We've canvassed the other nations to see if there's an appetite for and
+international police force. They've made clear it'd have to be predominately
+U.S. troops operating from our bases.
+
+BARTLET
+How many would I have to send?
+
+KATE
+Seems the estimate is 90,000, for starters.
+
+CUT TO: INT. - SANTOS'S HOTEL ROOM - DAY
+
+Santos, Helen, Josh, and Bram are watching Bartlet on the news.
+
+BARTLET
+Based on federal safety standards, evacuated residents will be allowed to
+return. But we don't know the full effects of radiation releases. We may not
+know for months, maybe even years. And we have to be candid about that. And so,
+while we continue monitoring and testing, we will also help with the relocation
+of those residents who may not wish to return to San Andreo. Thank you.
+
+As Bartlet finishes, someone shuts off the set.
+
+CUT TO: INT. - PRESS ROOM - HOTEL - DAY
+
+Donna walks Santos into the press room and to the podium.
+
+SANTOS
+We're all relieved the worst is over. My thoughts and prayers are with the
+family of James Cook, the federal engineer who gave his life to save others.
+
+REPORTER
+Should this make Senator Vinick question his energy plans for the country?
+
+SANTOS
+I can't speak for anyone else. It makes me question a lot about our energy
+plans. Thank you.
+
+CUT TO: INT. - CONFERENCE ROOM - VINICK HQ - NIGHT
+8:24 PM
+
+Bob is at one of the electoral boards. He is moving red magnets out of states,
+until a large portion of the board is white. They are listening to a news
+story in the background.
+
+ANCHOR
+More than a dozen states that had been squarely in the Vinick column,
+including Florida, Ohio, South Carolina, his own state California - all the
+states with nuclear power plants are now within the margin of error. It's
+a political meltdown, for sure. The Santos campaign is declining comment,
+but they've been flooded with volunteers and donations since the news that
+Senator Vinick lobbied for the San Andreo nuclear generating station.
+
+CUT TO: INT. - WAR ROOM - NIGHT
+
+Santos, Helen, Josh, and Donna are standing around a similar electoral
+board. This one shows as much white as Vinick's did. Bram walks in.
+
+BRAM
+Advance wants to know if we're...
+
+JOSH
+We're taking tomorrow off too. It's going to be wall-to-wall press on this.
+
+HELEN
+All that campaigning didn't do a thing.
+
+DONNA
+At this rate, maybe we should take the whole month off.
+
+Josh walks to the board and picks up a dry erase marker. He writes above
+the map: "TOO CLOSE TO CALL." He underlines it.
+
+DISSOLVE TO: END TITLES.
+FADE TO BLACK.
+THE END.
+* * *
+
+The West Wing episode 7.12 "Duck and Cover", original air date 22 January,
+2006.

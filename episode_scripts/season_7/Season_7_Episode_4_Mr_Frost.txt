@@ -1,0 +1,2794 @@
+Season 7 – Episode 4 – “Mr. Frost”
+
+Post author:chris
+Post published:April 12, 2014
+Post category:Season 7 / The Show
+
+Episode Summary:
+
+As Margaret testifies before the Senate committee on the NASA leak (and as many other staffers receive subpoenas), a Palestinian leader backed by the U.S. is assassinated, and Bartlet is determined to attend the furneral, despite security concerns. Meanwhile, Santos gives a flip answer to a reporter’s question about intelligent design, and the resulting firestorm bothers Josh a lot more than it bothers either Lou (Janeane Garofalo) or Santos.
+
+Script:
+
+THE WEST WING
+7x04 - "MR. FROST"
+WRITTEN BY ALEX GRAVES
+DIRECTED BY ANDREW BERNSTEIN
+
+Transcribed by Soundman for www.twiztv.com. Send feedback to
+sparticus1611@hotmail.com.
+
+TEASER
+
+FADE IN: INT. - SENATE HEARING ROOM - DAY
+82 DAYS UNTIL ELECTION DAY
+
+Margaret is testifying before the Senate Select Committee on Intelligence.
+
+CHAIRMAN
+Good morning. This is an inquiry by the Senate Select Committee
+on Intelligence. This is the 14th closed hearing by this committee as
+we conduct our joint inquiry into the disclosure of classified, national
+security information to the press. Will the witness please stand and raise
+your right hand to take the oath?
+
+Margaret stands.
+
+CHAIRMAN
+Do you solemnly swear that the testimony that you give will be the truth,
+the whole truth, and nothing but the truth?
+
+MARGARET
+I do.
+
+CHAIRMAN
+Senator Dresden, you may proceed.
+
+She sits.
+
+SENATOR DRESDEN
+Ms. Hooper, good morning. Thank you for joining us. You are White House
+Chief of Staff Claudia Jean Cregg's Executive assistant; is that correct?
+
+MARGARET
+Yes, sir.
+
+DRESDEN
+And you are responsible for connecting all calls from both outside and inside
+the White House to the Chief of Staff through your office line?
+
+MARGARET
+Yes, sir.
+
+DRESDEN
+I assume you are aware of the White House archiving system known as ARMS?
+
+MARGARET
+I am.
+
+Dresden begins passing her several folders and documents.
+
+DRESDEN
+This committee has subpoenaed copies of the electronic material that passed
+through the office of Chief of Staff between December 30 and July 14 of this
+year. In total, the search included 19 segments of the ARMS database. Separate
+subpoenas were served to include the use of e-mails from both interoffice
+hard drives to the individual servers of Blackberry and various other devices
+of an electronic nature. Did you need a glass of water?
+
+MARGARET
+I'm fine.
+
+DRESDEN
+Can we get her a glass of water, please?
+
+AIDE
+Yes, sir.
+
+DRESDEN
+You're aware of an article in The New York Times on July 14 of this year,
+claiming the existence of a top secret military space shuttle?
+
+MARGARET
+Yes, sir, I am.
+
+DRESDEN
+And you're aware the reporter responsible for the article's contents is
+Greg Brock, who has been jailed for refusing to reveal his source of the
+information?
+
+The aide brings her some water.
+
+MARGARET
+Yes.
+
+DRESDEN
+Am I correct in noting that Mr. Brock appears on Ms. Cregg's interoffice
+phone log between 2 and 14 times a week in the six months before June 30? Does
+that sound accurate?
+
+MARGARET
+Yes, sir.
+
+DRESDEN
+On June 27, you received a call on your main office line from Mr. Brock's
+cell phone at 7:27 am. Is that correct?
+
+She looks through one of the files in front of her.
+
+MARGARET
+Yes, sir.
+
+DRESDEN
+What can you tell us about the nature of that call?
+
+MARGARET
+I wasn't in the room with Ms. Cregg at the time of call so I can't say what
+she and Mr. Brock spoke about.
+
+DRESDEN
+You can't say?
+
+MARGARET
+I mean, I don't know.
+
+DRESDEN
+Well, Mr. Brock called again at 1:29, and then again at 2:20 that same
+afternoon. On the first call, you then patched it through to Ms. Cregg on
+her Blackberry. Is that correct?
+
+MARGARET
+That's correct.
+
+DRESDEN
+Am I correct in noting that the calls that come through your phone can be
+monitored by the person manning your phone after they've been connected to
+their designated line? I would remind you that you're under oath.
+
+MARGARET
+Yes, sir.
+
+DRESDEN
+So you were capable of monitoring Ms. Cregg's phone calls, private and
+otherwise?
+
+MARGARET
+Yes, sir.
+
+DRESDEN
+So let me start by asking you, did you ever monitor any phone conversations
+between Ms. Cregg and Mr. Brock?
+
+SMASH CUT TO: MAIN TITLES.
+END TEASER.
+* * *
+
+ACT ONE
+
+FADE IN: EXT. - CAMPAIGN SITE - DAY
+UNNIVERSITY OF PENNSYLVANIA
+FRIDAY
+
+Santos is giving a stump speech. The crowd is cheering. Leo is among those
+seated on stage.
+
+SANTOS
+How long can we generate a third of this world's economic output if a third
+of our students don't even meet the most basic reading levels. How long can
+we stay number one in high-tech jobs if we are declining in the percentage
+of bachelor's degrees.
+
+Josh and Lou are off to the side and they are talking. Annabeth is on
+the phone.
+
+LOU
+So, what are you saying?
+
+JOSH
+They couldn't get Creationism into classrooms because it violates the
+separation of church and state.
+
+LOU
+They're going to run into the same roadblock with Intelligent Design.
+
+JOSH
+The local Board of Education just held hearings on why Intelligent Design
+should be taught in classrooms alongside evolution, so local reporters are
+going to want to talk about it.
+
+LOU
+So, the state Board of Education has a problem with the Constitution?
+
+JOSH
+The majority of the Board was taken over by Evangelical Christians in the
+last election.
+
+ANNABETH
+Vinick's on his way to Atlanta. He's still hammering us on border issues.
+
+Ned walks up and hands out some papers.
+
+NED
+It looks like the togetherness tour is working.
+
+ANNABETH
+Hmm. The Washington Post calls the Santos/McGarry road-show an effective
+blend of energy and experience.
+
+JOSH
+The L.A. Times said Leo actually looked lifelike.
+
+ANNABETH
+The Post Dispatch calls our "Education Week" "Boring Week."
+
+SANTOS
+When we are talking about education, we're talking about our most precious
+resource: our children. Ladies and gentlemen, we must find better ways...
+
+CUT TO: INT. - WHITE HOUSE - HALLWAY - DAY
+
+Toby and Charlie are walking.
+
+TOBY
+Good morning.
+
+CHARLIE
+You owe me money.
+
+TOBY
+I'm working.
+
+CHARLIE
+I'm just saying...
+
+TOBY
+We're talking about a guy with a career 2.37 ERA.
+
+CHARLIE
+I am.
+
+TOBY
+He had a 0.98 ERA going into the break; went 21 straight without blowing
+one save.
+
+CHARLIE
+And last night's game makes it an even 50 bucks.
+
+TOBY
+I'm working.
+
+CHARLIE
+So am I. C.J. was up all night.
+
+TOBY
+Any word from Margaret?
+
+CHARLIE
+She's up on the Hill testifying; she'll be back in about an hour.
+
+TOBY
+When do you go up?
+
+CHARLIE
+Tomorrow. You?
+
+TOBY
+Tuesday.
+
+C.J. walks up.
+
+C.J.
+Hi. What are you guys talking about?
+
+Toby and Charlie answer simultaneously.
+
+TOBY
+Nothing.
+
+CHARLIE
+Baseball.
+
+C.J.
+Get that coffee away from me.
+
+TOBY
+You were here all night again?
+
+C.J.
+Omnibus intellectual property bill; limited infringement benefits for good
+faith uses; third-party participation for patent exemptions; ain't we got fun?
+
+TOBY
+You're talking very fast.
+
+C.J.
+Don't you owe Charlie money?
+
+TOBY
+We're talking about a guy with a career 2.37 ERA.
+
+C.J.
+Shoo.
+
+TOBY
+Shooing.
+
+C.J.
+I need less coffee and more sleep. What's up?
+
+CHARLIE
+They were out of soy. I got the caramel thing with double whip.
+
+C.J.
+You know what I'm talking about.
+
+CHARLIE
+Toby got served yesterday.
+
+C.J.
+How many people around here have subpoenas?
+
+CHARLIE
+Lots.
+
+C.J.
+Lots.
+
+CHARLIE
+We've got trouble.
+
+C.J.
+Trouble with a capital "T," and that rhymes with "P," and that stands for pool.
+
+CHARLIE
+You need to go home and get some rest.
+
+C.J.
+I just need a little power nap.
+
+CHARLIE
+How about half an hour; no people, no calls?
+
+C.J.
+Oh, jeez. I forgot to call Leo.
+
+CHARLIE
+About what?
+
+C.J.
+Don't ask.
+
+CUT TO: EXT. - CAMPAIGN - DAY
+
+Santos is still speaking.
+
+SANTOS
+Our economy is changing. We are in an information revolution and nearly 60%
+of companies say that they face...
+
+We pan over to the side of the stage where Josh, Lou, Annabeth, and Ned
+are talking.
+
+LOU
+When are we going to DC?
+
+ANNABETH
+Two hours.
+
+Josh notices Leo looking at his watch.
+
+JOSH
+He's doing it again.
+
+ANNABETH
+I'm on it.
+
+SANTOS
+Should we just throw up our hands and do nothing?
+
+CROWD
+No!
+
+SANTOS
+I can't hear you!
+
+CROWD
+No!
+
+SANTOS
+Don't we want those jobs here, in America?
+
+CROWD
+Yes!
+
+SANTOS
+Do we really want them to go to India and China where they have the skills
+at a quarter of the cost?
+
+CROWD
+No!
+
+SANTOS
+What?!
+
+CROWD
+No!
+
+SANTOS
+Let this be a call to action to all of us today so that we can make sure that
+all students, all teachers, all schools have the support that they need to
+meet the highest possible standards for our children's brightest possible
+future. Thank you all for coming today.
+
+The crowd begins cheering and applauding. Leo is among the first to stand
+on the platform and applaud.
+
+JOSH
+Whoo!
+
+Santos walks off stage and Josh starts talking to him.
+
+JOSH
+Vinick's on his way to Atlanta for a lunch with the Chamber of Commerce.
+
+SANTOS
+Is he still hammering me on border issues?
+
+LOU
+Jack-hammering.
+
+JOSH
+Either way, it's Education Week. We stay on message.
+
+SANTOS
+I'm getting a lot of questions on Intelligent Design.
+
+JOSH
+That's a local issue. We stay on message, we stay in control.
+
+Santos walks off. We see Annabeth walk over to Leo.
+
+ANNABETH
+Give me your watch.
+
+LEO
+I wasn't...
+
+ANNABETH
+People don't think you like the speech.
+
+LEO
+I like the speech, but I'm getting it five times a day.
+
+ANNABETH
+We didn't put you up here for your own entertainment, Leo.
+
+LEO
+Is someone on the phone?
+
+ANNABETH
+C.J.
+
+LEO
+Give me the phone.
+
+ANNABETH
+Give me the watch.
+
+LEO
+Oh, for the love of...
+
+ANNABETH
+Give me the watch.
+
+He gives her the watch.
+
+LEO
+You're not a tall person.
+
+ANNABETH
+And I think you're fabulous.
+
+She gives him the phone.
+
+LEO
+Help me, God, please.
+
+CUT TO: INT. - C.J.'S OFFICE - CONTINUOUS
+
+C.J. is on speakerphone with Leo.
+
+C.J.
+How's Education Week going?
+
+CUT TO: EXT. - CAMPAIGN - CONTINUOUS
+
+LEO
+"How long can we stay number one in high-tech jobs if we lag behind in the
+percentage of bachelor's degrees and graduate degrees in science?"
+
+CUT TO: INT. - C.J.'S OFFICE - CONTINUOUS
+
+Charlie comes in.
+
+C.J.
+Sounds like a real hoot. Listen, I got a call from the Vinick campaign.
+
+LEO
+About?
+
+C.J.
+Apparently he had an analyst go off on a situation in Kazakhstan in his
+daily CIA briefing.
+
+CUT TO: EXT. - CAMPAIGN - CONTINUOUS
+
+LEO
+Do we have a situation in Kazakhstan?
+
+CUT TO: INT. - C.J.'S OFFICE - CONTINUOUS
+
+C.J.
+Nothing worth telling you guys about.
+
+CUT TO: EXT. - CAMPAIGN - CONTINUOUS
+
+LEO
+Have you asked Kate or Nancy about it?
+
+C.J. [VO]
+Vinick wants a new briefer.
+
+CUT TO: INT. - C.J.'S OFFICE - CONTINUOUS
+
+C.J. [cont.]
+He says the guy wouldn't shut up. Have you or Santos had anything come up
+and your briefings?
+
+LEO [VO]
+Not that I'm aware of.
+
+CUT TO: EXT. - CAMPAIGN - CONTINUOUS
+
+LEO [cont.]
+I got served.
+
+CUT TO: INT. - C.J.'S OFFICE - CONTINUOUS
+
+C.J. picks up the receiver of the phone.
+
+C.J.
+Out there?
+
+CUT TO: EXT. - CAMPAIGN - CONTINUOUS
+
+LEO
+What can I tell you? They're handing these things out at the Dairy Queen.
+
+CUT TO: INT. - C.J.'S OFFICE - CONTINUOUS
+
+C.J.
+Leo, the press...
+
+CUT TO: EXT. - CAMPAIGN - CONTINUOUS
+
+LEO
+Yeah.
+
+C.J.
+They're going to have a field day.
+
+CUT TO: INT. - C.J.'S OFFICE - CONTINUOUS
+
+C.J.
+Have you gotten a lawyer?
+
+LEO [VO]
+You don't need a lawyer...
+
+CUT TO: EXT. - CAMPAIGN - CONTINUOUS
+
+LEO [cont.]
+... if you haven't done anything wrong.
+
+CUT TO: INT. - C.J.'S OFFICE - CONTINUOUS
+
+C.J.
+Yeah.
+
+C.J.'s cell phone starts ringing. Charlie comes in.
+
+CHARLIE
+C.J., I have Kate Harper.
+
+C.J.
+What line?
+
+Kate comes in and grabs the remote off of C.J.'s desk.
+
+KATE
+We're getting fragmented reports, but they're confirming a suicide bombing.
+
+She turns the TV on to a report about a suicide bombing.
+
+REPORTER [on TV]
+Reports are still not clear on how close the bomber was to the Chairman,
+but we can confirm that Palestinian Leader Farad has been the victim of a
+suicide bombing.
+
+LEO [VO]
+C.J., you there?
+
+C.J.
+
+Leo.
+
+LEO [VO]
+Yeah?
+
+REPORTER [on TV]
+... no word yet on whether Farad is dead or alive.
+
+C.J.
+Find a television.
+
+CUT TO: INT. - SITUATION ROOM - DAY
+
+Bartlet comes in and the people around the table come to attention.
+
+BARTLET
+Go ahead. Please.
+
+They sit as Kate begins.
+
+KATE
+At 9:33 Jerusalem time, Palestinian Chairman Farad was on his way back from
+speaking at a University in the West Bank when a vehicle charged his motorcade
+and exploded. Several students were killed and Farad was injured. He's been
+rushed to Augusta Victoria Hospital on the Mount of Olives. So far, we're
+unclear on the extent of his injuries, but we have confirmed that most of
+his security detail was killed.
+
+BARTLET
+Has anyone claimed responsibility?
+
+KATE
+Not yet.
+
+BARTLET
+Do we have Commander Perkins?
+
+C.J.
+On speaker.
+
+BARTLET
+Warren, have we heard from the Israelis?
+
+COMMANDER PERKINS
+Not yet, Mr. President.
+
+BARTLET
+Who sent the bomber?
+
+KATE
+It's too soon to tell.
+
+HUTCHINSON
+Smart money is on Hamas or Islamic Jihad.
+
+KATE
+Our real concern is whether this is part of a larger scheme, backed by Syria
+or Iran.
+
+SLATTERY
+Iran and Syria are interested in the status quo.
+
+KATE
+They don't want our peacekeeping mission to succeed. They need the Palestinian
+problem to keep their own people interested in the West.
+
+C.J.
+Who's in charge with Farad injured?
+
+KATE
+The Speaker of the Palestinian House of Representatives assumes the
+presidency. The constitution calls for an election in 60 days to fill the post.
+
+BARTLET
+Prime Minister Mukarat would win any popular election.
+
+C.J.
+Unless Hamas wants to exploit the situation.
+
+HUTCHINSON
+We don't want fighting to break out between Hamas and the Palestinian
+security forces.
+
+SLATTERY
+That could be a prelude to civil war.
+
+C.J.
+With our peacekeepers caught in the crossfire.
+
+Kate has gone to a phone on the wall. She hangs it up and comes back to
+the table.
+
+KATE
+Chairman Farad died five minutes ago.
+
+Bartlet stands and everyone else does too.
+
+BARTLET
+We need to do everything in our power to help the Palestinians hold this
+together.
+
+He heads out of the room. He gets to the door that would lead out into the
+basement but he turns, as if to head back into the Sit Room. Before getting
+there, he turns again and sits down in one of the chairs. Almost immediately
+after sitting, he gets up and walks out. He hits his fist on the door as
+he does.
+
+CUT TO: EXT. - BUILDING - DAY
+
+Santos is walking up to prepare for the next event. Josh comes to speak to
+him. Ned and Lou are with Santos.
+
+JOSH
+The press is waiting. Here's a draft of your Farad speech.
+
+SANTOS
+I know what I'm going to say, Josh. What do we know?
+
+LEO
+Farad's dead. Suicide bombing.
+
+SANTOS
+Mukarat?
+
+LEO
+The President's trying to rally support.
+
+SANTOS
+And the Israelis?
+
+LEO
+Zahavy will tighten security, close their checkpoints...
+
+SANTOS
+If the Israelis reenter those territories...
+
+JOSH
+There'll be a special briefing for both of you in about an hour.
+
+SANTOS
+Vinick's responding?
+
+JOSH
+In a couple of minutes.
+
+LOU
+This funeral's going to blow us out of the water.
+
+JOSH
+This wasn't exactly a popular guy.
+
+SANTOS
+Bartlet has to make this funeral a major event if he wants to hold the peace.
+
+LOU
+We've got about two or three days until the campaign shuts down.
+
+NED
+Maybe we should shut down tomorrow.
+
+LOU
+Are you out of your mind?
+
+NED
+Out of respect.
+
+LOU
+This is a national campaign, Ted.
+
+NED
+My name is...
+
+LOU
+Vinick's not going to take two minutes out of...
+
+JOSH
+Guys, come on.
+
+SANTOS
+I want to call the President; offer my condolences. I know that he and Farad
+we're close.
+
+LEO
+We'll make sure we have time for that after your statement to the press.
+
+JOSH
+This is a pit stop; no stray questions.
+
+SANTOS
+Got it.
+
+NED
+Can you take a call from headquarters?
+
+LOU
+Sure. I'll catch up.
+
+JOSH
+His name is Ned.
+
+LOU
+What?
+
+JOSH
+Ted. His name's actually Ned.
+
+LOU
+I don't like head. Hello.
+
+CUT TO: EXT. - WALKWAY - DAY
+
+The press is lined up and waiting to hear from Santos.
+
+REPORTER #1
+Congressman, can you respond to Chairman Farad's death?
+
+SANTOS
+"Those souls are great who, dying, gave a gift of greater life to man. Death
+stands abashed before the brave. They own a life death cannot ban." My
+thoughts are with Chairman Farad's family and to all who share the dream of
+peace throughout the world.
+
+REPORTER #2
+Congressman, will you be attending the funeral?
+
+SANTOS
+We've only just received the news.
+
+REPORTER #3
+Congressman, you're aware that this state's Board of Education is questioning
+the teaching of evolution?
+
+SANTOS
+That's a state matter and I don't think this is the right time. Thank you.
+
+He turns to leave.
+
+REPORTER #3
+Congressman, can you tell us if you believe in Intelligent Design.
+
+SANTOS
+I believe in God, and I like to think he's intelligent.
+
+REPORTER #2
+Does that mean you think it should be taught in schools, Congressman?
+
+He leaves.
+
+REPORTER #2
+Does that mean you don't believe in evolution? Josh, can we get a follow-up
+question, please?
+
+Josh and Lou look worried at what Santos has just said.
+
+ADE OUT.
+END ACT ONE.
+* * *
+
+ACT TWO
+
+FADE IN: EXT. - BUILDING - DAY
+
+Josh, Leo, and Lou, Annabeth, and Ned are walking back from the press event.
+
+JOSH
+It was a gaffe.
+
+LOU
+It was not.
+
+JOSH
+It was worse than that; it was a God Gaffe.
+
+LEO
+Can we please not call it that?
+
+JOSH
+He said he believed in Intelligent Design.
+
+LOU
+That's not what he said.
+
+JOSH
+Well, he didn't say he didn't.
+
+LOU
+He didn't say he did.
+
+JOSH
+It's Creationism with a Groucho mask.
+
+LOU
+It isn't. It deviates enough from the bible to say that the Earth is, indeed,
+over six thousand years.
+
+JOSH
+Zippity-do-dah.
+
+LOU
+And it doesn't say that God created everything, but perhaps an intelligent
+designer was behind it.
+
+JOSH
+When asked if he believes in Intelligent Design he says, "I believe in
+God." That sounds like a yes. It sounds like he wants the bible taught in
+biology class, which, of course...
+
+LOU
+He doesn't.
+
+JOSH
+He got pulled off message, which means that we are off message, which means
+that we're out of control.
+
+LOU
+You're right.
+
+JOSH
+Thank you. We have issue a clarifying statement.
+
+Ronna walks up.
+
+RONNA
+Josh, the phones are ringing off the hook at headquarters.
+
+LEO
+How many Congressional?
+
+RONNA
+15. Half of our base is on the list; ACLU, NARAL, teacher's unions...
+
+LOU
+Hey, hey, hey. Were there any positive phone calls?
+
+RONNA
+A couple, but most of them think that he's either pandering or worse.
+
+JOSH
+Or that he believes in Intelligent Design.
+
+LEO
+Does anybody have the time?
+
+Josh and Ned both look at their watches.
+
+JOSH
+It's, uh, 10:20.
+
+ANNABETH
+Leo, we've got a plane to catch. Goodbye, everybody.
+
+LEO
+The woman stole my watch. You got a minute?
+
+They walk off to the side to talk.
+
+LEO
+I got served. They want me to appear on Monday.
+
+JOSH
+Before Congress?
+
+LEO
+Yeah.
+
+ANNABETH
+Leo.
+
+LEO
+I'll call you from the plane.
+
+Josh looks worried as Leo walks off.
+
+CUT TO: INT. - WHITE HOUSE - HALLWAY - DAY
+
+Kate and C.J. are walking.
+
+KATE
+What time is Prime Minister Zahavy calling?
+
+C.J.
+The President's waiting in the Oval now.
+
+Charlie is in the hall and speaks to her as she passes him.
+
+CHARLIE
+Vinick.
+
+C.J.
+Right. I got a call from the Vinick campaign about a CIA analyst going
+bonkers in his daily briefing. He wouldn't shut up about Uzbekistan.
+
+KATE
+Uzbekistan?
+
+C.J.
+Or was it Kazakhstan? One of the Stan's.
+
+KATE
+Did he remember the agents name?
+
+C.J.
+No.
+
+KATE
+I'll get into it.
+
+C.J.
+Thanks.
+
+Kate's beeper starts going off.
+
+C.J.
+Are you okay?
+
+KATE
+They're calling me.
+
+C.J. walks into her office and Kate walks away. Toby comes into the office.
+
+TOBY
+How are you doing?
+
+C.J.
+I'm on my last drop of adrenaline. How about you?
+
+Charlie walks in.
+
+CHARLIE
+That guy called again.
+
+C.J.
+Margaret often gives me a name.
+
+TOBY
+Margaret's not back yet?
+
+CHARLIE
+A Mr. Frost, Charles Frost.
+
+C.J.
+I don't know him.
+
+Charlie leaves.
+
+TOBY
+Have you heard about Santos and how smart God is?
+
+C.J.
+Sounds like "Education Week" is evolving into "Religion Week."
+
+TOBY
+I'm briefing in ten minutes. Has the President spoken to Zahavy?
+
+C.J.
+Any minute. We're in the Oval.
+
+TOBY
+Hey, I got subpoenaed.
+
+C.J.
+Congratulations.
+
+TOBY
+You?
+
+C.J.
+Nope. Last one to get a subpoena is a rotten egg.
+
+TOBY
+Last one to get a subpoena is the focus of the investigation. Do you have
+a lawyer?
+
+C.J.
+No, I do not.
+
+TOBY
+Get one.
+
+C.J.
+I don't need a lawyer if I haven't done anything wrong.
+
+CHARLIE
+The President's on with Zahavy.
+
+CUT TO: INT. - OVAL OFFICE - DAY
+
+Bartlet is on the phone with Prime Minister Zahavy.
+
+BARTLET
+I understand, Eli. I feel exactly the same way.
+
+C.J. and Toby come in from C.J.'s office.
+
+BARTLET
+I'm sure we all hope for that. ... Thank you, Mr. Prime Minister.
+
+He hangs up.
+
+C.J.
+Anything?
+
+BARTLET
+No. He's nervous.
+
+C.J.
+Will Prime Minister Zahavy be attending the funeral?
+
+BARTLET
+He wouldn't commit. Dan.
+
+C.J.
+Palestinians are protesting, in Ramallah, in Bethlehem, claiming Israeli
+extremists were behind this.
+
+TOBY
+That's Hamas.
+
+C.J.
+Did Zahavy confirm the closing of his checkpoints?
+
+BARTLET
+Yes. And he agreed that he would like to see Mukarat win the election.
+
+C.J.
+If the Israelis reenter the territories...
+
+TOBY
+Mukarat goes down.
+
+C.J.
+You think we can hold everything together for 60 days?
+
+BARTLET
+If we can keep Mukarat alive for three, it'll be a miracle. Toby.
+
+TOBY
+First draft only, sir.
+
+Kate walks in.
+
+KATE
+Sir, we have an update on the bomber. His name is Asim bin Ahmed. He was a
+23-year-old student at Al Quds University in Hebron.
+
+BARTLET
+A student?
+
+KATE
+He had friends on the Jihad Mosque soccer team.
+
+C.J.
+A jihad soccer team?
+
+KATE
+Several members of the team have carried out suicide bombings. Though the
+bomber had no formal ties to Hamas, his classmates say he spent hours at
+the mosque praying and studying.
+
+She hands him a folder.
+
+KATE
+Sir, our satellites are showing Israeli tank movement.
+
+BARTLET
+We need to announce our plans to attend the funeral.
+
+C.J.
+Sir?
+
+BARTLET
+We'll round up Zahavy, Prime Minister Grady, President D'Astier, and
+Chancellor Earhart.
+
+C.J.
+Have they said they're coming?
+
+BARTLET
+Not yet.
+
+KATE
+The Palestinians want to have the funeral in Israeli-controlled Jerusalem
+on the Dome of the Rock.
+
+BARTLET
+Jerusalem's beautiful this time of year.
+
+C.J.
+No one is going to be able to guarantee your security. Secret Service is
+going to go crazy.
+
+KATE
+Only world leaders with a death wish would go to this funeral.
+
+BARTLET
+Fine, then we'll send Congress.
+
+TOBY
+You should go, sir. The Palestinians need to see you there. They need to see
+how much you respected Farad, how committed you still are to the peace process.
+
+BARTLET
+I am going to attend this funeral and I want the leaders of the world to
+attend with me.
+
+Debbie walks in.
+
+BARTLET
+Let's get the leaders of Syria, Lebanon, and Egypt on the phone.
+
+DEBBIE
+It's almost 1:00 am in Cairo, sir.
+
+BARTLET
+Good. Let's wake some people up. Thank you everyone.
+
+They thank him and begin to leave.
+
+BARTLET
+Commander.
+
+Kate turns.
+
+BARTLET
+We're going to hold this peace together.
+
+KATE
+Yes, sir.
+
+CUT TO: EXT. - CAMPAIGN - DAY
+
+Santos is getting out of the Suburban to go to a meeting of some sort. He
+gets out to a booing crowd. Many people in the crowd are waving signs. Josh
+gets out on the other side. Ned and he talk.
+
+NED
+The Governor's waiting inside. He wants to use his photographers.
+
+JOSH
+Tell him we're using ours. And make sure there's no press sneaking into the
+parent-teacher round table.
+
+NED
+They'll be waiting outside.
+
+He runs off. Josh starts talking to Lou.
+
+JOSH
+After the round table we're going to have to put something out clarifying
+the Congressman's statement on Intelligent Design.
+
+LOU
+That says what, he thinks God's a moron?
+
+JOSH
+He's running for President, not preacher-in-chief.
+
+LOU
+He's not going to use Medicaid for communion wafers. He said he believes in
+God, as did Abe Lincoln and George Washington.
+
+JOSH
+We can't get sucked into these local issues.
+
+LOU
+Yes, except Republicans have nominated a pro-choice and, by all accounts,
+anti-God candidate in history. For the first time, we have a chance to
+reach into their base and win back religious voters, to tell a swath of the
+heartland that maybe, just maybe, we have a nominee who's not hostile to
+their cultural values.
+
+Santos walks up.
+
+SANTOS
+It looks like we got their attention.
+
+JOSH
+Which is why you're going to... what?
+
+SANTOS
+Stay on message.
+
+JOSH
+If someone asks you a question on Intelligent Design, you... what?
+
+SANTOS
+Answer it.
+
+Josh and Lou answer simultaneously.
+
+JOSH
+No.
+
+LOU
+Yes.
+
+SANTOS
+Okay.
+
+JOSH
+ACLU and the Anti-Defamation League have called for clarification on your
+God Gaffe.
+
+SANTOS
+My what?
+
+JOSH
+The Center for American Innovation and the Advancement of the American Way
+are basically going bananas.
+
+LOU
+So don't let anybody bait you into using any kind of...
+
+She gestures with her hand, looking for the appropriate word.
+
+JOSH
+Words.
+
+SANTOS
+Words?
+
+JOSH
+Yeah, words like...
+
+LOU
+Evolution.
+
+JOSH
+Genesis.
+
+LOU
+Monkey trial.
+
+JOSH
+Creationism.
+
+LOU
+School.
+
+JOSH
+Prayer.
+
+LOU
+Church.
+
+JOSH
+State.
+
+SANTOS
+Amen.
+
+CUT TO: INT. - HALLWAY - OUTSIDE THE OVAL OFFICE - DAY
+
+C.J. comes out of the Oval Office and Charlie is waiting on her.
+
+C.J.
+Hey.
+
+CHARLIE
+Margaret called.
+
+C.J.
+She's still not back?
+
+CHARLIE
+She said they had more questions for her after lunch. You want some coffee?
+
+C.J.
+I'm taking a nap.
+
+CHARLIE
+Okay.
+
+C.J.
+I just need half an hour.
+
+CHARLIE
+You've got it.
+
+C.J.
+I'm serious. I'm starting to see weird colors, so no people, no calls.
+
+They walk into her office and she shuts one of the doors.
+
+CHARLIE
+Charles Frost called again.
+
+C.J.
+Did he say what he wanted?
+
+CHARLIE
+He said he needed to talk today.
+
+She shuts the blinds.
+
+C.J.
+Try to find out who he is.
+
+CHARLIE
+No visitors, no calls?
+
+C.J.
+I just need a half an hour.
+
+CHARLIE
+Power nap?
+
+C.J.
+Yes.
+
+CHARLIE
+Sweet dreams.
+
+He leaves the office.
+
+C.J.
+Charlie.
+
+He turns around.
+
+C.J.
+Close the door.
+
+CHARLIE
+Right.
+
+He shuts the door. C.J. lays down on her couch to try to get some sleep. As
+she gets situated, Toby knocks and comes in the hallway door.
+
+TOBY
+You busy?
+
+C.J.
+Yes.
+
+TOBY
+You alone?
+
+C.J.
+I'm reading.
+
+TOBY
+I guess it's time for some reading glasses.
+
+C.J.
+What do you want?
+
+TOBY
+This meeting with Haffley on this education bill...
+
+C.J.
+Get Charlie to help you.
+
+TOBY
+Haffley's going to push us on private providers and he'll want the straight
+A provisions to nullify the school-based provisions of Title I.
+
+C.J.
+It's legislative back-and-forth.
+
+TOBY
+And I want you to reconsider getting a lawyer.
+
+She turns over to where she can look at him.
+
+C.J.
+Toby.
+
+TOBY
+Greg Brock...
+
+C.J.
+... is in jail.
+
+She sits up.
+
+C.J.
+Charlie!
+
+TOBY
+Margaret's not back yet?
+
+C.J.
+Can't you see that I'm losing my mind?
+
+Charlie comes in from Margaret's office.
+
+C.J.
+And if I can't sleep, I need at least ten minutes of quiet time to myself.
+
+She gets up and puts her jacket on.
+
+C.J.
+Quiet time, my time. I'm going out to get coffee. I'm learning to free-base
+this stuff, but that's what it takes to keep this life livable; peace and
+quiet and an IV of caffeine. Can I get you anything?
+
+TOBY
+I'm good.
+
+C.J.
+Charlie?
+
+CHARLIE
+Let me get it. You take your nap.
+
+C.J.
+Really?
+
+CHARLIE
+It's either that or we pad the walls of your office. What do you have?
+
+C.J.
+I want a double shot, light on the soy, cinnamon-chai, light on the
+mocha-chino, no whip, sprinkles, and another shot on top.
+
+She has gotten money out for Charlie to go. He looks dumbfounded at her
+order. She hands him the money.
+
+C.J.
+I'll write it down.
+
+CUT TO: INT. - SANTOS PLANE - DAY
+
+Leo and Annabeth are getting ready to go.
+
+ANNABETH
+Can you help me with this?
+
+LEO
+Sure.
+
+He grabs her bag and hefts it up into the overhead compartment.
+
+LEO
+This is a lot, isn't it?
+
+ANNABETH
+I never know when I'll need an extra set of everything.
+
+She sits down and gets out a pill bottle. Leo sits down next to her, looking
+at the pill bottle. She takes two pills and throws her head back in order
+to swallow them.
+
+LEO
+Are you alright?
+
+ANNABETH
+Oh, I'm fine. It's just a little process I go through when I fly.
+
+LEO
+What process is that?
+
+ANNABETH
+I wash back two of these little anti-anxiety pills with a few flutes of
+champagne, and I'm fine.
+
+A flight attendant walks up carrying a tray that has two glasses of champagne.
+
+ANNABETH
+Thank you, Lauren.
+
+Annabeth downs the first glass very quickly.
+
+LEO
+You realize it's a short flight?
+
+She looks at him for a moment and then drinks the second one slower than
+she did the first.
+
+CUT TO: INT. - OVAL OFFICE - DAY
+
+Bartlet is seated in one of the chairs while he is reading something. Debbie
+comes to the door and knocks.
+
+DEBBIE
+Sir?
+
+BARTLET
+Has the Speaker called back yet?
+
+DEBBIE
+No, sir. I think he's on to the fact that you're inviting him to the funeral
+where there's a fifty-fifty chance he'll wind up dead.
+
+BARTLET
+Coward.
+
+DEBBIE
+I wanted to remind you that the reception for new board members at the
+Kennedy Center will be in the lobby at 8:00 pm.
+
+BARTLET
+Fine.
+
+She turns to leave.
+
+BARTLET
+Have a seat.
+
+DEBBIE
+Sir?
+
+BARTLET
+Sit with me a minute.
+
+She sits down on the couch closest to Bartlet.
+
+BARTLET
+Who's performing tonight?
+
+DEBBIE
+Oh, the Vlassenko Septet will be playing Mozart.
+
+BARTLET
+Did you know that Mozart's father believed his son to be a miracle from
+God? He was so convinced of this that he forced young Wolfgang to play
+all over Europe. His father felt it was his duty, in a world where no one
+believed in miracles anymore, to show them God's latest.
+
+Nancy comes in.
+
+NANCY
+Mr. McGarry's on the line for the President.
+
+Bartlet gets up to go to his desk.
+
+BARTLET
+Tahnk you.
+
+DEBBIE
+And how did young Wolfgang feel about being hauled around like a trained
+monkey?
+
+BARTLET
+It pretty much screwed him up for life.
+
+Bartlet picks up the phone and Debbie leaves.
+
+BARTLET
+Leo.
+
+LEO [VO]
+Mr. President.
+
+BARTLET
+When do you get in?
+
+LEO [VO]
+About an hour.
+
+BARTLET
+Really? Things must be slow on the campaign trail.
+
+LEO [VO]
+Mr. President, I've been served a subpoena to appear before Congress.
+
+CUT TO: INT. - SENATE HEARING ROOM - DAY
+
+Margaret is still testifying before the committee. Dresden is asking questions.
+
+DRESDEN
+At 7:23 on the morning of June 20th, Ms. Cregg called Mr. Brock on his
+cell phone.
+
+MARGARET
+Yes, sir.
+
+DRESDEN
+Were you on that call?
+
+MARGARET
+I don't believe I was.
+
+DRESDEN
+You don't believe you were?
+
+MARGARET
+No, because my first recollection of learning of this call was from Ms. Cregg.
+
+DRESDEN
+So you connected the call, but you did not monitor its content?
+
+MARGARET
+I don't believe I connected that call.
+
+DRESDEN
+Categorically, can you say that...?
+
+MARGARET
+That is my best recollection.
+
+DRESDEN
+So what're saying, that your best recollection is that you don't remember
+whether you connected that call or not?
+
+MARGARET
+My best recollection is that I did not connect that particular call.
+
+DRESDEN
+On the afternoon of the 29th, you received a call from Mr. Leo McGarry at
+4:23 pm?
+
+MARGARET
+Yes.
+
+DRESDEN
+He was calling from his cell phone to discuss the New York Times' leak
+article with C.J. Cregg?
+
+MARGARET
+Yes, sir.
+
+He looks at her as though he has tricked her into saying what he wanted
+to hear.
+
+FADE OUT.
+END ACT TWO.
+* * *
+
+ACT THREE
+
+FADE IN: INT. - C.J.'S OFFICE - DAY
+
+C.J. is lying on the couch. She sits up. She looks up to try to find the
+time. She gets up and goes to the door to Margaret's office. She finds
+neither Charlie nor Margaret there. She leaves the door open as she goes to
+her windows to open the shades. When she does, she sees Mr. Frost's reflection
+in the window. She jumps in fright.
+
+FROST
+Ms. Cregg.
+
+C.J.
+You scared me.
+
+FROST
+Charles Frost; we met once at the Agency.
+
+C.J.
+You've been calling me.
+
+FROST
+I have information concerning the assassination of Chairman Farad. It's
+extremely sensitive. May I sit?
+
+C.J.
+You briefed Arnold Vinick?
+
+FROST
+I need five minutes with the President.
+
+C.J.
+No problem.
+
+FROST
+The assassination of Chairman Farad is not what they've been telling you.
+
+C.J.
+And what have they been telling me?
+
+FROST
+That the assassin was a student extremist with pockets full of TATP; that
+he was an individual acting on his own; this was a carefully organized act
+and there are more coming.
+
+C.J.
+Did you take this through channels?
+
+FROST
+I have been attempting to for weeks but no one has been taking the larger
+threat seriously.
+
+C.J.
+What larger threat?
+
+FROST
+The assassination of Chairman Farad is linked to another assassination that
+will be carried out within the next few days and another that will be carried
+out in weeks to come. The next target will be in Kazakhstan. Rushon Issetov.
+
+C.J.
+The President.
+
+FROST
+The strongest leader in the region. No one here will care that he is gone but
+the future of Kazakhstan will be thrown into chaos. The third assassination
+will be the regional Vice President of UNOCAL. I just need five minutes.
+
+CUT TO: INT. - SCHOOL HALLWAY - DAY
+
+Santos is having his picture taken by several press photographers. Josh and
+Lou are talking.
+
+LOU
+This could be the beginning. We could do a big speech on faith and public
+values. He could offer himself up as the buckle on the bible belt.
+
+JOSH
+15% of our base are secular voters.
+
+Ned walks up.
+
+NED
+Josh. Leo.
+
+He hands him a phone. Josh takes it and walks away a few steps.
+
+JOSH
+Hey.
+
+CUT TO: INT. - SANTOS PLANE - CONTINUOUS
+
+Leo is in his seat. He is on the phone, talking to Josh.
+
+LEO
+You reminded him to stay off the Old Testament?
+
+JOSH [VO]
+I'm trying. How are you guys doing?
+
+LEO
+Make sure he doesn't take questions from the press.
+
+JOSH [VO]
+Yeah, I'm on it.
+
+We see that Annabeth is leaned over in her chair asleep. She has her head
+on a pillow and she is holding Leo's free hand with both of hers.
+
+LEO
+How's the rest of the day look?
+
+JOSH [VO]
+Same as always; photo op followed by round table followed by photo op.
+
+LEO
+Have you told the Congressman yet?
+
+JOSH [VO]
+I haven't had the chance.
+
+CUT TO: INT. - SCHOOL HALL - CONTINUOUS
+
+JOSH [cont.]
+Did you call the President?
+
+LEO [VO]
+I did.
+
+JOSH
+What'd he say?
+
+Ronna walks up behind Josh.
+
+LEO [VO]
+What do you think?
+
+CUT TO: INT. - SANTOS PLANE - CONTINUOUS
+
+LEO
+I'll call you after?
+
+CUT TO: INT. - SCHOOL HALL - CONTINUOUS
+
+RONNA
+The round table's starting.
+
+JOSH
+Listen, I've got to...
+
+LEO
+Go.
+
+JOSH
+Yeah, come on.
+
+Josh closes the phone and he and Ronna walk over to the room where the round
+table is taking place.
+
+CUT TO: INT. - HALLWAY - WHITE HOUSE - DAY
+
+Toby and Kate are talking.
+
+TOBY
+Any update on the funeral?
+
+KATE
+What time do you brief?
+
+TOBY
+5:00.
+
+KATE
+I'll let you know.
+
+TOBY
+I have some Farad remarks for the President to make at tonight's recital.
+
+KATE
+Great.
+
+TOBY
+I was wondering if maybe you needed to look at them.
+
+KATE
+No, I think anything that I would notice C.J. would notice.
+
+TOBY
+Sure.
+
+KATE
+What are you digging for?
+
+He shakes his head.
+
+TOBY
+How'd your testimony go?
+
+KATE
+It's been postponed. Apparently, Margaret's still up there.
+
+Toby walks off and Charlie joins Kate.
+
+CHARLIE
+You got my message?
+
+KATE
+Yeah, I was on my way to you.
+
+CHARLIE
+I'll let her know you're here.
+
+They have walked into Margaret's office. Charlie picks up the phone and
+calls C.J.
+
+CHARLIE
+Kate Harper.
+
+He hangs up the phone.
+
+CHARLIE
+You can go in.
+
+She walks into C.J.'s office.
+
+C.J.
+We need to talk.
+
+KATE
+I got the name of the analyst who briefed Vinick.
+
+C.J.
+Charles Frost. I just spent 20 minutes with him.
+
+KATE
+Here?
+
+C.J.
+He said some things.
+
+KATE
+I'm gonna have his ass.
+
+C.J.
+Why are analysts under your purview coming to me, independently...?
+
+KATE
+I apologize and I assure you I'm going to have his paranoid ass.
+
+C.J.
+Are we sending lunatics to brief the Republicans?
+
+KATE
+It won't happen again.
+
+C.J.
+He said there was going to be another assassination.
+
+KATE
+In Kazakhstan.
+
+C.J.
+President Issetov. He said it was related to Farad.
+
+KATE
+We have no intelligence to support that theory.
+
+C.J.
+I feel so much better.
+
+KATE
+Frost is a good analyst. He knows the region better than anyone but he's
+also wrong as often as he is right.
+
+C.J.
+Is he still briefing Vinick?
+
+KATE
+Not after what happened yesterday. Let me take care of this.
+
+She turns to leave. C.J. gets up from her couch and walks over to the desk.
+
+C.J.
+He also said some VP of UNOCAL was going to be assassinated.
+
+KATE
+Yeah.
+
+She walks out into Margaret's office to use the phone. Charlie walks in with
+a messenger who is holding a piece of paper.
+
+CHARLIE
+C.J., this just came over from the Counsel's office.
+
+C.J.
+What is it?
+
+CHARLIE
+I'm pretty sure it's a subpoena.
+
+The messenger walks over to her and hands her the piece of paper.
+
+CUT TO: INT. - CLASSROOM - DAY
+
+Santos is talking with a classroom full of parents and teachers. Josh and
+Lou are at the back of the room watching it.
+
+SANTOS
+We are in an information age and we have a school system that is practically
+a relic of the agrarian age. The best teachers will tell you themselves,
+we have to raise standards for teachers. We have to. We should pay them
+like professionals. And, yes, we should hold them to higher professional
+standards as well.
+
+Everyone in the audience applauds. Several people raise their hands. Santos
+points to a woman. She stands.
+
+ROCHELLE BANKS
+Congressman Santos, do you believe in the theory of Intelligent Design?
+
+SANTOS
+What's your name?
+
+BANKS
+Rochelle Banks. I teach 10th grade science here at the school.
+
+SANTOS
+Well, Rochelle, as a Catholic who attends church every Sunday I do believe
+in God and my faith tells me that there was a designer behind it.
+
+JOSH
+It's time for us to leave.
+
+LOU
+The school?
+
+JOSH
+The state.
+
+Santos picks out another person who stands.
+
+SANTOS
+Yes, sir. Uh, what's your name?
+
+CLIFFORD REYNOLDS
+Clifford Reynolds. I teach English here at Leonard.
+
+SANTOS
+Nice to meet you, Clifford.
+
+REYNOLDS
+Thanks. May I ask you if you believe in the theory of evolution?
+
+SANTOS
+Well, I think it'd be very difficult to teach geology, anthropology, and
+zoology without evolution, so yes, I do. I don't believe it's contradictory
+to believe in science and believe in God.
+
+REYNOLDS
+Do you believe that the theory of Intelligent Design and the Theory of
+Evolution should be taught alongside each other in the public schools?
+
+SANTOS
+Absolutely not. One is based on science, the other is based on
+faith. Intelligent Design is not a scientific theory, it's a religious
+belief. And our Constitution does not allow for the teaching of religion in
+our public schools.
+
+REYNOLDS
+Many of us here would be more comfortable if our children were taught all
+points of view.
+
+SANTOS
+And I'm all for that. Evolution is not perfect. It doesn't answer every
+question but it is based on scientific facts; facts that can be predicted,
+tested, and proven. Intelligent Design asks theological questions. I'm sure
+that many of us would agree that at the beginning of all that begat-ing,
+something begun.
+
+The people laugh.
+
+SANTOS
+What was that something?
+
+REYNOLDS
+Congressman Santos, many of us want a version of science taught to our kids
+that's in accordance with our beliefs.
+
+SANTOS
+I understand. But can't we agree that the inclusion of non-scientific
+explanations into the science curriculum of our schools misrepresents the
+nature of science? And therefore compromises a central purpose in our public
+education which is the preparation of a scientifically literate workforce. If
+you have a problem with your child's education, get involved. If you have a
+problem with what the School Board wants to teach, run for School Board. We
+can never forget that the best way to preserve our democracy is to take part
+in it. Thanks for your question. Thank you all.
+
+Josh looks stunned as the room stands to applaud.
+
+SANTOS
+Thank you.
+
+JOSH
+I'll be damned.
+
+We follow Santos as he walks out into the hallway where the press is waiting
+for him.
+
+REPORTER #1
+Congressman, do you apologize for your comments about separation of church
+and state?
+
+REPORTER #2
+Congressman, as a Catholic, do you advocate the teaching of Intelligent
+Design to children attending Catholic school?
+
+SANTOS
+Just because I'm talking about my faith doesn't mean I don't believe in the
+separation of church and state.
+
+REPORTER #1
+Congressman Santos, do you believe Senator Vinick believes in Intelligent
+Design?
+
+SANTOS
+Well, I don't know. You'd have to ask him that.
+
+Santos heads off down a flight of stairs. Josh, Lou, Ronna, and Ned follow him.
+
+LOU
+Did what I think just happened just happen?
+
+JOSH
+Ted.
+
+NED
+My name is Ned.
+
+JOSH
+Where's the nearest TV?
+
+CUT TO: INT. - LOUNGE - DAY
+
+Josh, Lou, and Ned are watching Vinick, who is on TV talking to the press.
+
+VINICK
+As you know, the Supreme Court does not allow the teaching of religion in
+public schools.
+
+LOU
+Come on.
+
+VINICK
+This is a local responsibility, not a federal one.
+
+LOU
+You can do better than that.
+
+REPORTER [on TV]
+Senator, some of the Christian right are still looking for a reason to vote
+for you. Can you afford to keep alienating them?
+
+VINICK
+Thank you.
+
+He walks away from the podium.
+
+LOU
+Ouch.
+
+NED
+That's when Vinick's people jumped in and ended the Q&A.
+
+He turns off the TV.
+
+JOSH
+Ended the Q&A!
+
+Ronna walks in.
+
+RONNA
+Josh, Meet the Press just called. They want to bump Leo and open the show
+with Santos and his views on religion and education. And nightline called
+about Monday's segment.
+
+JOSH
+Where's the Congressman?
+
+He, Lou, and Ned follow Ronna out.
+
+FADE OUT.
+END ACT THREE.
+* * *
+
+ACT FOUR
+
+FADE IN: INT. - OVAL OFFICE - DAY
+
+Bartlet is on the phone with Haffley. C.J. comes in from her office.
+
+BARTLET
+Yes, Mr. Speaker. ... I appreciate the support. ... Thank you.
+
+He hangs up. He goes about signing some things on his desk.
+
+BARTLET
+The Speaker's in.
+
+C.J.
+We're close to having a full house on Air Force One.
+
+BARTLET
+Any word from the Russian ambassador whether Chigorin's coming?
+
+C.J.
+No, but you can corner him at tonight's recital.
+
+BARTLET
+Yeah.
+
+C.J.
+Wheels-up for the funeral is 9:00 am tomorrow. Agent Butterfield will be
+briefing you security issues on the plane.
+
+BARTLET
+Fine.
+
+C.J.
+Santos seems to have turned the tables on Vinick.
+
+BARTLET
+Yes.
+
+C.J.
+I understand Leo called.
+
+BARTLET
+Yeah.
+
+He gets up to leave.
+
+C.J.
+Thank you, sir.
+
+He leaves through one door, C.J. through another.
+
+CUT TO: INT. - SANTOS HQ - CONFERENCE ROOM - DAY
+
+Leo is seated in the conference room. A lawyer named Barry comes in and
+shakes Leo's hand. They sit.
+
+LEO
+Barry!
+
+BARRY
+Mr. Vice President!
+
+LEO
+Please.
+
+BARRY
+I can't tell you how comforted we all are by your presence on the ticket. Awful
+about Farad.
+
+LEO
+How do we protect ourselves from a guy dressed in dynamite? I appreciate
+your taking the time to come by.
+
+BARRY
+
+LEO
+I've been served a subpoena to appear before the Intelligence Committee
+investigating the White House leak.
+
+BARRY
+You could claim executive privilege.
+
+LEO
+I wasn't Chief of Staff when the leak occurred.
+
+BARRY
+But you were still working inside the White House?
+
+LEO
+Executive privilege isn't going to work. The President's has order all White
+House personnel to cooperate.
+
+BARRY
+So you were working inside the White House, without a title, with the
+individual who's now become the primary focus of a criminal investigation?
+
+LEO
+Yes.
+
+BARRY
+So a candidate for the Vice Presidency with a history of alcoholism and
+heart disease was working inside the White House when a major of national
+security occurred and is now going to be dropped off at the press-infested
+Hart building with his lawyer to testify before a Republican Congressional
+committee investigating a Democratic administration's failure to competently
+protect the Presidency.
+
+LEO
+Any way I can protect the Santos campaign?
+
+BARRY
+When do you go before the Committee?
+
+LEO
+Monday.
+
+BARRY
+Well, we can talk about protecting you, but as far as the Santos campaign
+is concerned: you are just a guy dressed in dynamite.
+
+CUT TO: INT. - OVAL OFFICE - DAY
+
+Bartlet is seated on one of the couches and he is reading something. Debbie
+knocks and opens the door. She shows Toby in.
+
+TOBY
+Thank you. You wanted to see me, Mr. President.
+
+BARTLET
+Toby, come on in.
+
+Debbie leaves and shuts the door.
+
+TOBY
+You read my draft?
+
+BARTLET
+I made a few changes but... have a seat.
+
+Toby sits down in a chair.
+
+TOBY
+Thank you, sir. What changes?
+
+Bartlet says nothing.
+
+TOBY
+Do we know more about the bomber?
+
+BARTLET
+He was a student. A 23-year-old from an upper-middle class family. When he
+wasn't at school he spent hours at the mosque studying and praying.
+
+TOBY
+Churchill said, "A fanatic is one who can't change his mind and won't change
+the subject."
+
+BARTLET
+I pushed him.
+
+TOBY
+Farad?
+
+BARTLET
+Farad didn't think the peace would work. I pushed him into doing it. [pause]
+Leo called. He's coming to town to do the Sunday morning shows. He's also
+coming to see his attorney. It seems he's been served a subpoena to testify.
+
+TOBY
+Leo can't pull up to the Hart building in a limo. The Vice Presidential
+candidate can't testify. It'll be the end of the Santos campaign.
+
+BARTLET
+The investigation into the leak is focused on C.J.
+
+TOBY
+They've got it wrong.
+
+BARTLET
+Apparently, they don't see it that way.
+
+Debbie knocks and reenters.
+
+DEBBIE
+You need to dress for the recital, sir.
+
+BARTLET
+Thank you.
+
+TOBY
+Thank you, Mr. President.
+
+He gets up and leaves.
+
+CUT TO: INT. - SANTOS HQ - HALLWAY - DAY
+
+Leo comes out of the conference room and Annabeth is waiting for him.
+
+ANNABETH
+How'd it go?
+
+He doesn't answer but walks a bit past her before she starts walking with him.
+
+ANNABETH
+Try to get some sleep. The motorcade's going to pick you up at 7:00 am sharp
+at your hotel. Now, once you wrap it up with Russert you have a thirty minute
+window to get to Face the Nation followed by a sit-down with the Post.
+
+They have come to an elevator and Leo pushes the button.
+
+LEO
+Don't you ever get tired?
+
+ANNABETH
+No.
+
+LEO
+And how is that?
+
+ANNABETH
+I graduated cum laude with a degree in art history and if you'd have told
+me I'd end up here...
+
+The elevator dings and the door opens.
+
+ANNABETH [cont.]
+Let's just say I love my job.
+
+They get in the elevator.
+
+LEO
+What time is it?
+
+She hands him his watch as he pushes the button.
+
+ANNABETH
+Headed back to your hotel?
+
+LEO
+Yeah. It's been a day.
+
+ANNABETH
+Hmm.
+
+LEO
+What are you up to?
+
+ANNABETH
+Heading back to me apartment and a nice, hot bath.
+
+LEO
+You feel like dinner?
+
+ANNABETH
+I do, but...
+
+LEO
+We'll get a bite. It's early.
+
+ANNABETH
+Thanks, but no.
+
+There is an awkward silence.
+
+ANNABETH
+I just think it's better while we're spending so much time together that we
+try and keep our distance whenever possible.
+
+LEO
+Keep our distance?
+
+ANNABETH
+Because of the tension.
+
+She gets off and Leo looks confused.
+
+LEO
+What tension?
+
+CUT TO: INT. - LIMO - NIGHT
+
+Josh, Santos, and Lou are in the limo on their way to the last stump of
+the day.
+
+LOU
+Last education stump of the day, and then back to the hotel. I'll let you
+know when they're ready.
+
+The limo stops in front of the building.
+
+LOU
+I'll see you inside. Thank you.
+
+She grabs her things and gets out.
+
+SANTOS
+You want to talk?
+
+JOSH
+How you doing?
+
+SANTOS
+I'm good. Good.
+
+JOSH
+Joey Lucas called; said there might be some movement in the polls. All the
+Sunday morning shows are going to make Matt Santos' Education Week the elite
+political story.
+
+SANTOS
+Imagine that.
+
+JOSH
+We came here to talk about education, and we spent the whole day getting
+people to talk about education.
+
+SANTOS
+Sometimes a little religion helps the medicine go down.
+
+JOSH
+Leo got subpoenaed.
+
+SANTOS
+When does he appear?
+
+JOSH
+Monday.
+
+Lou opens the door for them to get out.
+
+LOU
+Okay, ready.
+
+Santos climbs out.
+
+CUT TO: INT. - SITUATION ROOM - NIGHT
+
+A few people are gathered around the table when C.J. comes in. She walks
+over to where Kate and Slattery are standing.
+
+C.J.
+The President will be leaving for Jerusalem first thing in the morning.
+
+SLATTERY
+Will Zahavy be attending the funeral?
+
+C.J.
+He's afraid his presence will provoke a reaction from the Palestinian
+hard-liners.
+
+Kate goes over to a map. C.J. follows her.
+
+KATE
+In preparation for the funeral, we're deploying more of our own peacekeeping
+troops as a precaution here and here.
+
+C.J.
+How long until they're in position?
+
+KATE
+The regional commander said six hours.
+
+She looks over as she is talking to Kate and notices something on one of
+the other boards.
+
+C.J.
+Any other activity?
+
+KATE
+No. The Israelis have halted there tanks for now.
+
+C.J.
+What's that?
+
+SLATTERY
+We have what appears to be another assassination.
+
+C.J.
+Kazakhstan.
+
+KATE
+Who?
+
+SLATTERY
+The President. Standard turmoil in the region.
+
+C.J.
+Issetov?
+
+He looks stunned that she knew it.
+
+SLATTERY
+That's right.
+
+C.J.
+I want you to tell me everything you can about the assassin as soon as you
+possible. Somebody get our ambassador to Kazakhstan and I want the region
+office to UNOCAL on the phone now.
+
+Kate moves to make the call.
+
+CUT TO: INT. - LOBBY - WHITE HOUSE - NIGHT
+
+Bartlet is speaking at the reception.
+
+BARTLET
+Before we recognize tonight's Kennedy Center Board, I'd like to take a
+moment. Chairman Farad was my friend. Together, with Israeli Prime Minister
+Zahavy, we pursued the challenge of a brave and just peace. Our goal was a
+better future for the children. But old enemies die hard and last night hatred
+and fear took our friend in a senseless act of cowardice. How then should
+we respond to such violence and despair? I know that Chairman Farad would
+want us to take a moment to remember those innocent victims who perished with
+him. They were seven students studying at universities in Jerusalem. And their
+names are: Salim Saida, age 19, Palestinian; Akiva Eshkol, age 23, Israeli...
+
+CUT TO: INT. - CLASSROOM - NIGHT
+
+Santos is speaking to a group of young musicians and there is press and
+parents behind them.
+
+SANTOS
+To be a person of faith is to have the world challenge that faith. Was the
+universe designed by God? That's up to everyone in this country to decide
+for themselves because the framers of our Constitution believed that if the
+people were to be sovereign and belong to different religions at the same
+time then our official religion would have to be no religion at all. It was a
+bold experiment then, as it is now. It wasn't meant to make us comfortable. It
+was meant to make us free.
+
+CUT TO: INT. - LOBBY - WHITE HOUSE - NIGHT
+
+We hear the performers begin to play.
+
+CUT TO: INT. - CLASSROOM - NIGHT
+
+Santos is watching the young musicians play.
+
+CUT TO: INT. - LOBBY - WHITE HOUSE - NIGHT
+
+The elder, more experienced performers are playing. A contrast can be made
+between the older players playing in the White House and the younger, less
+experienced players in the classroom.
+
+CUT TO: INT. - HALLWAY - WHITE HOUSE - NIGHT
+
+We see Margaret walking down the hallway toward her office. She walks in and
+sets her purse down just as Kate walks in to talk to C.J. She goes into the
+office where C.J. is waiting.
+
+C.J.
+You got anything?
+
+KATE
+Nothing new.
+
+C.J.
+Have you talked to Agent Frost?
+
+KATE
+He's... no one's been able to track him down.
+
+C.J.
+He's missing?
+
+KATE
+
+I can't say that yet. He'll turn up by morning.
+
+C.J.
+
+You should go home.
+
+KATE
+
+We both should.
+
+C.J.
+
+I'm leaving soon.
+
+KATE
+I'll let you know if anything happens.
+
+She walks out and Toby walks in.
+
+C.J.
+Good evening. You would not believe the day I've had. I'd tell you about it
+if I could talk about it, but a bunch of stuff happened today that I can't
+talk about so I guess I should stop talking about it.
+
+She walks out into Margaret's office and hands a folder to Margaret. She
+seems surprised that Margaret is back. She walks back into her office.
+
+C.J.
+But the truth is I'm so strung out and wired on caffeine I can't even tell
+what room I'm in.
+
+TOBY
+C.J.
+
+She gets up and closes the doors.
+
+C.J.
+Let's open that bottle of champagne you gave me for my birthday. Maybe the
+alcohol will balance out the caffeine.
+
+TOBY
+C.J., the leak...
+
+She gets a bottle of champagne and two glasses out of her closet. She brings
+them over to her desk.
+
+C.J.
+Let's have a toast. One final toast before I leave the White House for my
+perp walk in leg irons. Here, you open it. I'll put your eye out.
+
+TOBY
+C.J.
+
+C.J.
+Fine, I'll open it. But just, uh, listen to what I have to say. Leo's
+in trouble.
+
+TOBY
+I know.
+
+C.J.
+You do?
+
+TOBY
+I got a lawyer.
+
+He comes and sits down next to her.
+
+C.J.
+What?
+
+TOBY
+I got a lawyer.
+
+She looks up as though she knows what he is going to say. He clears his throat.
+
+TOBY
+I did it.
+
+We see a close up shot of both their faces as they look at each other.
+
+DISSOLVE TO: END TITLES.
+FADE TO BLACK.
+THE END.
+* * *
+
+The West Wing episode 7.04 "Mr. Frost", original air date 16 October, 2005.

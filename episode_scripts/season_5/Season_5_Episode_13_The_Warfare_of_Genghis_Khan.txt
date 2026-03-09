@@ -1,0 +1,2068 @@
+Season 5 – Episode 13 – “The Warfare of Genghis Khan”
+
+Post author:chris
+Post published:April 11, 2014
+Post category:Season 5 / The Show
+
+Episode Summary:
+
+When the flash of a secret nuclear detonation is detected over the Indian Ocean, Bartlet calls upon his people to investigate which nation now has the atomic bomb–and since conventional thinking favors Iran, Bartlet orders bombers into the air to destroy that nation’s most likely uranium-enriched targets. Meanwhile, Josh chides NASA personnel on the future of space exploration–until he is introduced to an attractive female administrator. C.J. fumes when a combative television talk-show host, Taylor Reid (Jay Mohr), denigrates her on the air, and Will discloses to Vice President Russell (Gary Cole) that Russell is considered a buffoon by the White House staff.
+
+Script:
+
+THE WEST WING
+5x13 - "THE WARFARE OF GENGHIS KHAN"
+WRITTEN BY PETER NOAH
+DIRECTED BY BILL D'ELIA
+
+TRANSCRIBED BY SOUNDMAN FOR TWIZ TV.COM.
+SEND FEEDBACK TO sparticus1611@hotmail.com.
+
+TEASER
+
+FADE IN: INT. - RESIDENCE - BEDROOM - NIGHT
+THURSDAY 3:16 AM
+
+We hear the phone on the bedside table ringing. We see a light flashing on
+it. After it rings several times, Bartlet answers it groggily.
+
+BARTLET
+[into phone] Yes? ... Please. ... Yeah, Leo.
+
+He sits up in bed as he listens.
+
+CUT TO: INT. - SITUATION ROOM - NIGHT
+
+We see someone righting on the map at the far end of the table. We hear
+everyone called to attention as the President walks in wearing his Air Force
+One windbreaker. He is obviously still waking up. Leo, McNally, Slattery,
+Hutchinson, and Alexander are seated around the table.
+
+BARTLET
+Good morning.
+
+ALL
+Good morning, sir.
+
+BARTLET
+Or whatever 3:00 am is. Please.
+
+They all sit down.
+
+BARTLET
+Let's have a look.
+
+We see a zoomed in region shown on one of the maps.
+
+BARTLET
+Where?
+
+HUTCHINSON
+Over the north central Indian Ocean, sir. Not near anything.
+
+BARTLET
+Are you sure?
+
+McNALLY
+It's the telltale double flash.
+
+ALEXANDER
+All atmospheric detonations produce that unique signature, sir; an initial
+one-millisecond flash, the fireball, which is then overtaken and obscured
+by the expanding shock front.
+
+BARTLET
+So, it couldn't be anything else?
+
+HUTCHINSON
+No.
+
+ALEXANDER
+And no false alarms have ever been ascribed to the NDS.
+
+LEO
+Other sensors?
+
+HUTCHINSON
+Still being analyzed. But both the X-ray and EMP detectors show readings
+consistent with atmospheric detonation.
+
+BARTLET
+Who else knows?
+
+HUTCHINSON
+Sir?
+
+LEO
+Who else in the world?
+
+ALEXANDER
+The Russians and the Chinese have satellite detection capability for an
+atmospheric NUDET.
+
+HUTCHINSON
+Nuclear detonation, sir.
+
+Bartlet stands as his concern and understanding of the situation seem to grow.
+
+McNALLY
+Sir, no test was scheduled or has been reported by any of the other six
+declared nuclear powers.
+
+BARTLET
+Yeah.
+
+We see on the map an image of the detonation.
+
+LEO
+There's a new member of the club.
+
+Bartlet looks concerned about this new revelation.
+
+SMASH CUT TO: MAIN TITLES.
+END TEASER.
+* * *
+
+ACT ONE
+
+FADE IN: INT. - OVAL OFFICE - NIGHT
+4:06 AM
+
+We see Charlie handing coffee cups to several members of the National
+Security Team.
+
+CHARLIE
+The mess isn't open yet, sir. This is from the Secret Service command post.
+
+BARTLET
+If it's too hot, they wrestle it to the ground.
+
+CHARLIE
+The CIA director called. He's been held...
+
+CIA DIRECTOR SLIGER
+I'm here! Sorry. Construction on Lee. They do it at night.
+
+LEO
+To avoid snarling traffic.
+
+SLIGER
+That's the theory.
+
+BARTLET
+We just started. Thanks, Charlie.
+
+Charlie leaves and shuts the door.
+
+BARTLET
+We've talked to the Russians and the Chinese?
+
+SLATTERY
+They agree about keeping this quiet.
+
+BARTLET
+Whoever this was, they knew we'd pick it up.
+
+LEO
+Likely suspects?
+
+HUTCHINSON
+North Korea or Iran.
+
+BARTLET
+Yeah.
+
+SLIGER
+They've both been heading down this road. We just didn't know they'd gotten
+this far.
+
+McNALLY
+We were pretty sure about North Korea.
+
+SLIGER
+Well, "sure" is a word we don't throw around at Langley.
+
+LEO
+There've been strong indications the North has nuclear weapons.
+
+BARTLET
+What about Iran?
+
+SLIGER
+Well, the intel is sketchy.
+
+McNALLY
+We know they've been working on it.
+
+SLIGER
+There's that other word: "know".
+
+BARTLET
+What we know and are sure of is this happened. We're going to need to focus
+less on semantic distinctions and more on how this caught us so completely
+by surprise. We need to make contact. The Chinese for North Korea?
+
+Slattery slightly nods his head in the affirmative.
+
+LEO
+Iran?
+
+SLATTERY
+Usually the Italians or the Swiss.
+
+LEO
+No good. We don't want them in the loop.
+
+BARTLET
+The Russians, then. We can assume Moscow's not crazy about the idea of
+another nuclear state in their neighborhood.
+
+McNALLY
+Sir, what if this wasn't a state?
+
+LEO
+A terror group?
+
+HUTCHINSON
+No terrorists have the capability for a test on this scale. Their nuclear
+event will be a suitcase bomb detonated in Manhattan.
+
+BARTLET
+Or Pennsylvania Avenue. Thank you, everyone.
+
+ALL
+Thank you, sir.
+
+They all leave except for Leo.
+
+LEO
+Little rough with the Director?
+
+BARTLET
+I'll send him a lollipop.
+
+LEO
+You want your Intelligence head focused and at his best.
+
+BARTLET
+Guy couldn't find a clear route in at 4:00 in the morning. I'm not
+over-brimming with confidence. This is the nightmare. [pause] I thought when
+the Soviet Union fell, we could actually have disarmament. You go from trying
+to get rid of these weapons altogether to holding your breath one doesn't
+go off on your watch. Strike another goal off the list.
+
+LEO
+We find out who this was, then what?
+
+BARTLET
+We'll have to do something. I want a Defense briefing on contingency plans.
+
+LEO
+We act, we'll need a statement.
+
+BARTLET
+Toby?
+
+LEO
+Sooner is better.
+
+They both begin to turn to leave.
+
+BARTLET
+Oh, God.
+
+LEO
+What?
+
+BARTLET
+The Vice President.
+
+LEO
+Yeah. I'll brief him.
+
+BARTLET
+Apologize. Tell him... I don't know what the hell to tell him.
+
+Bartlet walks out onto the portico and heads back toward the Residence.
+
+CUT TO: INT. - WHITE HOUSE LOBBY - DAY
+7:58 AM
+
+We see Donna walk through the doors from Josh's Bullpen area and then we
+see Josh walking into the building. Donna joins him as they begin walking
+toward the Mural Room.
+
+JOSH
+Hey.
+
+DONNA
+Morning. So this meeting's a breakfast.
+
+JOSH
+Okay.
+
+DONNA
+So you have to eat something.
+
+JOSH
+I already ate.
+
+DONNA
+Or else it's rude.
+
+JOSH
+I'm not hungry.
+
+DONNA
+Or else it's rude.
+
+JOSH
+[sighing] This order, as soon as I get back. Why am I even meeting with some
+geeks from NASA?
+
+He takes off his coat and hands it to her.
+
+DONNA
+I'm sure they're not geeks. I'm sure they're not all geeks, and it's to
+discuss administration space priorities. Do we even have space priorities?
+
+JOSH
+Exactly.
+
+Josh walks into the MURAL ROOM. Several people from NASA are there. They
+are all wearing nametags. A man named KARL seems to be the spokesperson for
+the group.
+
+JOSH
+Morning.
+
+KARL
+Good morning.
+
+JOSH
+You have nametags?
+
+KARL
+Haven't been to the White House much these five years. Thought it'd help.
+
+JOSH
+Right, "Karl".
+
+KARL
+I recommend the scones. They're...
+
+JOSH
+Out of this world?
+
+RUSSELL [prelap]
+Leo?
+
+CUT TO: INT. - VICE PRESIDENT'S OFFICE - DAY
+
+Leo comes into the Vice President's office. They walk over to his desk and
+sit down.
+
+LEO
+Mr. Vice President.
+
+RUSSELL
+Please.
+
+LEO
+Thank you.
+
+RUSSELL
+What's up?
+
+LEO
+Sir, this is to be kept in the strictest of confidence. At approximately
+2:17 am eastern time, an atmospheric nuclear detonation was detected by a
+DSP satellite over the Indian Ocean.
+
+RUSSELL
+Pakistan's attacked  India.
+
+LEO
+No, sir. This was a test.
+
+RUSSELL
+Pakistan being provocative. Shot-across-the-bow sort of thing.
+
+LEO
+It wasn't Pakistan. If you'll just let me finish. No nation has claimed
+credit. We're trying to ascertain who was responsible, but it appears there's
+a new player on the nuclear stage.
+
+RUSSELL
+Is India mobilizing?
+
+LEO
+It was 1,200 miles from India. India has no idea that it happened.
+
+RUSSELL
+But, I don't...
+
+LEO
+Let me start again.
+
+CUT TO: INT. - CJ'S OFFICE - DAY
+
+Carol is on the phone.
+
+CAROL
+[into phone] Hang on.
+
+She presses a button and then replaces the receiver. She walks into C.J.'s
+office.
+
+CAROL
+It's him again.
+
+C.J.
+Him, who? Ben. Take a message.
+
+CAROL
+He gets any more persistent, they're going to open a case file. Can I just
+tell him you're not worth it?
+
+C.J.
+We used to date; he knows better.
+
+C.J. walks out of her office and into the hallway. Toby walks up and joins
+her, walking and talking as they head toward the briefing room.
+
+TOBY
+Feeling frisky?
+
+C.J.
+Remembrance of things past.
+
+TOBY
+The briefing, two things to deflect. New Israeli settlement activity in the
+West Bank. You can do it.
+
+C.J.
+'We discourage new settlements; deplore Palestinian terror.' Balance but
+not too much balance. No moral equivalence...
+
+TOBY
+The greatest hits.
+
+C.J.
+The golden oldies. Second thing?
+
+TOBY
+RINOs.
+
+C.J.
+Endangered species, powdered horn considered an aphrodisiac. That were the
+word "horny" come from?
+
+TOBY
+Not precisely, it's... These aren't the animals. It's "Republicans In
+Name Only".
+
+C.J.
+"RINOs". Adorable.
+
+TOBY
+Right-wings new name for GOP members who voted with us. They're being targeted
+in the primaries, uh...
+
+C.J.
+'We're happy to stay out of that particular slap-fight in the schoolyard.'
+
+TOBY
+Make it 'sandbox'.
+
+C.J. writes something on her notepad as Toby walks away and she walks into
+the briefing room.
+
+CUT TO: INT. - VICE PRESIDENT'S OFFICE - DAY
+
+Leo and Russell come out of the office.
+
+RUSSELL
+Thanks, Leo. Don't hesitate to call on me if I can be useful in any way.
+
+LEO
+Be sure to let you know, sir.
+
+Russell returns to his office as Leo walks away. We see Will walk up to Leo
+as he is leaving.
+
+WILL
+Leo, anything I need to be aware of?
+
+LEO
+Uh-uh.
+
+WILL
+I've been thinking. To build the VP's issue profile, I'm wondering if there's
+some policy area the administration could give him.
+
+LEO
+Such as?
+
+WILL
+Well, I have some notions, certainly.
+
+LEO
+Take it up with Toby.
+
+WILL
+Yeah, thing is, he and I, ever since...
+
+LEO
+Take it up with him. That's what he does. If you two have problems, work
+them out. I'm not a couple's therapist.
+
+WILL
+Yeah.
+
+KARL [prelap]
+A probe must launch by then...
+
+CUT TO: INT. - MURAL ROOM - DAY
+
+Josh and the men from NASA are still talking.
+
+KARL [cont.]
+... to use Jupiter's gravitational field as a slingshot. The data gathered
+about Kuiper Belt objects would be invaluable.
+
+JOSH
+Listen, I... appreciate your coming in, but you may be meeting with the
+wrong guy. My knowledge about space is like the old joke about the official
+announcing a new program. He says, 'We're going to go where no one has
+ever been. We're going to land on... the sun!' Reporter says, 'But, sir,
+the sun's a burning mass of fire.' The official replies, 'Ah! Thought of
+that. That's why we're going to go at night.' What I know is politics. Public
+perception. And the image of NASA is not good. Telescopes launched that can't
+focus. Planetary probes that crashed because engineers mixed up meters and
+feet. The only time NASA makes the front page anymore, is when something goes
+wrong. You need to get off the front page. This administration has only one
+space priority: that you guys stop screwing up. Thanks for your time.
+
+He gets up and leaves.
+
+LEO [prelap]
+Will's going to come to you...
+
+CUT TO: INT. - WHITE HOUSE HALLWAY - DAY
+
+Toby and Leo are walking down the hallway, talking as they go.
+
+LEO [cont.]
+... about a policy brief for the Vice President.
+
+TOBY
+Unfortunately, everything we have, we care about.
+
+LEO
+We've got to give him something.
+
+TOBY
+What can he handle? Potholes.
+
+LEO
+Infrastructure?
+
+TOBY
+No, I mean actual potholes, on - I don't know - the interstate.
+
+LEO
+Come up with something low-profile and easy. Keep him out from under-foot.
+
+They have reached the door to Toby's office. [whispering] There's another
+thing.
+
+They go in and close the door.
+
+LEO
+We've got trouble, Toby.
+
+TOBY
+Uh-huh?
+
+Leo begins telling him what is going on. He speaks in a soft whisper that
+we can't hear.
+
+CUT TO: INT. - OVAL OFFICE - DAY
+
+Bartlet is sitting at his desk signing some papers. We hear a knock at the
+door and we see Leo and Toby enter from Leo's office.
+
+BARTLET
+You go see the Vice President?
+
+LEO
+When I briefed him, he kind of tilted his head. I'll update him after.
+
+NANCY
+Sir? Everyone's here.
+
+Bartlet motions for her to sent them in.
+
+NANCY
+You can come in.
+
+McNally, Hutchinson, Slattery, and Sliger all come in from the Outer Oval
+Office. They stand in a line in front of the President's desk.
+
+BARTLET
+Where are we?
+
+SLATTERY
+The Chinese have no indication North Korea did this.
+
+McNALLY
+Beijing feels comfortable ruling out China.
+
+BARTLET
+What do we think?
+
+SLIGER
+It's good news and bad. We think North Korea's got two bombs, probably more.
+
+TOBY
+Please let that be the bad news.
+
+SLIGER
+'Cause we also believe their technology's so advanced they don't need to
+perform tests.
+
+BARTLET
+Why does the good news make me feel worse? Iran.
+
+Bartlet gets up from his chair and stands behind his desk.
+
+HUTCHINSON
+Moscow doesn't think so.
+
+LEO
+They might just be covering their own ass.
+
+McNALLY
+There's rumors about three missing warheads from Kazakhstan that supposedly
+wound up in Iran.
+
+SLIGER
+Rumors.
+
+McNALLY
+Persistent ones... that I get from your people.
+
+LEO
+The IAEA reports Iran's had a secret nuclear program for the past 18 years.
+
+HUTCHINSON
+It makes more geographic sense. The Korean peninsula's 4,000 miles from the
+blast site.
+
+LEO
+What it's near is Iran.
+
+McNALLY
+Sir, given the volatility of the region, a secret test would be how Iran
+would certainly proceed.
+
+BARTLET
+All right, let's put our cards on the table. What helped keep the Cold War
+cold was a sense of moral restraint that these weapons were to terrible to use.
+
+LEO
+That restraint won't exist in jihadists who strap bombs to their chests and
+enter nightclubs.
+
+SLIGER
+There are moderate elements on the ascendancy in Iran.
+
+TOBY
+"In the Koran, God commanded to kill the wicked and those who do not see the
+rights of the oppressed and to murder them. If we abide by the Koran, all of
+us should mobilize to kill." Televised address by President Alijani: Moderate.
+
+BARTLET
+Mr. Slattery, have the Iranian Ambassador to the U.N. fly down to the Swiss
+embassy to meet with you immediately.
+
+SLATTERY
+Thank you, Mr. President.
+
+BARTLET
+Thank you, all.
+
+ALL
+Thank you, sir.
+
+They all leave as Bartlet contemplates what is happening.
+
+FADE OUT.
+END ACT ONE.
+* * *
+
+ACT TWO
+
+FADE IN: INT. - PRESS BRIEFING ROOM - DAY
+10:56 AM
+
+We see and hear that CJ is briefing the press.
+
+C.J.
+Lyle?
+
+LYLE
+What's the reaction to announcements of new Israeli settlements in the
+West Bank?
+
+C.J.
+Our position remains that we discourage such activities.
+
+LYLE
+Well, is the administration contemplating a more forceful expression of
+disapproval?
+
+C.J.
+We continue to urge every party in the region to take every step to reduce
+tensions. Steve?
+
+STEVE
+Do you have a response to Taylor Reid?
+
+C.J.
+That's hard to say, never having heard of... Is it him or her?
+
+STEVE
+On his new cable show last night, you were named "Chicken of the Week".
+
+C.J.
+Sorry?
+
+STEVE
+His designation of the newsperson who he says is refusing to appear on
+his show.
+
+C.J.
+Well, it's hard to refuse to appear on something you've never heard of.
+
+STEVE
+So, you'd be willing to go on?
+
+C.J.
+I have no idea. Though, truly, what girl can resist being referred to as
+poultry? Gail?
+
+CUT TO: INT. - WHITE HOUSE - BASEMENT - HALLWAY - DAY
+
+Toby and Leo are walking.
+
+TOBY
+What about going to the U.N.?
+
+LEO
+It'll be discussed.
+
+TOBY
+Isn't that what it's there for?
+
+LEO
+Yeah. But this isn't the room where you talk about that.
+
+They have arrived at the door to the situation room. Leo enters a code on
+the keypad, and then places his hand on the palm scanner. Leo enters the
+situation room and Toby remains in the hallway.
+
+CUT TO: INT. - SITUATION ROOM - CONTINUOUS
+
+The National Security Team is seated around the table and they are talking
+as Leo comes in and sits down next to Bartlet.
+
+BARTLET
+Follow-up confirms it was a nuclear blast?
+
+HUTCHINSON
+Yes, sir. We're still gathering data on precise yield and type.
+
+BARTLET
+Options, General.
+
+ALEXANDER
+North Korea's nuclear facilities and weapons are stored in tunnels a half
+mile underground. Unreachable by air power. And they've threatened nuclear
+retaliation in the event of attack, presumably against the South, but also
+conceivably against Australia or Japan.
+
+McNALLY
+Or us. They've tested a missile that could possibly reach the U.S.
+
+BARTLET
+And Iran?
+
+ALEXANDER
+There are available nuclear targets for air strike.
+
+HUTCHINSON
+The downside is a potential retaliatory nuclear strike at Israel.
+
+CUT TO: INT. - JOSH'S OFFICE - DAY
+
+Josh is seated at his desk as ALEX MOREAU comes in and introduces herself. As
+she is speaking, he stands up behind his desk.
+
+ALEX MOREAU
+Mr. Lyman? Alex Moreau, Assistant Administrator, NASA. I was at the
+breakfast. I mention it because you were hardly there long enough to take
+any of us in. You're wrong about us only getting on the front page when we
+screw up; Hubble images appear on page one all the time.
+
+JOSH
+You're sending up a new telescope.
+
+MOREAU
+The Webb, yes. Out past the moon.
+
+JOSH
+Every news story noted it'll be too far out for the Shuttle to fix if it's
+all screwed up, like the Hubble was. I prepare even for meetings I don't'
+want to go to. I wasn't improvising. You guys are lost in space.
+
+Josh sits back down and Alex comes in and sits across from him.
+
+MOREAU
+Well, I agree with you, NASA's lost purpose. But the problem isn't getting off
+the front page, its getting back on. The New York Times has never published
+a larger headline than when Neil Armstrong walked on the moon.
+
+JOSH
+Only, you don't do that anymore. Now, it's launches to service the pointless
+International Space Station - which should be re-christened the SS Good Money
+After Bad. It's all low-earth orbits. It like if, 30 years after Columbus,
+Spain expected people to get hot and bothered about a trip to Mallorca.
+
+MOREAU
+That's why we need to do this.
+
+She reaches down and grabs something out of her bag. She lays a button on
+Josh's desk. It is red and has 'MOB' printed on it.
+
+JOSH
+What's this?
+
+He picks up the button and looks at it.
+
+MOREAU
+'Mars or Bust'. We want the government to commit to a manned mission to Mars.
+
+JOSH
+There aren't 20 votes for it in Congress. You couldn't get funding for
+the buttons.
+
+He drops the button back on his desk.
+
+MOREAU
+The Republican Congress isn't the problem. It's liberals that killed the
+space program.
+
+JOSH
+Yeah, 'cause we like to use government money to, I don't know, help people.
+
+MOREAU
+Space travel's inspirational. You don't think that helps people?
+
+JOSH
+Not like feeding them or getting them jobs.
+
+MOREAU
+Well, you have to feed the soul, too. Ever look through a telescope?
+
+JOSH
+In school. Uh, a guy on my floor liked to aim one at the women's dorm.
+MOREAU
+What're you doing tonight?
+
+JOSH
+Uh...
+
+MOREAU
+Until you get a good look at what's up there, you only think you're
+prepared. Pick you up at 8:00.
+
+She gets up and leaves the office. Josh gets up and walks out of his office
+and over to Donna's cubicle.
+
+JOSH
+Donna, cancel my dinner with Bregstone tonight.
+
+DONNA
+Stargazing?
+
+JOSH
+You were listening?
+
+DONNA
+I'm right outside. [pause] Would you be going if she weren't attractive?
+
+JOSH
+We'll never know.
+
+CUT TO: INT. - TOBY'S OFFICE - DAY
+
+We see Will walking through the Communications Office and into Toby's office.
+
+WILL
+[clearing throat] Did you...
+
+TOBY
+I spoke to Leo. I got the Vice President a policy focus.
+
+WILL
+Great.
+
+TOBY
+Good government.
+
+WILL
+Not that chestnut. "Reducing bureaucracy, rewriting regulations into plain
+English."
+
+TOBY
+Extremely important.
+
+WILL
+And incredibly boring.
+
+TOBY
+As is the Vice President. A match made in heaven.
+
+WILL
+I don't think many theologians would stipulate Toby Ziegler's office as heaven.
+
+TOBY
+You asked, and ye have received.
+
+WILL
+And, yet, my joy is less than full. "Revoking the franking privilege".
+
+TOBY
+I have work to do.
+
+Will turns and leaves through the door.
+
+TOBY
+Close the door.
+
+Will closes the door and walks away.
+
+CUT TO: INT. - MEETING ROOM - DAY
+12:08
+THE SWISS EMBASSY
+
+Leo, McNally, and Slattery are standing around waiting for the IRANIAN
+AMBASSADOR.
+
+McNALLY
+Lovely room.
+
+SLATTERY
+The Swiss like nice things.
+
+LEO
+You can afford them when you don't have to pay for a national defense.
+
+A woman comes to the doorway and ushers in the Ambassador.
+
+LEO
+Mr. Ambassador.
+
+AMBASSADOR
+Mr. McGarry.
+
+ASSISTANT
+Do you require anything else?
+
+LEO
+No thank you, ma'am.
+
+The assistant leaves as Leo introduces the Ambassador to the others. He
+shakes both their hands as they are introduced.
+
+LEO
+National Security Advisor McNally, Assistant Secretary of State Slattery. I
+hope the trip down wasn't too inconvenient.
+
+AMBASSADOR
+The summons was a bit abrupt.
+
+LEO
+Please.
+
+They all sit.
+
+LEO
+We'd like to discuss your nuclear program.
+
+AMBASSADOR
+We've agreed to IAEA inspections, suspended production on enriched uranium.
+
+LEO
+Temporarily.
+
+McNALLY
+Your 40-megawatt heavy water reactor at Arak. It's a size too small for
+electricity generation, and larger than for research.
+
+LEO
+The type that provides fuel for nuclear weapons in India and Pakistan.
+
+AMBASSADOR
+
+And Israel, I understand.
+
+SLATTERY
+The Iranian exile organization NCR has identified other secret enrichment
+facilities: the Lashkar-Abad site near Hashtgerd, a site near Ramandeh
+village...
+
+LEO
+Why are you enriching uranium?
+
+AMBASSADOR
+For reactor fuel, for power generation, as our European friends recognize
+is our sovereign right.
+
+LEO
+Power you don't need, with you oil and gas reserves.
+
+AMBASSADOR
+It is necessary, because of rising domestic consumption rates, and our desire
+to preserve oil and gas to generate foreign currency.
+
+McNALLY
+You displayed the Shahab 3 missile. The only logical purpose for such a
+long-range weapon is to carry a nuclear payload.
+
+AMBASSADOR
+And we enjoy and anticipate stable relations with Saudi Arabia, Pakistan,
+Turkey, Afghanistan. These are the nations within range of this missile.
+
+LEO
+And Israel, I understand. Sir, we believe your country has been engaged in
+developing nuclear weapons.
+
+AMBASSADOR
+The Ayatollah has decreed their production to be haram - prohibited on
+religious grounds. We consider the development and use of such weapons to
+be immoral, inhumane, and against our basic Islamic beliefs. In contrast to
+the United States, which is not merely the only nation to ever employ such
+weapons--twice--but also brought the world to the brink of nuclear holocaust
+with the Cuban missile crisis.
+
+LEO
+The United States will not tolerate these weapons' further proliferation.
+
+AMBASSADOR
+It is disconcerting to be dictated to by the only transgressor in human
+history.
+
+LEO
+Let me make myself plain, Mr. Ambassador. Evidence that Iran possesses or
+has tested a nuclear weapon will be greeted by the United States as a matter
+of gravest consequence.
+
+AMBASSADOR
+Are we finished?
+
+Leo nods and they all get up.
+
+AMBASSADOR
+I know what terrifies you: an Islamic bomb.
+
+LEO
+And I know what concerns Iran: a Jewish bomb.
+
+AMBASSADOR
+Einstein, Oppenheimer, Teller... They're all Jewish bombs.
+
+He leaves them.
+
+FADE OUT.
+END ACT TWO.
+* * *
+
+ACT THREE
+
+FADE IN: INT. - HALLWAY - OUTSIDE LEO'S OFFICE - DAY
+3:36 PM
+
+Josh is standing against the wall and he is reading a newspaper. Leo walks
+out of his office and they walk together as they talk.
+
+JOSH
+You all right? You look tired.
+
+LEO
+I've been tired five years.
+
+JOSH
+Tired... er.
+
+LEO
+One of those days.
+
+JOSH
+So, I had this meeting with NASA this morning.
+
+LEO
+What a waste, since the moon. My generation never got the future it was
+promised.
+
+JOSH
+What do you mean?
+
+LEO
+35 years later, cars, air travel's the same. We don't even have the Concorde
+anymore. Technology stopped.
+
+JOSH
+The personal computer.
+
+LEO
+A more efficient delivery system for gossip and pornography. Where's my jet
+pack, my colonies on the Moon? Just a waste.
+
+Leo walks off.
+
+CUT TO: INT. - CJ'S OFFICE - DAY
+
+Carol walks in to C.J.'s office. C.J. is sitting at her desk.
+
+CAROL
+Chris Aldrich of the Sun wants ten minutes, and Danny Concannon left a message.
+
+C.J.
+And it is...?
+
+CAROL
+I'm not sure I can do it justice.
+
+C.J.
+Carol...
+
+CAROL
+Okay. It's "bawk, bawk-bawk, bawk". Chicken noises. This whole Taylor Reid
+show thing.
+
+C.J.
+Get me a copy of the show.
+
+BARTLET [prelap]
+Latest intel.
+
+CUT TO: INT. - SITUATION ROOM - DAY
+
+Bartlet and the National Security Team are seated around the table.
+
+SLIGER
+Combing through spy satellite data going back a week, analyzing for any
+suspicious presence at the blast site.
+
+HUTCHINSON
+U-2s are over Iran and North Korea, monitoring for any unusual activity.
+
+LEO
+Any conclusions?
+
+HUTCHINSON
+No smoking gun.
+
+BARTLET
+Recommendations. If it's North Korea.
+
+HUTCHINSON
+It's not. The Chinese don't think so, the CIA.
+
+SLIGER
+We can't say definitively, but no, it doesn't appear likely it was the Koreans.
+
+BARTLET
+Iran, then. General?
+
+ALEXANDER
+Surgical air strikes on enrichment sites.
+
+LEO
+Which ones?
+
+HUTCHINSON
+All five. In for a penny.
+
+McNALLY
+If they retaliate?
+
+ALEXANDER
+They'll regret it.
+
+Bartlet stands up and everyone else follows.
+
+BARTLET
+Get the B-2s in the air, General.
+
+ALEXANDER
+Yes, sir.
+
+BARTLET
+We go the minute, and I mean the minute, we're certain.
+
+Bartlet leaves.
+
+ALL
+Thank you, Mr. President.
+
+RUSSELL [prelap]
+"Good government"?
+
+CUT TO: INT. - VICE PRESIDENT'S OFFICE - DAY
+
+Russell and Will are talking in his office.
+
+WILL
+Curtailing Congressional junkets, shuttering archaic agricultural field
+offices...
+
+RUSSELL
+You don't think I should do it?
+
+WILL
+It buries you in minutia. The public's all for it, but they'd rather chug
+sewage than have to hear anyone discuss it.
+
+RUSSELL
+You know, it's easy to characterize junkets as vacations at taxpayer's expense,
+but they serve a purpose. Contacts get made, frank exchanges take place that
+would never happen in the glare of Washington.
+
+WILL
+Reason enough to beg off. You don't fully agree with the administration's
+stance.
+
+Russell looks as though he has just thought of something profound.
+
+WILL
+Sir?
+
+RUSSELL
+Will you excuse me?
+
+WILL
+Yeah, of course, sir.
+
+Will leaves as Russell thinks.
+
+CUT TO: INT. - CJ'S OFFICE - DAY
+
+C.J. is watching a tape of the Taylor Reid show. Toby walks in while she is
+watching it.
+
+TAYLOR REID
+... and when you work for a man like the President, who's got, what I think you
+could generously characterize as a casual relationship with the truth... When
+your job is to go out and be his spokesperson, the question that naturally
+arises is how can you justify lying for your boss the way C.J. Cregg has
+to. And if Ms. Cregg isn't a liar, then the only obvious conclusion to draw
+is that she's either gullible, and idiot, or so completely out of the loop
+that she shouldn't be drawing a salary.
+
+She shuts off the TV. Toby has sat down on the couch.
+
+TOBY
+I want to see where he calls you a chicken.
+
+She turns and glares at him.
+
+TOBY
+But can wait.
+
+C.J.
+I want a piece of that twerp.
+
+TOBY
+You can't win.
+
+C.J.
+I'd mop the floor with him - smirk first.
+
+TOBY
+You'd just keep it alive. Old newspaper adage: "Never pick a fight with
+someone who buys ink by the barrel."
+
+Toby's pager goes off. He takes it out and looks at it and then replaces it.
+
+TOBY
+I've got to go.
+
+C.J.
+Something going on?
+
+TOBY
+I'll see you in the morning.
+
+Toby leaves.
+
+CUT TO: INT. - OVAL OFFICE - DAY
+
+Bartlet is pacing his office while he is reading a book. Charlie knocks and
+enters from the outer office.
+
+CHARLIE
+Excuse me, sir.
+
+BARTLET
+I know. I've got to get dressed for the HHS thing.
+
+CHARLIE
+Mr. President, you should cancel. It's been a long day, sir.
+
+BARTLET
+I'll be fine.
+
+CHARLIE
+You should get some rest.
+
+BARTLET
+I'm not sure I could sleep.
+
+He closes the book.
+
+BARTLET
+I'm going to get dressed.
+
+CHARLIE
+Yes, Mr. President.
+
+Bartlet leaves and then Charlie returns to the outer office and shuts the door.
+
+CUT TO: INT. - LEO'S OFFICE - DAY
+
+Leo is seated at his desk. Toby comes in.
+
+TOBY
+Yeah.
+
+LEO
+Shut the door.
+
+Toby shuts the door and walks over to Leo's desk.
+
+LEO
+B-2s have taken off. Their targets are five uranium enrichment sites in Iran.
+
+TOBY
+We've confirmed it was them?
+
+LEO
+It's not a go till we're sure.
+
+TOBY
+Is this the room?
+
+LEO
+What?
+
+TOBY
+Where we talk about the U.N. So far, I'm the only one bringing it up.
+
+LEO
+The U.N. doesn't want this. They want to wring their hands and censure us
+after, but they expect us to take care of things like this. And after they've
+exhausted themselves calling us warmongers and imperialists they'll go home
+and quietly drink toasts to their relief.
+
+TOBY
+Unilateral air strikes.
+
+LEO
+Have a statement ready.
+
+Toby leaves the office.
+
+CUT TO: EXT. - STREET - NIGHT
+
+We see an SUV driving down the street. Josh and Alex Moreau are inside.
+
+MOREAU [VO]
+I have a political question.
+
+JOSH [VO]
+Hmm?
+
+MOREAU [VO]
+If the theory of democracy is that people have the most direct connection
+to officials at the...
+
+CUT TO: INT. - CAR - CONTINUOUS
+
+MOREAU [cont.]
+... most local level, how come everybody can name the President, but no one
+knows who their assemblymen is?
+
+JOSH
+Complacency--who knows? It's like asking why the sky's blue.
+
+MOREAU
+The colors that make up light have different wavelengths. The color with the
+shortest wavelength, blue, is the most easily dispersed. So, when sunlight
+hits the Earth's atmosphere, blue's what gets scattered most.
+
+Josh looks at her as though he has no idea what she's talking about.
+
+MOREAU
+Why the sky's blue.
+
+CUT TO: INT. LEO'S OFFICE - NIGHT
+
+Leo is sitting at his desk. The phone is ringing. He answers it.
+
+LEO
+[into phone] Yeah. ... Can this wait till tomorrow? ... Put him on. ... Yes,
+Mr. Vice President.
+
+CUT TO: EXT. - DC COUNTRYSIDE - NIGHT
+
+The SUV that Alex and Josh are riding in parks on a country hillside.
+
+MOREAU
+This is good.
+
+Alex gets out, followed by Josh. They go to the back of the SUV and grab
+the equipment.
+
+MOREAU
+Here, could you...?
+
+JOSH
+You want me to carry that?
+
+MOREAU
+Yes, please.
+
+JOSH
+Okay. When you said... I thought we were going to some big observatory.
+
+MOREAU
+You're not ready for that. You need to have the same experience nine-year-olds
+are having all across the country tonight.
+
+JOSH
+Are they ruining their shoes, too?
+
+CUT TO: INT. - HALLWAY - OUTSIDE COMMUNICATIONS OFFICE - NIGHT
+
+Leo, Nancy, and Russell are walking. They walk past the Communications office.
+
+CUT TO: INT. - TOBY'S OFFICE - CONTINUOUS
+
+Toby is sitting at his desk. He watches the three walk by.
+
+CUT TO: EXT. - DC COUNTRYSIDE - NIGHT
+
+Josh and Alex have set the telescope up and they are getting ready to look
+at the stars.
+
+MOREAU
+Amazing once you get away from the city lights.
+
+JOSH
+There's one named after me up there. The Josh and Linda star.
+
+MOREAU
+The International Star Registry. Romantic.
+
+JOSH
+Yeah. Name something that's going to be there for billions of years after
+two people who won't be speaking in six months.
+
+MOREAU
+Alex and Guillermo.
+
+JOSH
+Guillermo?
+
+MOREAU
+Yeah. Chilean. Long story.
+
+JOSH
+Sexy. Player. Dumped you.
+
+MOREAU
+Okay, not such a long story. Go ahead.
+
+Alex has adjusted the telescope using the remote she is holding in her
+hand. Josh bends over to look through the telescope. We see Jupiter through
+the telescope.
+
+MOREAU
+Jupiter. The dots on either side are the four Galilean moons. You're seeing
+what Galileo saw 400 years ago.
+
+JOSH
+I remember studying Jupiter. It has 13 moons.
+
+MOREAU
+Yeah, it has 61.
+
+JOSH
+61?!
+
+MOREAU
+Go ahead.
+
+She adjusts it again. Josh again looks through it. We see a nebula through it.
+
+JOSH
+Wow. What is that?
+
+MOREAU
+The Orion Nebula. Gas and dust. Stars are born in that. Well, born and die,
+actually. Everything, every atom in our bodies comes from exploding stars. I
+guess Joni Mitchell was right. We are stardust.
+
+JOSH
+Or, put another way, nuclear waste.
+
+She adjusts it again and indicates for Josh to look. This time, we see Mars
+through the telescope.
+
+JOSH
+Is that...?
+
+MOREAU
+Mars. Since it's near its closest point, you are getting the best look at
+it anyone's had at it in 60,000 years.
+
+CUT TO: INT. - SITUATION ROOM - NIGHT
+
+We see two military officers open the door as Bartlet enters the Situation
+Room. They National Security Team, as well as the Vice President, is seated
+at the table. They are called to attention as Bartlet comes to his seat.
+
+BARTLET
+Everyone.
+
+LEO
+Good evening, sir.
+
+BARTLET
+One thing about this job: it's hard to unobtrusively slip out of a party.
+
+They all sit.
+
+LEO
+Mr. Vice President, would you tell everyone what you told me?
+
+RUSSELL
+I was on a Congressional junket to the Mideast last year. Wound up at a
+party on a boat cruising the Mediterranean. The combination of jet lag,
+booze, and choppy seas made some guests sick. As they leaned over the rail,
+one of our high-level government hosts came over to me and drunkenly mused
+he hoped they weren't puking on one of their nuclear subs. He winked and
+lurched off. And the host's country... was Israel.
+
+McNALLY
+He was talking about nuclear-powered subs.
+
+ALEXANDER
+Israeli subs are diesel-powered.
+
+HUTCHINSON
+Guy was drunk.
+
+SLIGER
+Israel's nuclear capability's been an open secret for years. Why would they
+perform a test now?
+
+RUSSELL
+Getting nuclear warheads on submarine-based missiles requires miniaturization
+technology that could need to be tested.
+
+SLIGER
+'Could'...
+
+BARTLET
+I know. That's not a word your fond of at Langley. Let the man talk.
+
+RUSSELL
+Israel's been developing advanced fusion-boosted technology. This technology
+is extremely difficult and requires testing to produce warheads that are
+capable of being shrunk to the size needed to be placed on submarine-based
+cruise missiles.
+
+BARTLET
+Where are the bombers, General?
+
+ALEXANDER
+Three hours out of Missouri, sir. They'll be over their targets in Iran in
+14 hours.
+
+BARTLET
+Tell the Israeli ambassador to get his Prime Minister on a plane.
+
+SLATTERY
+Yes, sir.
+
+BARTLET
+General.
+
+ALEXANDER
+Yes, sir?
+
+BARTLET
+Put a hold on the bombers.
+
+ALEXANDER
+Yes, sir.
+
+BARTLET
+Leo, Mr. Vice President.
+
+He indicates for them to follow him. He stands, as does everyone else.
+
+BARTLET
+Thank you, all.
+
+ALL
+Thank you, Mr. President.
+
+CUT TO: INT. - WHITE HOUSE - BASEMENT - HALLWAY - NIGHT
+
+Bartlet, Leo, and Russell are walking through the hall.
+
+LEO
+We'll need a cover story for the visit.
+
+BARTLET
+Brief Toby. Have him get with C.J. right away. Thank you, Bob.
+
+RUSSELL
+I'm, uh, I'm sure Leo's wondering how it is I know so much about all this. You
+know all those jokes about me being the Congressman from Western Colorado
+Mining. Colorado Plateau is this country's leading source of uranium. Good
+night, Mr. President. Leo.
+
+He turns and leaves. Leo and Bartlet head up the stairs toward their offices.
+
+FADE OUT.
+END ACT THREE.
+* * *
+
+ACT FOUR
+
+FADE IN: EXT. - DC STREET - OUTSIDE APARTMENT BUILDING - NIGHT
+
+Alex's SUV pulls up to the curb outside the building.
+
+CUT TO: INT. - CAR - CONTINUOUS
+
+Alex puts the car in park.
+
+JOSH
+Okay it's not going to happen, but tell me about going to Mars.
+
+MOREAU
+Right here?
+
+Josh reaches over, stops the car, and takes the keys.
+
+MOREAU
+The plan is called Mars Direct.
+
+JOSH
+What'll it cost?
+
+MOREAU
+$30, $40 billion.
+
+Josh scoffs.
+
+MOREAU
+Over ten years. It's the cost of one weapon's system.
+
+JOSH
+Go on.
+
+MOREAU
+We launch a crew directly there, like we went to the Moon, and use the
+resources there to make the fuel to get back.
+
+JOSH
+Is that doable?
+
+MOREAU
+It's 19th century chemistry. It's all doable now. All we lack is the ambition
+and political will.
+
+CUT TO: EXT. - WHITE HOUSE - DAY
+FRIDAY 7:26 AM
+
+CUT TO: INT. - WHITE HOUSE LOBBY - DAY
+
+Toby and C.J. are walking.
+
+TOBY
+The Israeli Prime Minister is flying in today to discuss their new settlement
+activity.
+
+C.J.
+You mean the thing you had me shrug off yesterday as a non-story?
+
+TOBY
+That was yesterday.
+
+C.J.
+I'm trying to decide if I'm gullible, an idiot, or being completely kept
+out of the loop.
+
+TOBY
+Yeah.
+
+Toby walks off.
+
+CUT TO: INT. - VICE PRESIDENT'S OFFICE - DAY
+
+Russell is seated and Will is standing. They are talking.
+
+WILL
+Mr. Vice President.
+
+RUSSELL
+I've been thinking about this good government thing.
+
+WILL
+You should speak directly to the President about your reasons for not
+going along.
+
+RUSSELL
+No, I'm gonna do their bidding on this.
+
+WILL
+Due respect, it's not a serious policy brief. You have to get the West Wing
+to start treating you with more respect.
+
+RUSSELL
+I'm a team player. I do what's asked. And, Will, for the record, I'm not
+worried about having the President's respect.
+
+CUT TO: INT. - OVAL OFFICE - DAY
+
+Bartlet is seated at his desk and he is signing some papers. Charlie is
+standing behind him and he takes the papers as Bartlet hands them to him.
+
+BARTLET
+Thanks for your concern yesterday.
+
+CHARLIE
+Did you get some sleep, sir?
+
+BARTLET
+Not much.
+
+He continues signing papers.
+
+BARTLET
+Some terrible choices have had to be made in this room, none more agonizing
+that Hiroshima and Nagasaki.
+
+CHARLIE
+I can't imagine.
+
+BARTLET
+When you sit here, you have to.
+
+He gets up, holding the book he was reading earlier in his hands, and walks
+over and puts it on his bookshelf.
+
+CHARLIE
+Would you have made the same decision Truman made?
+
+BARTLET
+On Okinawa, the Japanese knew they couldn't win, so they just tried to kill
+as many Americans as possible. There were 110,000 Japanese troops and nearly
+a quarter of a million people died there, including Japanese civilians. To
+defend  Japan itself, they would have mobilized two and a half million,
+with a civilian militia of 30 million more pressed into service just to
+die for the emperor.
+
+CHARLIE
+So, you could claim the bombings actually saved lives.
+
+BARTLET
+That's one argument. The other is that after Potsdam Truman wanted Stalin
+to know we had the bomb and we were willing to use it.
+
+CHARLIE
+But would you have done it, sir?
+
+CUT TO: INT. - JOSH'S OFFICE - DAY
+
+Josh is sitting at his desk and he is flipping through the pages of a book.
+
+JOSH
+[yelling] Donna!
+
+DONNA
+[calmly] Yes.
+
+Josh looks up and sees her standing in the doorway.
+
+JOSH
+How long have you been there?
+
+DONNA
+Long enough.
+
+JOSH
+Uh... I need a breakdown of NASA funding as a percentage of discretionary
+spending in five year increments starting in 1969. Hey, you want to hear
+something cool? Voyager I just crossed the termination shock eight billion
+miles away. First human-made object to leave the solar system.
+
+DONNA
+Funny, I'm going through a little termination shock myself.
+
+JOSH
+What?
+
+DONNA
+Suddenly this consuming interest in space just because some NASA administrator
+batted eyes at you?
+
+JOSH
+You hate that I'm interested in this.
+
+DONNA
+What was your first hint?
+
+JOSH
+That's perfect. Sit down. Sit. I need to play out an argument.
+
+She sits down in front of his desk.
+
+JOSH
+Everyone hates us.
+
+DONNA
+Inspiring start.
+
+JOSH
+We're the most dominant nation on earth. But too often the face of our
+economic superiority...
+
+CUT TO: EXT. - WHITE HOUSE - DRIVEWAY - DAY
+
+We see a VIP motorcade pulling up to the doors as Josh's voice can still
+be heard.
+
+JOSH [VO][cont.]
+... is a corporate imperialism, our technological dominance shown by Smart
+bombs and Predator drones. We could do something else. Something generous
+and uplifting for all humankind.
+
+We see someone open the door of one of the limos and we see a pair of feet
+step out.
+
+CUT TO: INT. - JOSH'S OFFICE - DAY
+
+JOSH [cont.]
+We could send the first representatives from Earth, to walk on another
+planet. We could land people on Mars.
+
+CUT TO: INT. - HALLWAY - LOBBY - DAY
+
+We see the Israeli Prime Minister and his entourage walking through the
+hallway.
+
+CUT TO: INT. - JOSH'S OFFICE - DAY
+
+JOSH
+Needs work.
+
+DONNA
+Needs something.
+
+Donna gets up from her seat.
+
+JOSH
+Yeah, that inspiration thing.
+
+He gets up from his seat.
+
+JOSH
+
+Voyager, in case it's ever encountered by extra-terrestrials...
+
+CUT TO: INT. - OUTER OVAL OFFICE - DAY
+
+We see the Prime Minister walk into the Oval Office. Bartlet and Leo are
+waiting for him. Bartlet greets him when he walks in.
+
+JOSH [VO] [cont.]
+... is carrying photos of life on Earth, greetings in 55 languages...
+
+BARTLET
+Prime Minister, thank you for coming.
+
+JOSH [VO][cont.]
+... and a collection of music from Gregorian chants to Chuck
+Berry. Including...
+
+We see Leo and the Prime Minister shake hands.
+
+CUT TO: INT. - JOSH'S OFFICE - DAY
+
+JOSH [cont.]
+... "Dark Was The Night, Cold Was The Ground" by '20s bluesman Blind Willie
+Johnson, whose stepmother blinded him when he was seven by throwing lye in is
+his eyes after his father had beat her for being with another man. He died,
+penniless, of pneumonia after sleeping bundled in wet newspapers in the
+ruins of his house that burned down. But his music just left the solar system.
+
+DONNA
+Okay, that got me.
+
+She walks out of the office.
+
+CUT TO: INT. - OVAL OFFICE - DAY
+
+Bartlet and the Prime Minister sit down across from each other.
+
+BARTLET
+Thank you for coming, Mr. Prime Minister. You've had a long flight and
+I've had a long last day and a half. Let's not waste any time with veiled
+questions and coy answers. Your government conducted a atmospheric nuclear
+test over the Indian Ocean 36 hours ago. This action poses enormous problems
+for the region, for the world.
+
+PRIME MINISTER
+And for the U.S.
+
+BARTLET
+Yes. It undercuts our counterproliferation policy and makes us look at best,
+biased, and at worst, like outright hypocrites.
+
+PRIME MINISTER
+You do not look hypocritical espousing nonproliferation while funding research
+on a new generation of tactical nuclear bombs? This is not my view. The U.S. is
+merely looking after its national interest. As Israel has the right to do.
+
+BARTLET
+Proliferation breeds proliferation. China's bomb produced India's. India's
+begat Pakistan's.
+
+PRIME MINISTER
+The United States' ideal number of nuclear weapon states is one. No matter if
+it's merited or arrogant, it is irrelevant. Our chief of Military Intelligence
+asserts that if Iran completes its enrichment program it will be able to
+produce nuclear weapons within one year.
+
+BARTLET
+No one disputes Israel lives under threat.
+
+PRIME MINISTER
+Threat? We are 6 million surrounded by 200 million who wish us obliterated. For
+Israel, deterrence is not an option, but an imperative.
+
+BARTLET
+There's a fine line between deterrence and provocation.
+
+PRIME MINISTER
+We model our approach on America's during the Cold War: Mutual Assured
+Destruction.
+
+BARTLET
+There's a reason its acronym was MAD.
+
+PRIME MINISTER
+It succeeded entirely in keeping the world safe. Iran will become a nuclear
+state. I mean, what difference if it takes one year or five or ten? What
+difference?
+
+BARTLET
+We can stop them. By force if it comes to that.
+
+PRIME MINISTER
+But should this fail, all that would stand in the way of an Iranian first
+strike is an assured second-strike capability. Submarines armed with nuclear
+missiles. Mr. President, this is essential for Israel's survival.
+
+BARTLET
+Your argument boils down to asking the world to trust you.
+
+PRIME MINISTER
+As does America's.
+
+BARTLET
+It's telling that the physicists involved in the creation of  these weapons
+became the most fervid opponents of their use. Einstein, Oppenheimer,
+Szilard. Hans Bethe wrote: "If we fight a war and win it with H-bombs,
+what history will remember is not the ideas we were fighting for, but the
+methods we used to accomplish them. These methods will be compared to the
+warfare of Genghis Khan, who brutally killed every last inhabitant of Persia."
+
+CUT TO: INT. - LEO'S OFFICE - NIGHT
+
+Leo is standing as Toby walks in.
+
+TOBY
+Hey.
+
+LEO
+It's over. It was the Israelis. The bombers have turned back.
+
+TOBY
+It's a hell of a dress rehearsal. This is our plan. This is our nuanced,
+reasoned... we bomb, then they nuke, then we nuke. This is the best we've
+gamed this out? The fate of the world just hung on a Bing Bob brainstorm. You
+want to live by those odds?
+
+LEO
+As opposed to sanctions, inspections and never-ending talks while a Hezbollah
+martyr leads a donkey cart packed with plutonium smack into downtown Tel Aviv.
+
+TOBY
+It's not over. And we need a better plan.
+
+Toby walks out of the office.
+
+CUT TO: INT. - JOSH'S APARTMENT - NIGHT
+
+Josh is sitting in a recliner listening to some music when we hear the
+doorbell buzz. He gets up and answers the door. No one is there but we see
+that someone has left a smaller telescope than the one he and Alex used
+outside his doorstep with a bow stuck on top.
+
+CUT TO: EXT. - DC STREET - NEAR CAPITOL BUILDING - NIGHT
+
+With the Capitol building in view, we see Josh set his telescope up and peer
+through it at the stars.
+
+CUT TO: INT. - SITUATION ROOM - NIGHT
+
+Several people are seated at the table. They stand as Bartlet comes in. He
+motions for them to sit back down. He walks over and looks at the map.
+
+CUT TO: EXT. - DC STREET - NEAR CAPITOL BUILDING - NIGHT
+
+We again see Josh staring through his telescope.
+
+CUT TO: INT. - SITUATION ROOM - NIGHT
+
+Bartlet walks over to one of the screens showing the region and the replay
+of the detonation. We see a deeply reflective look on his face as we...
+
+DISSOLVE TO: END TITLES.
+FADE TO BLACK.
+THE END.
+* * *
+
+The West Wing episode 5.13 "The Warfare of Genghis Khan", original air date
+11 February, 2004.
