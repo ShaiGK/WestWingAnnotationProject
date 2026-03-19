@@ -14,6 +14,7 @@ import re
 import os
 import sys
 import math
+import shutil
 from collections import defaultdict
 
 
@@ -28,6 +29,10 @@ def extract_episode_id(filename):
         return f"S{m.group(1).zfill(2)}E{m.group(2).zfill(2)}"
 
     m = re.search(r'(\d+)[xX](\d+)', base)
+    if m:
+        return f"S{m.group(1).zfill(2)}E{m.group(2).zfill(2)}"
+
+    m = re.search(r'Season[_\s-]*(\d+).*?Episode[_\s-]*(\d+)', base, re.IGNORECASE)
     if m:
         return f"S{m.group(1).zfill(2)}E{m.group(2).zfill(2)}"
 
@@ -341,6 +346,20 @@ def main(file=None, output=None, min_bf=3, max_bf=6):
         print(f"  {os.path.basename(f)}")
 
 
+def parse_all_dialogues(script_dir, output_dir, min_bf=3, max_bf=6):
+    if os.path.exists(output_dir):
+        shutil.rmtree(output_dir)
+
+    for season_dir in os.listdir(script_dir):
+        if not os.path.isdir(os.path.join(script_dir, season_dir)):
+            continue
+        for filename in os.listdir(os.path.join(script_dir, season_dir)):
+            if filename.endswith('.txt'):
+                script_path = os.path.join(script_dir, season_dir, filename)
+                main(script_path, os.path.join(output_dir, season_dir), min_bf=min_bf, max_bf=max_bf)
+
+
 if __name__ == '__main__':
     # Example usage
-    main("scripts/S1E1.txt", "dialogues", min_bf=2, max_bf=10)
+    # main("episode_scripts/season_1/Season_1_Episode_1_Pilot.txt", "dialogues/season_1", min_bf=3, max_bf=10)
+    parse_all_dialogues("episode_scripts", "dialogues", min_bf=3, max_bf=10)
