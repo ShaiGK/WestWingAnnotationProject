@@ -362,4 +362,4 @@ def parse_all_dialogues(script_dir, output_dir, min_bf=3, max_bf=6):
 if __name__ == '__main__':
     # Example usage
     # main("episode_scripts/season_1/Season_1_Episode_1_Pilot.txt", "dialogues/season_1", min_bf=3, max_bf=10)
-    parse_all_dialogues("scripts", "dialogues", min_bf=3, max_bf=10)
+    parse_all_dialogues("scripts", "dialogues", min_bf=4, max_bf=8)
