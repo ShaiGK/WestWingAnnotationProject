@@ -227,7 +227,7 @@ Use this for conversations where neither character clearly has the upper hand. T
 >
 > JOSH: Yes sir.
 
-This is a casual, warm exchange. Bartlet and Josh are chatting as friendly colleagues. No one is directing or deferring, they're just talking. You might think to annotate this as -1 since Josh consistently calls Bartlett "sir," but there is no domination in this excerpt. The title is a mark of respect and formality more than deference.
+This is a casual, warm exchange. Bartlet and Josh are chatting as friendly colleagues. No one is directing or deferring, they're just talking. You might think to annotate this as -1 since Josh consistently calls Bartlet "sir," but there is no domination in this excerpt. The title is a mark of respect and formality more than deference.
 
 **Balanced-contentious:** Both characters are asserting themselves with roughly equal force. Neither one yields or controls the direction.
 
