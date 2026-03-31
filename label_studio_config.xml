@@ -1,0 +1,77 @@
+<!--
+  Label Studio Labeling Config for West Wing Power Dynamics
+
+  Copy-paste this entire XML into Label Studio when setting up your project.
+  Go to: Project Settings > Labeling Interface > Code editor, then paste this in.
+-->
+
+<View>
+  <!-- METADATA HEADER -->
+  <View style="background: #f0f4f8; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; font-family: monospace; font-size: 14px;">
+    <Text name="meta" value="$meta_display" />
+  </View>
+
+  <!-- DIALOGUE TEXT -->
+  <View style="background: #ffffff; padding: 16px 20px; border: 1px solid #ddd; border-radius: 8px; margin-bottom: 20px; white-space: pre-wrap; font-family: 'Courier New', monospace; font-size: 14px; line-height: 1.6; max-height: 500px; overflow-y: auto;">
+    <Text name="dialogue" value="$dialogue" />
+  </View>
+
+  <View style="margin-bottom: 8px;">
+    <Header value="──────────────────────────────────────────" size="5" />
+  </View>
+
+  <!-- 1. POWER DYNAMIC RATING (required) -->
+  <View style="margin-bottom: 20px;">
+    <Header value="1. Power Dynamic Rating (required)" size="4" />
+    <Header value="Which character is more assertive/dominant in this exchange?" size="5" />
+    <Choices name="power_rating" toName="dialogue" choice="single" required="true">
+      <Choice value="-2: A Clearly Dominates" alias="-2" />
+      <Choice value="-1: A Somewhat More Assertive" alias="-1" />
+      <Choice value=" 0: Balanced" alias="0" />
+      <Choice value="+1: B Somewhat More Assertive" alias="+1" />
+      <Choice value="+2: B Clearly Dominates" alias="+2" />
+    </Choices>
+  </View>
+
+  <!-- 2. POWER SHIFT FLAG -->
+  <View style="margin-bottom: 20px;">
+    <Header value="2. Power Shift Flag" size="4" />
+    <Header value="Does the dominant character change during this excerpt?" size="5" />
+    <Choices name="power_shift" toName="dialogue" choice="single" required="true">
+      <Choice value="No" />
+      <Choice value="Yes" />
+    </Choices>
+  </View>
+
+  <!-- 3. POWER EXPRESSION CHECKLIST -->
+  <View style="margin-bottom: 20px;">
+    <Header value="3. Power Expression Checklist (check all that apply)" size="4" />
+    <Header value="Which strategies are present in this conversation?" size="5" />
+    <Choices name="power_strategies" toName="dialogue" choice="multiple" required="false">
+      <Choice value="Direct orders or instructions" />
+      <Choice value="Controls information" />
+      <Choice value="Dismisses or shuts down" />
+      <Choice value="Interrogates or corners" />
+      <Choice value="Appeals to authority or rank" />
+      <Choice value="Humor or sarcasm to assert" />
+      <Choice value="Manages or caretakes" />
+      <Choice value="Emotional pressure or reprimand" />
+    </Choices>
+  </View>
+
+  <!-- 4. DOCUMENT VALIDITY FLAG -->
+  <View style="margin-bottom: 20px;">
+    <Header value="4. Document Validity" size="4" />
+    <Choices name="validity" toName="dialogue" choice="single" required="true">
+      <Choice value="Valid" />
+      <Choice value="Invalid - flag for review" />
+    </Choices>
+  </View>
+
+  <!-- OPTIONAL NOTES -->
+  <View style="margin-bottom: 20px;">
+    <Header value="Notes (optional)" size="4" />
+    <TextArea name="notes" toName="dialogue" rows="3" maxSubmissions="1" placeholder="Any comments, edge case reasoning, or notes about flagged documents..." />
+  </View>
+
+</View>
