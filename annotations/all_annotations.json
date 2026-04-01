@@ -212,5 +212,23 @@
     ],
     "validity": null,
     "notes": ""
+  },
+  {
+    "doc_id": "S01E14_DONNA-JOSH_pair2_exc1",
+    "episode": "S01E14",
+    "character_a": "DONNA",
+    "character_b": "JOSH",
+    "pair_instance": "2",
+    "excerpt": "1",
+    "annotator": "shai",
+    "power_rating": "+1",
+    "power_shift": null,
+    "power_strategies": [
+      "Direct orders or instructions",
+      "Appeals to authority or rank",
+      "Manages or caretakes"
+    ],
+    "validity": null,
+    "notes": "This one is almost balanced, but Josh pulls rank here and directs the flow of conversation in addition to ordering Donna."
   }
 ]
