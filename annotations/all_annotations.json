@@ -230,5 +230,38 @@
     ],
     "validity": null,
     "notes": "This one is almost balanced, but Josh pulls rank here and directs the flow of conversation in addition to ordering Donna."
+  },
+  {
+    "doc_id": "S01E17_ABBEY-REESEMAN_pair1_exc2",
+    "episode": "S01E17",
+    "character_a": "ABBEY",
+    "character_b": "REESEMAN",
+    "pair_instance": "1",
+    "excerpt": "2",
+    "annotator": "shai",
+    "submitted_at": "",
+    "power_rating": "-1",
+    "power_shift": null,
+    "power_strategies": [
+      "Dismisses or shuts down",
+      "Appeals to authority or rank"
+    ],
+    "validity": null,
+    "notes": "Abbey is very dominant here, but Reeseman pushes back enough to make it slightly more balanced."
+  },
+  {
+    "doc_id": "S03E17_JOSH-LEO_pair2_exc1",
+    "episode": "S03E17",
+    "character_a": "JOSH",
+    "character_b": "LEO",
+    "pair_instance": "2",
+    "excerpt": "1",
+    "annotator": "shai",
+    "submitted_at": "",
+    "power_rating": "0",
+    "power_shift": null,
+    "power_strategies": [],
+    "validity": null,
+    "notes": "The prior conversation about alcoholism is not relevant to the conversation in this document which is balanced."
   }
 ]
