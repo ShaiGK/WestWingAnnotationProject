@@ -79,5 +79,23 @@
     ],
     "validity": null,
     "notes": ""
+  },
+  {
+    "doc_id": "S03E21_CHARLIE-MS. FIDERER_pair1_exc2",
+    "episode": "S03E21",
+    "character_a": "CHARLIE",
+    "character_b": "MS. FIDERER",
+    "pair_instance": "1",
+    "excerpt": "2",
+    "annotator": "shai",
+    "power_rating": "-2",
+    "power_shift": null,
+    "power_strategies": [
+      "Controls information",
+      "Dismisses or shuts down",
+      "Appeals to authority or rank"
+    ],
+    "validity": null,
+    "notes": "Borderline between -1 and -2 since she tries to push back a few times. Overall, Charlie is much more in control though."
   }
 ]
