@@ -182,10 +182,23 @@ def import_tasks(client, project_id, tasks):
     client.projects.import_tasks(id=project_id, request=tasks)
 
 
+def to_dict(obj):
+    """Convert an SDK object or dict to a plain dict."""
+    if isinstance(obj, dict):
+        return obj
+    if hasattr(obj, 'model_dump'):
+        return obj.model_dump()
+    if hasattr(obj, 'dict'):
+        return obj.dict()
+    if hasattr(obj, '__dict__'):
+        return obj.__dict__
+    return dict(obj)
+
+
 def export_annotations(client, project_id):
-    """Export all annotations by listing tasks then fetching annotations per task."""
+    """Export all tasks with annotations in a single API call."""
     try:
-        tasks = client.tasks.list(project=project_id)
+        tasks = client.tasks.list(project=project_id, fields="all")
         result = []
         for task in tasks:
             task_dict = {
@@ -193,27 +206,21 @@ def export_annotations(client, project_id):
                 'annotations': [],
             }
 
-            # Fetch annotations separately — task listing doesn't include them
-            annotations = client.annotations.list(id=task.id)
-            for ann in annotations:
-                # Convert result items to plain dicts for the parser
-                raw_result = ann.result if ann.result else []
-                result_dicts = []
-                for r in raw_result:
-                    if isinstance(r, dict):
-                        result_dicts.append(r)
-                    elif hasattr(r, 'model_dump'):
-                        result_dicts.append(r.model_dump())
-                    elif hasattr(r, 'dict'):
-                        result_dicts.append(r.dict())
-                    elif hasattr(r, '__dict__'):
-                        result_dicts.append(r.__dict__)
-                    else:
-                        result_dicts.append(dict(r))
+            raw_anns = getattr(task, 'annotations', None) or []
+            # The API may return annotations as a JSON string
+            if isinstance(raw_anns, str):
+                raw_anns = json.loads(raw_anns)
+
+            for ann in raw_anns:
+                ann = to_dict(ann)
+                raw_result = ann.get('result', [])
+                if isinstance(raw_result, str):
+                    raw_result = json.loads(raw_result)
+                result_dicts = [to_dict(r) for r in (raw_result or [])]
 
                 ann_dict = {
                     'result': result_dicts,
-                    'completed_by': {'email': getattr(ann, 'completed_by', 'unknown')},
+                    'completed_by': {'email': ann.get('completed_by', 'unknown')},
                 }
                 task_dict['annotations'].append(ann_dict)
 
@@ -253,15 +260,7 @@ def parse_ls_annotation(task):
 
     for r in results:
         name = r.get('from_name', '')
-        value = r.get('value', {})
-        # Convert value to dict if it's an SDK object
-        if not isinstance(value, dict):
-            if hasattr(value, 'model_dump'):
-                value = value.model_dump()
-            elif hasattr(value, '__dict__'):
-                value = value.__dict__
-            else:
-                value = dict(value)
+        value = to_dict(r.get('value', {}))
 
         if name == 'power_rating':
             choices = value.get('choices', [])
