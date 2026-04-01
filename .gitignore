@@ -209,5 +209,5 @@ __marimo__/
 .scripts/
 .dialogues/
 *.txt
-*.json
+label_studio_tasks.json
 .annotate_config.json

@@ -183,38 +183,39 @@ def import_tasks(client, project_id, tasks):
 
 
 def export_annotations(client, project_id):
-    """Export all annotations from the current project."""
+    """Export all annotations by listing tasks then fetching annotations per task."""
     try:
-        # Get all tasks with their annotations
         tasks = client.tasks.list(project=project_id)
         result = []
         for task in tasks:
             task_dict = {
-                'data': {},
+                'data': dict(task.data) if task.data else {},
                 'annotations': [],
             }
 
-            # Extract data fields
-            if hasattr(task, 'data') and task.data:
-                task_dict['data'] = dict(task.data) if not isinstance(task.data, dict) else task.data
+            # Fetch annotations separately — task listing doesn't include them
+            annotations = client.annotations.list(id=task.id)
+            for ann in annotations:
+                # Convert result items to plain dicts for the parser
+                raw_result = ann.result if ann.result else []
+                result_dicts = []
+                for r in raw_result:
+                    if isinstance(r, dict):
+                        result_dicts.append(r)
+                    elif hasattr(r, 'model_dump'):
+                        result_dicts.append(r.model_dump())
+                    elif hasattr(r, 'dict'):
+                        result_dicts.append(r.dict())
+                    elif hasattr(r, '__dict__'):
+                        result_dicts.append(r.__dict__)
+                    else:
+                        result_dicts.append(dict(r))
 
-            # Extract annotations
-            if hasattr(task, 'annotations') and task.annotations:
-                for ann in task.annotations:
-                    ann_dict = {
-                        'result': [],
-                        'completed_by': {'email': 'unknown'},
-                    }
-                    if hasattr(ann, 'result') and ann.result:
-                        # Convert result items to dicts
-                        ann_dict['result'] = [
-                            dict(r) if not isinstance(r, dict) else r
-                            for r in ann.result
-                        ]
-                    ann_dict['completed_by'] = {
-                        'email': getattr(ann, 'completed_by', 'unknown')
-                    }
-                    task_dict['annotations'].append(ann_dict)
+                ann_dict = {
+                    'result': result_dicts,
+                    'completed_by': {'email': getattr(ann, 'completed_by', 'unknown')},
+                }
+                task_dict['annotations'].append(ann_dict)
 
             result.append(task_dict)
         return result
@@ -253,6 +254,14 @@ def parse_ls_annotation(task):
     for r in results:
         name = r.get('from_name', '')
         value = r.get('value', {})
+        # Convert value to dict if it's an SDK object
+        if not isinstance(value, dict):
+            if hasattr(value, 'model_dump'):
+                value = value.model_dump()
+            elif hasattr(value, '__dict__'):
+                value = value.__dict__
+            else:
+                value = dict(value)
 
         if name == 'power_rating':
             choices = value.get('choices', [])
