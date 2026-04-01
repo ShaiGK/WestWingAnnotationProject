@@ -412,6 +412,6 @@ For each document:
 
 **When in doubt between adjacent ratings,** ask yourself: *if I described this conversation to a friend, would I say one character was in charge, or would I say it was pretty even?* If your friend would say "yeah, one of them was running that conversation," you're probably looking at a -2/+2 or -1/+1. If your friend would say "they were both going at it" or "just a normal chat," you're probably at 0.
 
-**If you are really unsure of what to do,** you can skip a document without doing any annotations or flags. This should not be a common occurrence though and should only be used if necessary.
+**If you are really unsure of what to do,** you can skip a document without doing any annotations or flags. This should not be a common occurrence though and should only be used if necessary because you do not know how to annotate the document or if there is not enough information or context.
 
 **This is a fan transcription, not an official script.** Expect minor imperfections: occasional typos, inconsistent formatting of stage directions, or slight transcription errors. These should not affect your ability to annotate.
