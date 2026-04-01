@@ -294,5 +294,40 @@
     ],
     "validity": null,
     "notes": "This is balanced overall since neither is being particularly assertive and it is fairly equal. But there is a power shift since Donna starts by making fun of Josh and then he dismisses her."
+  },
+  {
+    "doc_id": "S01E01_JOSH-MANDY_pair1_exc1",
+    "episode": "S01E01",
+    "character_a": "JOSH",
+    "character_b": "MANDY",
+    "pair_instance": "1",
+    "excerpt": "1",
+    "annotator": "shai",
+    "logged_at": "2026-04-01T12:31:52.379408",
+    "power_rating": "0",
+    "power_shift": "Yes",
+    "power_strategies": [
+      "Interrogates or corners"
+    ],
+    "validity": null,
+    "notes": "This is a great example of clashing being balanced. They are both being very assertive. It switches from Mandy to Josh though in the middle."
+  },
+  {
+    "doc_id": "S01E01_MARY-TOBY_pair2_exc1",
+    "episode": "S01E01",
+    "character_a": "MARY",
+    "character_b": "TOBY",
+    "pair_instance": "2",
+    "excerpt": "1",
+    "annotator": "shai",
+    "logged_at": "2026-04-01T12:31:52.379419",
+    "power_rating": "+1",
+    "power_shift": null,
+    "power_strategies": [
+      "Humor or sarcasm to assert",
+      "Emotional pressure or reprimand"
+    ],
+    "validity": null,
+    "notes": "This one is tricky because of lack of context, but Toby gets angry and reprimands Mary, gaining some authority."
   }
 ]
