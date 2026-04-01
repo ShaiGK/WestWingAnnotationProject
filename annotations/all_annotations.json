@@ -97,5 +97,86 @@
     ],
     "validity": null,
     "notes": "Borderline between -1 and -2 since she tries to push back a few times. Overall, Charlie is much more in control though."
+  },
+  {
+    "doc_id": "S01E12_JOSH-LEO_pair1_exc1",
+    "episode": "S01E12",
+    "character_a": "JOSH",
+    "character_b": "LEO",
+    "pair_instance": "1",
+    "excerpt": "1",
+    "annotator": "shai",
+    "power_rating": "+2",
+    "power_shift": null,
+    "power_strategies": [
+      "Interrogates or corners",
+      "Emotional pressure or reprimand"
+    ],
+    "validity": null,
+    "notes": ""
+  },
+  {
+    "doc_id": "S01E17_DANNY-LEO_pair1_exc1",
+    "episode": "S01E17",
+    "character_a": "DANNY",
+    "character_b": "LEO",
+    "pair_instance": "1",
+    "excerpt": "1",
+    "annotator": "shai",
+    "power_rating": "0",
+    "power_shift": null,
+    "power_strategies": [
+      "Direct orders or instructions",
+      "Humor or sarcasm to assert"
+    ],
+    "validity": null,
+    "notes": ""
+  },
+  {
+    "doc_id": "S02E10_JOSH-STANLEY_pair3_exc1",
+    "episode": "S02E10",
+    "character_a": "JOSH",
+    "character_b": "STANLEY",
+    "pair_instance": "3",
+    "excerpt": "1",
+    "annotator": "shai",
+    "power_rating": "+2",
+    "power_shift": null,
+    "power_strategies": [
+      "Interrogates or corners",
+      "Appeals to authority or rank"
+    ],
+    "validity": null,
+    "notes": ""
+  },
+  {
+    "doc_id": "S02E09_JOSH-SAM_pair1_exc1",
+    "episode": "S02E09",
+    "character_a": "JOSH",
+    "character_b": "SAM",
+    "pair_instance": "1",
+    "excerpt": "1",
+    "annotator": "shai",
+    "power_rating": "0",
+    "power_shift": null,
+    "power_strategies": [],
+    "validity": null,
+    "notes": ""
+  },
+  {
+    "doc_id": "S01E11_CLAYPOOL-JOSH_pair1_exc3",
+    "episode": "S01E11",
+    "character_a": "CLAYPOOL",
+    "character_b": "JOSH",
+    "pair_instance": "1",
+    "excerpt": "3",
+    "annotator": "shai",
+    "power_rating": "+1",
+    "power_shift": "Yes",
+    "power_strategies": [
+      "Interrogates or corners"
+    ],
+    "validity": null,
+    "notes": "Starts with A being more assertive but barely since B is pushing back. Then it shifts to B being much more assertive, leading to overall B being slightly more assertive."
   }
 ]
