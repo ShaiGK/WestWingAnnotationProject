@@ -205,6 +205,8 @@ Despite Josh's repeated refusals, Donna persists and ultimately gets him to comp
 
 Use this for conversations where neither character clearly has the upper hand. This covers **two very different situations**. The checklist (Section 6) is where you'll note whether the balance feels collaborative or contentious.
 
+**IMPORTANT:** Please note that many of the documents will be **balanced**. The documents are pulled from all dialogues in the show, so many of them will just be normal conversations between two characters. Do not be afraid to be liberal with annotating things as **0** if there is no power dynamic.
+
 **Balanced-collaborative:** Both characters are on the same page, neither directing the other. Casual conversation, joint problem-solving, or friendly banter.
 
 **Example (balanced-collaborative):**
@@ -307,6 +309,12 @@ After assigning your rating, answer this yes/no question:
 
 Mark **Yes** if the conversation begins with one character being more assertive but ends with the other taking control. Mark **No** if the dynamic is consistent throughout, or if the exchange is balanced throughout.
 
+If there **is** a power shift, then you should complete the main annotation of who is more assertive based on the entirety of the document, before and after the shift. The power shift flag just alerts us that the document contains a shift.
+
+Oftentimes, this means that the document will receive a score closer to zero since one character is more assertive at one point and the other character is more assertive at another point. Sometimes, however, there will still be one character who is much more dominant over the course of the entire document.
+
+In such cases of a power shift, you are encouraged to fill in the optional **notes** section of the annotation to provide more information on the power shift and why you gave your overall score.
+
 **Example of a shift:**
 
 > *Character A: LAURIE, Character B: SAM — S01E02*
@@ -355,7 +363,9 @@ That was the wrong thing to say.
 >
 > LAURIE: I don't care.
 
-In this document, Sam starts out much more assertive than Laurie by taking control of the situation and even threatening Laurie. She defers to his wants and leaves the restaurant, so this would ordinarily be a clear case of **2** since Sam dominates clearly. However, once they get outside, Laurie becomes the assertive character and Sam is left in a position of apologizing and pleading. For this example, you would mark that the dynamic shifted.
+In this document, Sam starts out much more assertive than Laurie by taking control of the situation and even threatening Laurie. She defers to his wants and leaves the restaurant, so this would ordinarily be a clear case of **2** since Sam dominates clearly.
+
+However, once they get outside, Laurie becomes the assertive character and Sam is left in a position of apologizing and pleading. For this example, you would mark that the dynamic shifted, and you might give a score of **1** since Sam is, overall, more assertive throughout the document, but Laurie gains some domincance after the shift.
 
 You do not need to identify exactly where the shift occurs, just note that one happened.
 
