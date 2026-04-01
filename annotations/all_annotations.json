@@ -270,7 +270,7 @@
     "pair_instance": "1",
     "excerpt": "1",
     "annotator": "shai",
-    "submitted_at": "2026-04-01T12:20:23.987901",
+    "logged_at": "2026-04-01T12:20:23.987901",
     "power_rating": "0",
     "power_shift": null,
     "power_strategies": [],
@@ -285,7 +285,7 @@
     "pair_instance": "1",
     "excerpt": "1",
     "annotator": "shai",
-    "submitted_at": "2026-04-01T12:20:23.987911",
+    "logged_at": "2026-04-01T12:20:23.987911",
     "power_rating": "0",
     "power_shift": "Yes",
     "power_strategies": [

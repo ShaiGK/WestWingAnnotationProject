@@ -32,6 +32,7 @@ import os
 import sys
 import subprocess
 import random
+from datetime import datetime
 
 # ── Configuration ──────────────────────────────────────────────
 CONFIG_FILE = ".annotate_config.json"       # local, git-ignored
@@ -251,6 +252,7 @@ def parse_ls_annotation(task):
         'pair_instance': data.get('pair_instance', ''),
         'excerpt': data.get('excerpt', ''),
         'annotator': '',
+        'logged_at': datetime.now().isoformat(),
         'power_rating': None,
         'power_shift': None,
         'power_strategies': [],
