@@ -63,5 +63,21 @@
     ],
     "validity": "Valid",
     "notes": "This could be either a 0 or 1 I think. A is more assertive here but not because he is trying to be, that may just be their natural dynamic. So I did balanced because this interaction seems balanced to me."
+  },
+  {
+    "doc_id": "S02E09_JOSH-TOBY_pair2_exc1",
+    "episode": "S02E09",
+    "character_a": "JOSH",
+    "character_b": "TOBY",
+    "pair_instance": "2",
+    "excerpt": "1",
+    "annotator": "shai",
+    "power_rating": "0",
+    "power_shift": null,
+    "power_strategies": [
+      "Humor or sarcasm to assert"
+    ],
+    "validity": null,
+    "notes": ""
   }
 ]
