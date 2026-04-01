@@ -195,5 +195,22 @@
     ],
     "validity": null,
     "notes": ""
+  },
+  {
+    "doc_id": "S02E20_SAM-TOBY_pair1_exc2",
+    "episode": "S02E20",
+    "character_a": "SAM",
+    "character_b": "TOBY",
+    "pair_instance": "1",
+    "excerpt": "2",
+    "annotator": "shai",
+    "power_rating": "+1",
+    "power_shift": null,
+    "power_strategies": [
+      "Dismisses or shuts down",
+      "Humor or sarcasm to assert"
+    ],
+    "validity": null,
+    "notes": ""
   }
 ]
