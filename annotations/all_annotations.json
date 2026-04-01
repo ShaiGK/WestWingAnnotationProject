@@ -178,5 +178,22 @@
     ],
     "validity": null,
     "notes": "Starts with A being more assertive but barely since B is pushing back. Then it shifts to B being much more assertive, leading to overall B being slightly more assertive."
+  },
+  {
+    "doc_id": "S01E14_DONNA-JOSH_pair4_exc2",
+    "episode": "S01E14",
+    "character_a": "DONNA",
+    "character_b": "JOSH",
+    "pair_instance": "4",
+    "excerpt": "2",
+    "annotator": "shai",
+    "power_rating": "-1",
+    "power_shift": null,
+    "power_strategies": [
+      "Direct orders or instructions",
+      "Manages or caretakes"
+    ],
+    "validity": null,
+    "notes": ""
   }
 ]
