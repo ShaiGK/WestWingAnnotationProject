@@ -6,20 +6,23 @@ team members can annotate without overlap, using Git as the shared
 record of what's been done.
 
 FIRST-TIME SETUP (one time only):
-    1. Run: label-studio start
+    1. In a separate terminal, run: label-studio start
     2. Create an account in your browser
     3. Go to Account & Settings (icon in top-right corner)
-    4. Copy your "Access Token"
-    5. Close Label Studio (Ctrl+C in terminal)
+    4. Click "Personal Access Token" on the left sidebar
+    5. Click "Create" to generate a token, and copy it
     6. Run: python annotate.py setup
        (it will ask you to paste your token and enter your name)
 
 EVERY TIME YOU ANNOTATE:
-    1. Run: python annotate.py start
+    1. In a separate terminal, run: label-studio start
+       (leave this terminal open the whole time)
+    2. In your main terminal, run: python annotate.py start
        (pulls from git, filters out already-annotated docs, opens Label Studio)
-    2. Annotate in your browser
-    3. When done, run: python annotate.py finish
+    3. Annotate in your browser
+    4. When done, run: python annotate.py finish
        (exports your work, saves to shared file, commits and pushes)
+    5. You can now close the Label Studio terminal (Ctrl+C)
 
 That's it!
 """
@@ -28,10 +31,7 @@ import json
 import os
 import sys
 import subprocess
-import time
 import random
-import urllib.request
-import urllib.error
 
 # ── Configuration ──────────────────────────────────────────────
 CONFIG_FILE = ".annotate_config.json"       # local, git-ignored
@@ -56,54 +56,36 @@ def save_config(config):
         json.dump(config, f, indent=2)
 
 
-def api_request(path, method="GET", data=None, token=None):
-    """Make a request to the Label Studio API."""
-    url = f"{LS_URL}/api{path}"
-    headers = {
-        "Authorization": f"Token {token}",
-        "Content-Type": "application/json",
-    }
-    body = json.dumps(data).encode('utf-8') if data else None
-    req = urllib.request.Request(url, data=body, headers=headers, method=method)
+def get_client(token):
+    """Create a Label Studio SDK client."""
     try:
-        with urllib.request.urlopen(req) as resp:
-            return json.loads(resp.read().decode('utf-8'))
-    except urllib.error.HTTPError as e:
-        error_body = e.read().decode('utf-8') if e.fp else ''
-        print(f"  API error {e.code}: {error_body[:200]}")
-        return None
+        from label_studio_sdk import LabelStudio
+    except ImportError:
+        print("  ERROR: label_studio_sdk not found.")
+        print("  Run: pip install label-studio-sdk")
+        sys.exit(1)
+
+    return LabelStudio(base_url=LS_URL, api_key=token)
+
+
+def check_label_studio(token):
+    """Check Label Studio status. Returns 'ok', 'not_running', or 'auth_failed'."""
+    import urllib.request
+    import urllib.error
+
+    # First check if LS is running at all
+    try:
+        urllib.request.urlopen(f"{LS_URL}/health")
     except urllib.error.URLError:
-        return None
+        return "not_running"
 
-
-def ls_is_running(token):
-    """Check if Label Studio is running and token works."""
-    result = api_request("/projects/", token=token)
-    return result is not None
-
-
-def start_label_studio():
-    """Start Label Studio in the background."""
-    print("  Starting Label Studio...")
-    process = subprocess.Popen(
-        ["label-studio", "start", "--no-browser"],
-        stdout=subprocess.DEVNULL,
-        stderr=subprocess.DEVNULL,
-    )
-    # Wait for it to boot
-    for i in range(30):
-        time.sleep(2)
-        try:
-            urllib.request.urlopen(f"{LS_URL}/health")
-            print("  Label Studio is running.")
-            return process
-        except Exception:
-            if i % 5 == 4:
-                print("  Still waiting for Label Studio to start...")
-    print("  ERROR: Label Studio didn't start in time.")
-    print("  Try running 'label-studio start' manually in another terminal,")
-    print("  then run 'python annotate.py start' again.")
-    sys.exit(1)
+    # LS is running — check if the token works via SDK
+    try:
+        client = get_client(token)
+        client.projects.list()
+        return "ok"
+    except Exception:
+        return "auth_failed"
 
 
 def git_pull():
@@ -158,13 +140,12 @@ def save_annotations(new_annotations):
     return len(existing)
 
 
-def find_or_create_project(token):
+def find_or_create_project(client):
     """Find existing project or create a new one."""
-    projects = api_request("/projects/", token=token)
-    if projects and 'results' in projects:
-        for p in projects['results']:
-            if p['title'] == PROJECT_NAME:
-                return p['id']
+    projects = client.projects.list()
+    for p in projects:
+        if p.title == PROJECT_NAME:
+            return p.id
 
     # Read the labeling config
     config_path = "label_studio_config.xml"
@@ -176,47 +157,70 @@ def find_or_create_project(token):
     with open(config_path, 'r') as f:
         label_config = f.read()
 
-    project = api_request("/projects/", method="POST", data={
-        "title": PROJECT_NAME,
-        "label_config": label_config,
-    }, token=token)
-
-    if project and 'id' in project:
-        print(f"  Created new project: {PROJECT_NAME}")
-        return project['id']
-
-    print("  ERROR: Could not create project.")
-    sys.exit(1)
-
-
-def import_tasks(project_id, tasks, token):
-    """Import tasks into the Label Studio project."""
-    # Clear existing tasks first
-    api_request(
-        f"/projects/{project_id}/tasks/bulk-delete",
-        method="POST",
-        data={"type": "all"},
-        token=token,
+    project = client.projects.create(
+        title=PROJECT_NAME,
+        label_config=label_config,
     )
-    time.sleep(1)
+    print(f"  Created new project: {PROJECT_NAME}")
+    return project.id
+
+
+def import_tasks(client, project_id, tasks):
+    """Clear existing tasks and import a new batch."""
+    # Delete all existing tasks
+    try:
+        existing_tasks = client.tasks.list(project=project_id)
+        for t in existing_tasks:
+            try:
+                client.tasks.delete(id=t.id)
+            except Exception:
+                pass
+    except Exception:
+        pass
 
     # Import new batch
-    result = api_request(
-        f"/projects/{project_id}/import",
-        method="POST",
-        data=tasks,
-        token=token,
-    )
-    return result
+    client.projects.import_tasks(id=project_id, request=tasks)
 
 
-def export_annotations(project_id, token):
+def export_annotations(client, project_id):
     """Export all annotations from the current project."""
-    result = api_request(
-        f"/projects/{project_id}/export?exportType=JSON",
-        token=token,
-    )
-    return result if result else []
+    try:
+        # Get all tasks with their annotations
+        tasks = client.tasks.list(project=project_id)
+        result = []
+        for task in tasks:
+            task_dict = {
+                'data': {},
+                'annotations': [],
+            }
+
+            # Extract data fields
+            if hasattr(task, 'data') and task.data:
+                task_dict['data'] = dict(task.data) if not isinstance(task.data, dict) else task.data
+
+            # Extract annotations
+            if hasattr(task, 'annotations') and task.annotations:
+                for ann in task.annotations:
+                    ann_dict = {
+                        'result': [],
+                        'completed_by': {'email': 'unknown'},
+                    }
+                    if hasattr(ann, 'result') and ann.result:
+                        # Convert result items to dicts
+                        ann_dict['result'] = [
+                            dict(r) if not isinstance(r, dict) else r
+                            for r in ann.result
+                        ]
+                    ann_dict['completed_by'] = {
+                        'email': getattr(ann, 'completed_by', 'unknown')
+                    }
+                    task_dict['annotations'].append(ann_dict)
+
+            result.append(task_dict)
+        return result
+    except Exception as e:
+        print(f"  Export error: {e}")
+        return []
 
 
 def parse_ls_annotation(task):
@@ -238,7 +242,7 @@ def parse_ls_annotation(task):
         'character_b': data.get('character_b', ''),
         'pair_instance': data.get('pair_instance', ''),
         'excerpt': data.get('excerpt', ''),
-        'annotator': latest.get('completed_by', {}).get('email', 'unknown'),
+        'annotator': '',
         'power_rating': None,
         'power_shift': None,
         'power_strategies': [],
@@ -280,13 +284,14 @@ def cmd_setup():
     print("=== ANNOTATION SETUP ===")
     print()
     print("Before running this, you should have:")
-    print("  1. Run 'label-studio start' at least once")
+    print("  1. Run 'label-studio start' in a separate terminal")
     print("  2. Created an account in the browser")
-    print("  3. Gone to Account & Settings and copied your Access Token")
+    print("  3. Gone to Account & Settings > Personal Access Token")
+    print("  4. Clicked 'Create' and copied the token")
     print()
 
     name = input("Your name (e.g. nathan): ").strip().lower()
-    token = input("Paste your Label Studio Access Token: ").strip()
+    token = input("Paste your Personal Access Token: ").strip()
 
     if not name or not token:
         print("ERROR: Both name and token are required.")
@@ -360,23 +365,35 @@ def cmd_start():
     batch = available[:BATCH_SIZE]
     print(f"  Loading batch of {len(batch)} documents for this session.")
 
-    # Step 5: Start Label Studio if not running
-    if not ls_is_running(token):
-        start_label_studio()
+    # Step 5: Check that Label Studio is running
+    status = check_label_studio(token)
 
-    # Verify token works
-    if not ls_is_running(token):
-        print("  ERROR: Can't connect to Label Studio with your token.")
-        print("  Try running 'python annotate.py setup' again.")
+    if status == "not_running":
+        print("  Label Studio is not running.")
+        print()
+        print("  Open a SEPARATE terminal window and run:")
+        print("    label-studio start")
+        print()
+        print("  Leave that terminal open, then run this command again.")
+        return
+
+    if status == "auth_failed":
+        print("  Label Studio is running, but your token was rejected.")
+        print()
+        print("  Open your browser to: http://localhost:8080")
+        print("  Go to Account & Settings > Personal Access Token")
+        print("  Click 'Create' to generate a new token, copy it,")
+        print("  then run: python annotate.py setup")
         return
 
     # Step 6: Find or create project and import tasks
-    project_id = find_or_create_project(token)
+    client = get_client(token)
+    project_id = find_or_create_project(client)
     config['project_id'] = project_id
     save_config(config)
 
     print(f"  Importing {len(batch)} documents into Label Studio...")
-    import_tasks(project_id, batch, token)
+    import_tasks(client, project_id, batch)
 
     print()
     print("=" * 50)
@@ -413,14 +430,15 @@ def cmd_finish():
     print(f"=== FINISHING ANNOTATION SESSION ({name}) ===")
     print()
 
-    if not ls_is_running(token):
-        print("  ERROR: Label Studio doesn't seem to be running.")
-        print("  Make sure you haven't closed it before finishing.")
+    if check_label_studio(token) != "ok":
+        print("  ERROR: Can't connect to Label Studio.")
+        print("  Make sure it's still running in your other terminal.")
         return
 
     # Step 1: Export from Label Studio
     print("  Exporting annotations from Label Studio...")
-    raw_export = export_annotations(project_id, token)
+    client = get_client(token)
+    raw_export = export_annotations(client, project_id)
 
     if not raw_export:
         print("  No annotations found. Did you submit any?")
