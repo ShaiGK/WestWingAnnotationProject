@@ -8,12 +8,12 @@
     "excerpt": "1",
     "annotator": "shai",
     "power_rating": "0",
-    "power_shift": "No",
+    "power_shift": null,
     "power_strategies": [
       "Controls information",
       "Dismisses or shuts down"
     ],
-    "validity": "Valid",
+    "validity": null,
     "notes": ""
   },
   {
@@ -29,7 +29,7 @@
     "power_strategies": [
       "Interrogates or corners"
     ],
-    "validity": "Valid",
+    "validity": null,
     "notes": ""
   },
   {
@@ -41,9 +41,9 @@
     "excerpt": "2",
     "annotator": "shai",
     "power_rating": "0",
-    "power_shift": "No",
+    "power_shift": null,
     "power_strategies": [],
-    "validity": "Valid",
+    "validity": null,
     "notes": ""
   },
   {
@@ -55,13 +55,13 @@
     "excerpt": "1",
     "annotator": "shai",
     "power_rating": "0",
-    "power_shift": "No",
+    "power_shift": null,
     "power_strategies": [
       "Direct orders or instructions",
       "Appeals to authority or rank",
       "Humor or sarcasm to assert"
     ],
-    "validity": "Valid",
+    "validity": null,
     "notes": "This could be either a 0 or 1 I think. A is more assertive here but not because he is trying to be, that may just be their natural dynamic. So I did balanced because this interaction seems balanced to me."
   },
   {

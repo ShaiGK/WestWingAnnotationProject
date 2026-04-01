@@ -37,8 +37,7 @@
   <View style="margin-bottom: 20px;">
     <Header value="2. Power Shift Flag" size="4" />
     <Header value="Does the dominant character change during this excerpt?" size="5" />
-    <Choices name="power_shift" toName="dialogue" choice="single" required="true">
-      <Choice value="No" />
+    <Choices name="power_shift" toName="dialogue" choice="single" required="false">
       <Choice value="Yes" />
     </Choices>
   </View>
@@ -62,8 +61,7 @@
   <!-- 4. DOCUMENT VALIDITY FLAG -->
   <View style="margin-bottom: 20px;">
     <Header value="4. Document Validity" size="4" />
-    <Choices name="validity" toName="dialogue" choice="single" required="true">
-      <Choice value="Valid" />
+    <Choices name="validity" toName="dialogue" choice="single" required="false">
       <Choice value="Invalid - flag for review" />
     </Choices>
   </View>
