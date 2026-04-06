@@ -3537,5 +3537,177 @@
     "power_strategies": [],
     "validity": null,
     "notes": ""
+  },
+  {
+    "doc_id": "S03E18_CHARLIE-SAM_pair1_exc1",
+    "episode": "S03E18",
+    "character_a": "CHARLIE",
+    "character_b": "SAM",
+    "pair_instance": "1",
+    "excerpt": "1",
+    "annotator": "shai",
+    "logged_at": "2026-04-05T23:26:39.447712",
+    "power_rating": "0",
+    "power_shift": null,
+    "power_strategies": [
+      "Dismisses or shuts down"
+    ],
+    "validity": null,
+    "notes": "This is almost Sam being more assertive by dismissing Charlie, but he seems more distracted than assertive"
+  },
+  {
+    "doc_id": "S01E08_CHARLIE-SAM_pair1_exc1",
+    "episode": "S01E08",
+    "character_a": "CHARLIE",
+    "character_b": "SAM",
+    "pair_instance": "1",
+    "excerpt": "1",
+    "annotator": "shai",
+    "logged_at": "2026-04-05T23:26:39.447722",
+    "power_rating": "0",
+    "power_shift": "Yes",
+    "power_strategies": [
+      "Direct orders or instructions",
+      "Dismisses or shuts down"
+    ],
+    "validity": null,
+    "notes": ""
+  },
+  {
+    "doc_id": "S01E06_LEO-MALLORY_pair1_exc1",
+    "episode": "S01E06",
+    "character_a": "LEO",
+    "character_b": "MALLORY",
+    "pair_instance": "1",
+    "excerpt": "1",
+    "annotator": "shai",
+    "logged_at": "2026-04-05T23:26:39.447727",
+    "power_rating": "+1",
+    "power_shift": null,
+    "power_strategies": [
+      "Manages or caretakes"
+    ],
+    "validity": null,
+    "notes": ""
+  },
+  {
+    "doc_id": "S01E10_DONNA-JOSH_pair1_exc2",
+    "episode": "S01E10",
+    "character_a": "DONNA",
+    "character_b": "JOSH",
+    "pair_instance": "1",
+    "excerpt": "2",
+    "annotator": "shai",
+    "logged_at": "2026-04-05T23:26:39.447729",
+    "power_rating": "+1",
+    "power_shift": null,
+    "power_strategies": [
+      "Controls information",
+      "Dismisses or shuts down"
+    ],
+    "validity": null,
+    "notes": ""
+  },
+  {
+    "doc_id": "S01E14_LEO-SAM_pair1_exc2",
+    "episode": "S01E14",
+    "character_a": "LEO",
+    "character_b": "SAM",
+    "pair_instance": "1",
+    "excerpt": "2",
+    "annotator": "shai",
+    "logged_at": "2026-04-05T23:26:39.447731",
+    "power_rating": "0",
+    "power_shift": null,
+    "power_strategies": [],
+    "validity": null,
+    "notes": ""
+  },
+  {
+    "doc_id": "S01E15_MENDOZA-TOBY_pair1_exc1",
+    "episode": "S01E15",
+    "character_a": "MENDOZA",
+    "character_b": "TOBY",
+    "pair_instance": "1",
+    "excerpt": "1",
+    "annotator": "shai",
+    "logged_at": "2026-04-05T23:26:39.447733",
+    "power_rating": "-1",
+    "power_shift": null,
+    "power_strategies": [
+      "Direct orders or instructions",
+      "Dismisses or shuts down",
+      "Interrogates or corners"
+    ],
+    "validity": null,
+    "notes": "Toby is being assertive, but Mendoza is more"
+  },
+  {
+    "doc_id": "S03E13_BARTLET-STANLEY_pair1_exc1",
+    "episode": "S03E13",
+    "character_a": "BARTLET",
+    "character_b": "STANLEY",
+    "pair_instance": "1",
+    "excerpt": "1",
+    "annotator": "shai",
+    "logged_at": "2026-04-05T23:26:39.447737",
+    "power_rating": "-1",
+    "power_shift": null,
+    "power_strategies": [
+      "Controls information",
+      "Appeals to authority or rank"
+    ],
+    "validity": null,
+    "notes": ""
+  },
+  {
+    "doc_id": "S03E04_ROYCE-TOBY_pair1_exc1",
+    "episode": "S03E04",
+    "character_a": "ROYCE",
+    "character_b": "TOBY",
+    "pair_instance": "1",
+    "excerpt": "1",
+    "annotator": "shai",
+    "logged_at": "2026-04-05T23:26:39.447739",
+    "power_rating": "-1",
+    "power_shift": null,
+    "power_strategies": [
+      "Dismisses or shuts down",
+      "Emotional pressure or reprimand"
+    ],
+    "validity": null,
+    "notes": ""
+  },
+  {
+    "doc_id": "S02E17_C.J.-SAM_pair1_exc1",
+    "episode": "S02E17",
+    "character_a": "C.J.",
+    "character_b": "SAM",
+    "pair_instance": "1",
+    "excerpt": "1",
+    "annotator": "shai",
+    "logged_at": "2026-04-05T23:26:39.447741",
+    "power_rating": "-1",
+    "power_shift": null,
+    "power_strategies": [
+      "Humor or sarcasm to assert"
+    ],
+    "validity": null,
+    "notes": ""
+  },
+  {
+    "doc_id": "S01E14_BARTLET-LEO_pair1_exc1",
+    "episode": "S01E14",
+    "character_a": "BARTLET",
+    "character_b": "LEO",
+    "pair_instance": "1",
+    "excerpt": "1",
+    "annotator": "shai",
+    "logged_at": "2026-04-05T23:26:39.447743",
+    "power_rating": "0",
+    "power_shift": null,
+    "power_strategies": [],
+    "validity": null,
+    "notes": ""
   }
 ]
