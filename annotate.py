@@ -362,7 +362,7 @@ def cmd_start():
     # Step 3: Filter out already-annotated
     done_ids = load_already_annotated()
     available = [t for t in all_tasks if t['data']['doc_id'] not in done_ids]
-    print(f"  Already annotated by team: {len(done_ids)}")
+    print(f"  Already annotated by team (unique): {len(done_ids)}")
     print(f"  Available for annotation: {len(available)}")
 
     if not available:
