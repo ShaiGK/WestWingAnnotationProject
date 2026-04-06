@@ -7,6 +7,7 @@
     "pair_instance": "1",
     "excerpt": "1",
     "annotator": "shai",
+    "logged_at": null,
     "power_rating": "0",
     "power_shift": null,
     "power_strategies": [
@@ -24,6 +25,7 @@
     "pair_instance": "1",
     "excerpt": "4",
     "annotator": "shai",
+    "logged_at": null,
     "power_rating": "+2",
     "power_shift": "Yes",
     "power_strategies": [
@@ -40,6 +42,7 @@
     "pair_instance": "2",
     "excerpt": "2",
     "annotator": "shai",
+    "logged_at": null,
     "power_rating": "0",
     "power_shift": null,
     "power_strategies": [],
@@ -54,6 +57,7 @@
     "pair_instance": "1",
     "excerpt": "1",
     "annotator": "shai",
+    "logged_at": null,
     "power_rating": "0",
     "power_shift": null,
     "power_strategies": [
@@ -72,6 +76,7 @@
     "pair_instance": "2",
     "excerpt": "1",
     "annotator": "shai",
+    "logged_at": null,
     "power_rating": "0",
     "power_shift": null,
     "power_strategies": [
@@ -88,6 +93,7 @@
     "pair_instance": "1",
     "excerpt": "2",
     "annotator": "shai",
+    "logged_at": null,
     "power_rating": "-2",
     "power_shift": null,
     "power_strategies": [
@@ -106,6 +112,7 @@
     "pair_instance": "1",
     "excerpt": "1",
     "annotator": "shai",
+    "logged_at": null,
     "power_rating": "+2",
     "power_shift": null,
     "power_strategies": [
@@ -123,6 +130,7 @@
     "pair_instance": "1",
     "excerpt": "1",
     "annotator": "shai",
+    "logged_at": null,
     "power_rating": "0",
     "power_shift": null,
     "power_strategies": [
@@ -140,6 +148,7 @@
     "pair_instance": "3",
     "excerpt": "1",
     "annotator": "shai",
+    "logged_at": null,
     "power_rating": "+2",
     "power_shift": null,
     "power_strategies": [
@@ -157,6 +166,7 @@
     "pair_instance": "1",
     "excerpt": "1",
     "annotator": "shai",
+    "logged_at": null,
     "power_rating": "0",
     "power_shift": null,
     "power_strategies": [],
@@ -171,6 +181,7 @@
     "pair_instance": "1",
     "excerpt": "3",
     "annotator": "shai",
+    "logged_at": null,
     "power_rating": "+1",
     "power_shift": "Yes",
     "power_strategies": [
@@ -187,6 +198,7 @@
     "pair_instance": "4",
     "excerpt": "2",
     "annotator": "shai",
+    "logged_at": null,
     "power_rating": "-1",
     "power_shift": null,
     "power_strategies": [
@@ -204,6 +216,7 @@
     "pair_instance": "1",
     "excerpt": "2",
     "annotator": "shai",
+    "logged_at": null,
     "power_rating": "+1",
     "power_shift": null,
     "power_strategies": [
@@ -221,6 +234,7 @@
     "pair_instance": "2",
     "excerpt": "1",
     "annotator": "shai",
+    "logged_at": null,
     "power_rating": "+1",
     "power_shift": null,
     "power_strategies": [
@@ -239,6 +253,7 @@
     "pair_instance": "1",
     "excerpt": "2",
     "annotator": "shai",
+    "logged_at": null,
     "power_rating": "-1",
     "power_shift": null,
     "power_strategies": [
@@ -256,6 +271,7 @@
     "pair_instance": "2",
     "excerpt": "1",
     "annotator": "shai",
+    "logged_at": null,
     "power_rating": "0",
     "power_shift": null,
     "power_strategies": [],
