@@ -211,3 +211,4 @@ __marimo__/
 *.txt
 label_studio_tasks.json
 .annotate_config.json
+.annotations/split_annotations/

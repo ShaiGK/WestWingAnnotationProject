@@ -13,13 +13,15 @@ WestWingAnnotationProject/
 ├── dialogues/                    # Extracted dialogue excerpts (gitignored, generated locally)
 ├── scripts/                      # Raw episode scripts (gitignored, generated locally)
 ├── annotations/
-│   └── all_annotations.json      # Shared annotation output (auto-updated)
+│   ├── all_annotations.json      # Shared annotation output (auto-updated)
+│   └── split_annotations/        # Per-annotator files (gitignored, generated locally by processing.py)
 ├── annotate.py                   # Annotation workflow script
 ├── annotation_guidelines.md      # Full guidelines for annotators
 ├── dialogue_parser.py            # Splits scripts into paired dialogues
 ├── guidelines_changelog.md       # Record of guideline changes
 ├── label_studio_config.xml       # Label Studio interface configuration
 ├── prepare_for_label_studio.py   # Converts dialogues to Label Studio format
+├── processing.py                 # Dedup and split utilities for annotations
 ├── scrape_scripts.py             # Scrapes episode scripts from the web
 └── README.md
 ```
@@ -155,6 +157,39 @@ python annotate.py status
 ```
 
 Shows total documents in the corpus, how many have been annotated, and a per-annotator breakdown.
+
+---
+
+## Processing Annotations
+
+The `processing.py` script provides cleanup and organization utilities for `annotations/all_annotations.json`.
+
+### Run everything
+
+```bash
+python processing.py
+```
+
+With no arguments, this runs `dedup` and then `split` in sequence. This is the normal way to use it.
+
+### Dedup only
+
+```bash
+python processing.py dedup
+```
+
+Removes duplicate entries from `all_annotations.json`. Two entries are considered duplicates if every field is identical except for `logged_at` — in that case the first one is kept and the rest are dropped. The script also reports two kinds of potential issues:
+
+- **Same annotator + same `doc_id`, but different content** — flagged loudly, since this usually means someone re-annotated the same excerpt and changed their answer.
+- **Same `doc_id`, different annotators** — flagged as informational, since multiple annotators on the same document is often expected.
+
+### Split only
+
+```bash
+python processing.py split
+```
+
+Creates `annotations/split_annotations/` and writes one file per annotator inside it (e.g. `shai_annotations.json`, `nathan_annotations.json`), each containing only that annotator's entries. The folder is fully wiped and recreated every time so the per-annotator files never go stale.
 
 ---
 
