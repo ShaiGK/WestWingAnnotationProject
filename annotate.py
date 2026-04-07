@@ -123,7 +123,12 @@ def load_already_annotated():
         return set()
     with open(SHARED_ANNOTATIONS, 'r', encoding='utf-8') as f:
         annotations = json.load(f)
-    return {a['doc_id'] for a in annotations}
+    result = set()
+    num_docs = 0
+    for a in annotations:
+        result.add(a['doc_id'])
+        num_docs += 1
+    return result, num_docs
 
 
 def save_annotations(new_annotations):
@@ -360,9 +365,10 @@ def cmd_start():
     print(f"  Total documents in corpus: {len(all_tasks)}")
 
     # Step 3: Filter out already-annotated
-    done_ids = load_already_annotated()
+    done_ids, num_ids = load_already_annotated()
     available = [t for t in all_tasks if t['data']['doc_id'] not in done_ids]
     print(f"  Already annotated by team (unique): {len(done_ids)}")
+    print(f"  Already annotated by team (total): {num_ids}")
     print(f"  Available for annotation: {len(available)}")
 
     if not available:
