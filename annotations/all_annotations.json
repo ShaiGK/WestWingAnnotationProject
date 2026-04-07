@@ -3347,5 +3347,178 @@
     ],
     "validity": null,
     "notes": ""
+  },
+  {
+    "doc_id": "S01E02_DAISY-MANDY_pair2_exc1",
+    "episode": "S01E02",
+    "character_a": "DAISY",
+    "character_b": "MANDY",
+    "pair_instance": "2",
+    "excerpt": "1",
+    "annotator": "shai",
+    "logged_at": "2026-04-07T13:58:51.674961",
+    "power_rating": "0",
+    "power_shift": null,
+    "power_strategies": [],
+    "validity": null,
+    "notes": ""
+  },
+  {
+    "doc_id": "S03E08_GINGER-TOBY_pair1_exc1",
+    "episode": "S03E08",
+    "character_a": "GINGER",
+    "character_b": "TOBY",
+    "pair_instance": "1",
+    "excerpt": "1",
+    "annotator": "shai",
+    "logged_at": "2026-04-07T13:58:51.674970",
+    "power_rating": "+1",
+    "power_shift": null,
+    "power_strategies": [
+      "Interrogates or corners"
+    ],
+    "validity": null,
+    "notes": ""
+  },
+  {
+    "doc_id": "S02E13_DONNA-JOSH_pair3_exc1",
+    "episode": "S02E13",
+    "character_a": "DONNA",
+    "character_b": "JOSH",
+    "pair_instance": "3",
+    "excerpt": "1",
+    "annotator": "shai",
+    "logged_at": "2026-04-07T13:58:51.674980",
+    "power_rating": "-1",
+    "power_shift": null,
+    "power_strategies": [
+      "Interrogates or corners",
+      "Humor or sarcasm to assert",
+      "Manages or caretakes"
+    ],
+    "validity": null,
+    "notes": ""
+  },
+  {
+    "doc_id": "S02E08_BARTLET-C.J._pair1_exc3",
+    "episode": "S02E08",
+    "character_a": "BARTLET",
+    "character_b": "C.J.",
+    "pair_instance": "1",
+    "excerpt": "3",
+    "annotator": "shai",
+    "logged_at": "2026-04-07T13:58:51.674989",
+    "power_rating": "-1",
+    "power_shift": null,
+    "power_strategies": [
+      "Dismisses or shuts down"
+    ],
+    "validity": null,
+    "notes": ""
+  },
+  {
+    "doc_id": "S01E04_HOYNES-LEO_pair1_exc3",
+    "episode": "S01E04",
+    "character_a": "HOYNES",
+    "character_b": "LEO",
+    "pair_instance": "1",
+    "excerpt": "3",
+    "annotator": "shai",
+    "logged_at": "2026-04-07T13:58:51.674992",
+    "power_rating": "-1",
+    "power_shift": null,
+    "power_strategies": [
+      "Manages or caretakes"
+    ],
+    "validity": null,
+    "notes": ""
+  },
+  {
+    "doc_id": "S01E04_C.J.-JOSH_pair1_exc1",
+    "episode": "S01E04",
+    "character_a": "C.J.",
+    "character_b": "JOSH",
+    "pair_instance": "1",
+    "excerpt": "1",
+    "annotator": "shai",
+    "logged_at": "2026-04-07T13:58:51.674996",
+    "power_rating": "+1",
+    "power_shift": null,
+    "power_strategies": [
+      "Direct orders or instructions"
+    ],
+    "validity": null,
+    "notes": ""
+  },
+  {
+    "doc_id": "S02E08_BARTLET-C.J._pair1_exc1",
+    "episode": "S02E08",
+    "character_a": "BARTLET",
+    "character_b": "C.J.",
+    "pair_instance": "1",
+    "excerpt": "1",
+    "annotator": "shai",
+    "logged_at": "2026-04-07T13:58:51.674999",
+    "power_rating": "0",
+    "power_shift": null,
+    "power_strategies": [
+      "Direct orders or instructions",
+      "Humor or sarcasm to assert"
+    ],
+    "validity": null,
+    "notes": ""
+  },
+  {
+    "doc_id": "S02E11_JOSH-LEO_pair2_exc1",
+    "episode": "S02E11",
+    "character_a": "JOSH",
+    "character_b": "LEO",
+    "pair_instance": "2",
+    "excerpt": "1",
+    "annotator": "shai",
+    "logged_at": "2026-04-07T13:58:51.675001",
+    "power_rating": "+1",
+    "power_shift": null,
+    "power_strategies": [
+      "Interrogates or corners",
+      "Manages or caretakes"
+    ],
+    "validity": null,
+    "notes": ""
+  },
+  {
+    "doc_id": "S03E09_BARTLET-MRS. LANDINGHAM_pair1_exc1",
+    "episode": "S03E09",
+    "character_a": "BARTLET",
+    "character_b": "MRS. LANDINGHAM",
+    "pair_instance": "1",
+    "excerpt": "1",
+    "annotator": "shai",
+    "logged_at": "2026-04-07T13:58:51.675003",
+    "power_rating": "+1",
+    "power_shift": null,
+    "power_strategies": [
+      "Humor or sarcasm to assert",
+      "Manages or caretakes"
+    ],
+    "validity": null,
+    "notes": ""
+  },
+  {
+    "doc_id": "S03E20_AMY-JOSH_pair3_exc2",
+    "episode": "S03E20",
+    "character_a": "AMY",
+    "character_b": "JOSH",
+    "pair_instance": "3",
+    "excerpt": "2",
+    "annotator": "shai",
+    "logged_at": "2026-04-07T13:58:51.675006",
+    "power_rating": "0",
+    "power_shift": null,
+    "power_strategies": [
+      "Emotional pressure or reprimand"
+    ],
+    "validity": null,
+    "notes": ""
   }
 ]
