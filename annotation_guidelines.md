@@ -199,7 +199,7 @@ C.J. is more assertive. She's deflecting Danny's inquiry, making declarative sta
 >
 > *Josh grabs the shirt and tie.*
 
-Despite Josh's repeated refusals, Donna persists and ultimately gets him to comply. She controls the outcome of the interaction. This would be a tricky case since you might think that A clearly dominates, but it is closer to balanced since there is a butting of heads. Both characters are vying for control. So it is closer to balanced than complete domination, but Donna still leads the conversation and situation so it would be rated -1.
+Despite Josh's repeated refusals, Donna persists and ultimately gets him to comply. She controls the outcome of the interaction. This would be a tricky case since you might think that A clearly dominates, but it is closer to balanced since there is a butting of heads. Both characters are vying for control.
 
 #### 0: Balanced
 
