@@ -4292,5 +4292,101 @@
     "power_strategies": [],
     "validity": null,
     "notes": ""
+  },
+  {
+    "doc_id": "S02E15_ANDY-TOBY_pair1_exc1",
+    "episode": "S02E15",
+    "character_a": "ANDY",
+    "character_b": "TOBY",
+    "pair_instance": "1",
+    "excerpt": "1",
+    "annotator": "claire",
+    "logged_at": "2026-04-23T21:02:32.280856",
+    "power_rating": "0",
+    "power_shift": null,
+    "power_strategies": [],
+    "validity": null,
+    "notes": ""
+  },
+  {
+    "doc_id": "S03E13_C.J.-LEO_pair1_exc1",
+    "episode": "S03E13",
+    "character_a": "C.J.",
+    "character_b": "LEO",
+    "pair_instance": "1",
+    "excerpt": "1",
+    "annotator": "claire",
+    "logged_at": "2026-04-23T21:02:32.280876",
+    "power_rating": "0",
+    "power_shift": null,
+    "power_strategies": [],
+    "validity": null,
+    "notes": ""
+  },
+  {
+    "doc_id": "S02E01_BARTLET-LEO_pair2_exc1",
+    "episode": "S02E01",
+    "character_a": "BARTLET",
+    "character_b": "LEO",
+    "pair_instance": "2",
+    "excerpt": "1",
+    "annotator": "claire",
+    "logged_at": "2026-04-23T21:02:32.280884",
+    "power_rating": "0",
+    "power_shift": null,
+    "power_strategies": [],
+    "validity": null,
+    "notes": ""
+  },
+  {
+    "doc_id": "S03E01_ABBEY-BARTLET_pair1_exc1",
+    "episode": "S03E01",
+    "character_a": "ABBEY",
+    "character_b": "BARTLET",
+    "pair_instance": "1",
+    "excerpt": "1",
+    "annotator": "claire",
+    "logged_at": "2026-04-23T21:02:32.280889",
+    "power_rating": "-1",
+    "power_shift": null,
+    "power_strategies": [
+      "Direct orders or instructions"
+    ],
+    "validity": null,
+    "notes": ""
+  },
+  {
+    "doc_id": "S02E03_DONNA-TOBY_pair1_exc1",
+    "episode": "S02E03",
+    "character_a": "DONNA",
+    "character_b": "TOBY",
+    "pair_instance": "1",
+    "excerpt": "1",
+    "annotator": "claire",
+    "logged_at": "2026-04-23T21:02:32.280895",
+    "power_rating": "-1",
+    "power_shift": null,
+    "power_strategies": [
+      "Dismisses or shuts down"
+    ],
+    "validity": null,
+    "notes": ""
+  },
+  {
+    "doc_id": "S03E13_AINSLEY-SAM_pair2_exc1",
+    "episode": "S03E13",
+    "character_a": "AINSLEY",
+    "character_b": "SAM",
+    "pair_instance": "2",
+    "excerpt": "1",
+    "annotator": "claire",
+    "logged_at": "2026-04-23T21:02:32.280901",
+    "power_rating": "-1",
+    "power_shift": null,
+    "power_strategies": [
+      "Dismisses or shuts down"
+    ],
+    "validity": null,
+    "notes": ""
   }
 ]
