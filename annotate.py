@@ -196,18 +196,12 @@ def find_or_create_project(client):
     return project.id
 
 
-def import_tasks(client, project_id, tasks):
+def import_tasks(client, project_id, tasks, token=None):
     """Clear existing tasks and import a new batch."""
-    # Delete all existing tasks
     try:
-        existing_tasks = client.tasks.list(project=project_id)
-        for t in existing_tasks:
-            try:
-                client.tasks.delete(id=t.id)
-            except Exception:
-                pass
-    except Exception:
-        pass
+        client.tasks.delete_all_tasks(id=project_id)
+    except Exception as e:
+        print(f"  WARNING: bulk task delete failed ({e}), continuing...")
 
     # Import new batch
     client.projects.import_tasks(id=project_id, request=tasks)
@@ -434,7 +428,7 @@ def cmd_start():
     save_config(config)
 
     print(f"  Importing {len(batch)} documents into Label Studio...")
-    import_tasks(client, project_id, batch)
+    import_tasks(client, project_id, batch, token=token)
 
     print()
     print("=" * 50)
@@ -499,7 +493,8 @@ def cmd_start_iaa():
             a['doc_id'] for a in existing if a.get('annotator') == name
         }
 
-    remaining = [doc_id for doc_id in IAA_DOC_IDS if doc_id not in already_done_by_me]
+    # remaining = [doc_id for doc_id in IAA_DOC_IDS if doc_id not in already_done_by_me]
+    remaining = [doc_id for doc_id in IAA_DOC_IDS]
     already_done_count = len(IAA_DOC_IDS) - len(remaining)
 
     if already_done_count:
@@ -531,7 +526,7 @@ def cmd_start_iaa():
     save_config(config)
 
     print(f"  Importing {len(batch)} IAA docs into Label Studio...")
-    import_tasks(client, project_id, batch)
+    import_tasks(client, project_id, batch, token=token)
 
     print()
     print("=" * 50)
