@@ -2,7 +2,7 @@
 
 A corpus annotation project studying conversational power dynamics between characters in *The West Wing*. We extract paired dialogue excerpts from episode scripts and annotate them for assertiveness, dominance, and conversational strategies.
 
-For full annotation instructions, see `annotation_guidelines.md`. For a record of guideline revisions, see `guidelines_changelog.md`.
+For full annotation instructions, see `annotation_guidelines.md`.
 
 ---
 
@@ -18,7 +18,6 @@ WestWingAnnotationProject/
 ├── annotate.py                   # Annotation workflow script
 ├── annotation_guidelines.md      # Full guidelines for annotators
 ├── dialogue_parser.py            # Splits scripts into paired dialogues
-├── guidelines_changelog.md       # Record of guideline changes
 ├── label_studio_config.xml       # Label Studio interface configuration
 ├── prepare_for_label_studio.py   # Converts dialogues to Label Studio format
 ├── processing.py                 # Dedup and split utilities for annotations
