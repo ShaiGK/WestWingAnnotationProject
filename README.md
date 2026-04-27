@@ -134,6 +134,20 @@ This will:
 
 Click **Label All Tasks** and annotate as many documents as you want. Make sure to click **Submit** after each one.
 
+### Annotate for IAA
+
+To annotate specifically chosen documents for the purposes of IAA, follow the same steps as above to start a Label Studio session, but instead of running `python annotate.py start`, run the following in your main terminal:
+
+```bash
+python annotate.py start --iaa
+```
+
+This will load a specific set of 10 documents instead of a random batch. The console will tell you how many you have completed and how many are left, and only the remaining documents should be loaded into Label Studio automatically. If you see more than the expected number of documents, rerun the above command to open new windows of Label Studio until you see the expected number.
+
+Otherwise, all instructions for annotating are the same as above.
+
+**Please Note:** there are two dashes (`--`) before the `iaa` flag, not one.
+
 ### Finish a session
 
 When you're done, go back to your main terminal and run:
