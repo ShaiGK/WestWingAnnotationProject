@@ -493,8 +493,7 @@ def cmd_start_iaa():
             a['doc_id'] for a in existing if a.get('annotator') == name
         }
 
-    # remaining = [doc_id for doc_id in IAA_DOC_IDS if doc_id not in already_done_by_me]
-    remaining = [doc_id for doc_id in IAA_DOC_IDS]
+    remaining = [doc_id for doc_id in IAA_DOC_IDS if doc_id not in already_done_by_me]
     already_done_count = len(IAA_DOC_IDS) - len(remaining)
 
     if already_done_count:
