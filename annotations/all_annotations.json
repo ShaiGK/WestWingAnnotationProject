@@ -8399,5 +8399,166 @@
     ],
     "validity": null,
     "notes": ""
+  },
+  {
+    "doc_id": "S02E10_JOSH-TOBY_pair2_exc1",
+    "episode": "S02E10",
+    "character_a": "JOSH",
+    "character_b": "TOBY",
+    "pair_instance": "2",
+    "excerpt": "1",
+    "annotator": "quinn",
+    "logged_at": "2026-04-28T18:37:46.111337",
+    "power_rating": "0",
+    "power_shift": null,
+    "power_strategies": [],
+    "validity": null,
+    "notes": ""
+  },
+  {
+    "doc_id": "S02E17_HOYNES-TOBY_pair2_exc1",
+    "episode": "S02E17",
+    "character_a": "HOYNES",
+    "character_b": "TOBY",
+    "pair_instance": "2",
+    "excerpt": "1",
+    "annotator": "quinn",
+    "logged_at": "2026-04-28T18:37:46.111373",
+    "power_rating": "-1",
+    "power_shift": null,
+    "power_strategies": [
+      "Dismisses or shuts down",
+      "Appeals to authority or rank"
+    ],
+    "validity": null,
+    "notes": ""
+  },
+  {
+    "doc_id": "S01E10_JOSH-LEO_pair1_exc1",
+    "episode": "S01E10",
+    "character_a": "JOSH",
+    "character_b": "LEO",
+    "pair_instance": "1",
+    "excerpt": "1",
+    "annotator": "quinn",
+    "logged_at": "2026-04-28T18:37:46.111395",
+    "power_rating": "+1",
+    "power_shift": null,
+    "power_strategies": [
+      "Dismisses or shuts down"
+    ],
+    "validity": null,
+    "notes": ""
+  },
+  {
+    "doc_id": "S03E21_C.J.-SIMON_pair1_exc1",
+    "episode": "S03E21",
+    "character_a": "C.J.",
+    "character_b": "SIMON",
+    "pair_instance": "1",
+    "excerpt": "1",
+    "annotator": "quinn",
+    "logged_at": "2026-04-28T18:37:46.111410",
+    "power_rating": "0",
+    "power_shift": null,
+    "power_strategies": [],
+    "validity": null,
+    "notes": ""
+  },
+  {
+    "doc_id": "S01E21_SAM-TOBY_pair3_exc1",
+    "episode": "S01E21",
+    "character_a": "SAM",
+    "character_b": "TOBY",
+    "pair_instance": "3",
+    "excerpt": "1",
+    "annotator": "quinn",
+    "logged_at": "2026-04-28T18:37:46.111422",
+    "power_rating": "0",
+    "power_shift": null,
+    "power_strategies": [],
+    "validity": null,
+    "notes": "im not so sure about this"
+  },
+  {
+    "doc_id": "S03E04_DONNA-SAM_pair1_exc1",
+    "episode": "S03E04",
+    "character_a": "DONNA",
+    "character_b": "SAM",
+    "pair_instance": "1",
+    "excerpt": "1",
+    "annotator": "quinn",
+    "logged_at": "2026-04-28T18:37:46.111437",
+    "power_rating": "+1",
+    "power_shift": null,
+    "power_strategies": [
+      "Direct orders or instructions"
+    ],
+    "validity": null,
+    "notes": ""
+  },
+  {
+    "doc_id": "S01E17_SAM-TOBY_pair1_exc2",
+    "episode": "S01E17",
+    "character_a": "SAM",
+    "character_b": "TOBY",
+    "pair_instance": "1",
+    "excerpt": "2",
+    "annotator": "quinn",
+    "logged_at": "2026-04-28T18:37:46.111447",
+    "power_rating": "0",
+    "power_shift": null,
+    "power_strategies": [],
+    "validity": null,
+    "notes": ""
+  },
+  {
+    "doc_id": "S03E02_DOUG-SAM_pair1_exc1",
+    "episode": "S03E02",
+    "character_a": "DOUG",
+    "character_b": "SAM",
+    "pair_instance": "1",
+    "excerpt": "1",
+    "annotator": "quinn",
+    "logged_at": "2026-04-28T18:37:46.111457",
+    "power_rating": "-1",
+    "power_shift": null,
+    "power_strategies": [],
+    "validity": null,
+    "notes": ""
+  },
+  {
+    "doc_id": "S01E01_JOSH-MANDY_pair1_exc1",
+    "episode": "S01E01",
+    "character_a": "JOSH",
+    "character_b": "MANDY",
+    "pair_instance": "1",
+    "excerpt": "1",
+    "annotator": "quinn",
+    "logged_at": "2026-04-28T18:37:46.111467",
+    "power_rating": "0",
+    "power_shift": "Yes",
+    "power_strategies": [
+      "Interrogates or corners"
+    ],
+    "validity": null,
+    "notes": ""
+  },
+  {
+    "doc_id": "S01E17_ABBEY-REESEMAN_pair1_exc2",
+    "episode": "S01E17",
+    "character_a": "ABBEY",
+    "character_b": "REESEMAN",
+    "pair_instance": "1",
+    "excerpt": "2",
+    "annotator": "quinn",
+    "logged_at": "2026-04-28T18:37:46.111480",
+    "power_rating": "-1",
+    "power_shift": null,
+    "power_strategies": [
+      "Direct orders or instructions"
+    ],
+    "validity": null,
+    "notes": ""
   }
 ]
