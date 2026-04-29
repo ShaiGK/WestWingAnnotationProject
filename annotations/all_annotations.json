@@ -1164,5 +1164,866 @@
     "power_strategies": [],
     "validity": null,
     "notes": ""
+  },
+  {
+    "doc_id": "S01E01_JOSH-TOBY_pair1_exc1",
+    "episode": "S01E01",
+    "character_a": "JOSH",
+    "character_b": "TOBY",
+    "pair_instance": "1",
+    "excerpt": "1",
+    "annotator": "galileo",
+    "logged_at": "2026-04-29T19:40:13.941414",
+    "power_rating": "+2",
+    "power_shift": null,
+    "power_strategies": [
+      "Direct orders or instructions",
+      "Emotional pressure or reprimand"
+    ],
+    "validity": null,
+    "notes": ""
+  },
+  {
+    "doc_id": "S03E19_DONNA-JOSH_pair1_exc1",
+    "episode": "S03E19",
+    "character_a": "DONNA",
+    "character_b": "JOSH",
+    "pair_instance": "1",
+    "excerpt": "1",
+    "annotator": "galileo",
+    "logged_at": "2026-04-29T19:40:13.941421",
+    "power_rating": "0",
+    "power_shift": null,
+    "power_strategies": [],
+    "validity": null,
+    "notes": ""
+  },
+  {
+    "doc_id": "S01E17_BARTLET-DANNY_pair2_exc1",
+    "episode": "S01E17",
+    "character_a": "BARTLET",
+    "character_b": "DANNY",
+    "pair_instance": "2",
+    "excerpt": "1",
+    "annotator": "galileo",
+    "logged_at": "2026-04-29T19:40:13.941423",
+    "power_rating": "+1",
+    "power_shift": null,
+    "power_strategies": [
+      "Controls information"
+    ],
+    "validity": null,
+    "notes": ""
+  },
+  {
+    "doc_id": "S02E03_C.J.-JOSH_pair2_exc1",
+    "episode": "S02E03",
+    "character_a": "C.J.",
+    "character_b": "JOSH",
+    "pair_instance": "2",
+    "excerpt": "1",
+    "annotator": "galileo",
+    "logged_at": "2026-04-29T19:40:13.941427",
+    "power_rating": "+1",
+    "power_shift": null,
+    "power_strategies": [
+      "Direct orders or instructions"
+    ],
+    "validity": null,
+    "notes": ""
+  },
+  {
+    "doc_id": "S02E14_AINSLEY-BARTLET_pair1_exc1",
+    "episode": "S02E14",
+    "character_a": "AINSLEY",
+    "character_b": "BARTLET",
+    "pair_instance": "1",
+    "excerpt": "1",
+    "annotator": "galileo",
+    "logged_at": "2026-04-29T19:40:13.941430",
+    "power_rating": "+2",
+    "power_shift": null,
+    "power_strategies": [
+      "Humor or sarcasm to assert"
+    ],
+    "validity": null,
+    "notes": ""
+  },
+  {
+    "doc_id": "S01E02_LAURIE-SAM_pair1_exc1",
+    "episode": "S01E02",
+    "character_a": "LAURIE",
+    "character_b": "SAM",
+    "pair_instance": "1",
+    "excerpt": "1",
+    "annotator": "galileo",
+    "logged_at": "2026-04-29T19:40:13.941432",
+    "power_rating": "0",
+    "power_shift": null,
+    "power_strategies": [
+      "Emotional pressure or reprimand"
+    ],
+    "validity": null,
+    "notes": ""
+  },
+  {
+    "doc_id": "S02E06_AINSLEY-SAM_pair3_exc2",
+    "episode": "S02E06",
+    "character_a": "AINSLEY",
+    "character_b": "SAM",
+    "pair_instance": "3",
+    "excerpt": "2",
+    "annotator": "galileo",
+    "logged_at": "2026-04-29T19:40:13.941433",
+    "power_rating": "-1",
+    "power_shift": null,
+    "power_strategies": [
+      "Dismisses or shuts down"
+    ],
+    "validity": null,
+    "notes": ""
+  },
+  {
+    "doc_id": "S02E04_AINSLEY-LEO_pair3_exc2",
+    "episode": "S02E04",
+    "character_a": "AINSLEY",
+    "character_b": "LEO",
+    "pair_instance": "3",
+    "excerpt": "2",
+    "annotator": "galileo",
+    "logged_at": "2026-04-29T19:40:13.941437",
+    "power_rating": "+2",
+    "power_shift": null,
+    "power_strategies": [
+      "Direct orders or instructions",
+      "Controls information"
+    ],
+    "validity": null,
+    "notes": ""
+  },
+  {
+    "doc_id": "S02E14_GILLETTE-TOBY_pair1_exc2",
+    "episode": "S02E14",
+    "character_a": "GILLETTE",
+    "character_b": "TOBY",
+    "pair_instance": "1",
+    "excerpt": "2",
+    "annotator": "galileo",
+    "logged_at": "2026-04-29T19:40:13.941438",
+    "power_rating": "+2",
+    "power_shift": null,
+    "power_strategies": [
+      "Appeals to authority or rank"
+    ],
+    "validity": null,
+    "notes": ""
+  },
+  {
+    "doc_id": "S03E05_DONNA-JOSH_pair1_exc2",
+    "episode": "S03E05",
+    "character_a": "DONNA",
+    "character_b": "JOSH",
+    "pair_instance": "1",
+    "excerpt": "2",
+    "annotator": "galileo",
+    "logged_at": "2026-04-29T19:40:13.941440",
+    "power_rating": "+2",
+    "power_shift": null,
+    "power_strategies": [
+      "Emotional pressure or reprimand"
+    ],
+    "validity": null,
+    "notes": ""
+  },
+  {
+    "doc_id": "S02E16_CASPER-SAM_pair1_exc1",
+    "episode": "S02E16",
+    "character_a": "CASPER",
+    "character_b": "SAM",
+    "pair_instance": "1",
+    "excerpt": "1",
+    "annotator": "galileo",
+    "logged_at": "2026-04-29T19:40:13.941442",
+    "power_rating": "0",
+    "power_shift": "Yes",
+    "power_strategies": [
+      "Controls information",
+      "Humor or sarcasm to assert"
+    ],
+    "validity": null,
+    "notes": ""
+  },
+  {
+    "doc_id": "S02E18_BARTLET-TOBY_pair4_exc1",
+    "episode": "S02E18",
+    "character_a": "BARTLET",
+    "character_b": "TOBY",
+    "pair_instance": "4",
+    "excerpt": "1",
+    "annotator": "galileo",
+    "logged_at": "2026-04-29T19:40:13.941444",
+    "power_rating": "-1",
+    "power_shift": "Yes",
+    "power_strategies": [
+      "Controls information",
+      "Humor or sarcasm to assert",
+      "Emotional pressure or reprimand"
+    ],
+    "validity": null,
+    "notes": ""
+  },
+  {
+    "doc_id": "S02E03_C.J.-JOSH_pair1_exc1",
+    "episode": "S02E03",
+    "character_a": "C.J.",
+    "character_b": "JOSH",
+    "pair_instance": "1",
+    "excerpt": "1",
+    "annotator": "galileo",
+    "logged_at": "2026-04-29T19:40:13.941445",
+    "power_rating": "0",
+    "power_shift": null,
+    "power_strategies": [
+      "Humor or sarcasm to assert"
+    ],
+    "validity": null,
+    "notes": ""
+  },
+  {
+    "doc_id": "S01E06_C.J.-SAM_pair1_exc4",
+    "episode": "S01E06",
+    "character_a": "C.J.",
+    "character_b": "SAM",
+    "pair_instance": "1",
+    "excerpt": "4",
+    "annotator": "galileo",
+    "logged_at": "2026-04-29T19:40:13.941447",
+    "power_rating": "+1",
+    "power_shift": null,
+    "power_strategies": [
+      "Humor or sarcasm to assert"
+    ],
+    "validity": null,
+    "notes": ""
+  },
+  {
+    "doc_id": "S01E17_REESEMAN-SAM_pair1_exc2",
+    "episode": "S01E17",
+    "character_a": "REESEMAN",
+    "character_b": "SAM",
+    "pair_instance": "1",
+    "excerpt": "2",
+    "annotator": "galileo",
+    "logged_at": "2026-04-29T19:40:13.941448",
+    "power_rating": "-1",
+    "power_shift": null,
+    "power_strategies": [
+      "Controls information"
+    ],
+    "validity": null,
+    "notes": ""
+  },
+  {
+    "doc_id": "S02E22_BARTLET-LEO_pair1_exc1",
+    "episode": "S02E22",
+    "character_a": "BARTLET",
+    "character_b": "LEO",
+    "pair_instance": "1",
+    "excerpt": "1",
+    "annotator": "galileo",
+    "logged_at": "2026-04-29T19:40:13.941449",
+    "power_rating": "0",
+    "power_shift": null,
+    "power_strategies": [],
+    "validity": null,
+    "notes": ""
+  },
+  {
+    "doc_id": "S01E17_ABBEY-BARTLET_pair1_exc4",
+    "episode": "S01E17",
+    "character_a": "ABBEY",
+    "character_b": "BARTLET",
+    "pair_instance": "1",
+    "excerpt": "4",
+    "annotator": "galileo",
+    "logged_at": "2026-04-29T19:40:13.941451",
+    "power_rating": "0",
+    "power_shift": null,
+    "power_strategies": [],
+    "validity": null,
+    "notes": ""
+  },
+  {
+    "doc_id": "S03E05_ABBEY-BARTLET_pair1_exc2",
+    "episode": "S03E05",
+    "character_a": "ABBEY",
+    "character_b": "BARTLET",
+    "pair_instance": "1",
+    "excerpt": "2",
+    "annotator": "galileo",
+    "logged_at": "2026-04-29T19:40:13.941452",
+    "power_rating": "0",
+    "power_shift": null,
+    "power_strategies": [],
+    "validity": null,
+    "notes": ""
+  },
+  {
+    "doc_id": "S02E11_DONNA-SAM_pair1_exc1",
+    "episode": "S02E11",
+    "character_a": "DONNA",
+    "character_b": "SAM",
+    "pair_instance": "1",
+    "excerpt": "1",
+    "annotator": "galileo",
+    "logged_at": "2026-04-29T19:40:13.941453",
+    "power_rating": "-1",
+    "power_shift": null,
+    "power_strategies": [],
+    "validity": null,
+    "notes": ""
+  },
+  {
+    "doc_id": "S03E15_MILLGATE-SAM_pair3_exc1",
+    "episode": "S03E15",
+    "character_a": "MILLGATE",
+    "character_b": "SAM",
+    "pair_instance": "3",
+    "excerpt": "1",
+    "annotator": "galileo",
+    "logged_at": "2026-04-29T19:40:13.941454",
+    "power_rating": "0",
+    "power_shift": null,
+    "power_strategies": [],
+    "validity": null,
+    "notes": ""
+  },
+  {
+    "doc_id": "S03E07_BARTLET-TOBY_pair1_exc1",
+    "episode": "S03E07",
+    "character_a": "BARTLET",
+    "character_b": "TOBY",
+    "pair_instance": "1",
+    "excerpt": "1",
+    "annotator": "galileo",
+    "logged_at": "2026-04-29T19:40:13.941456",
+    "power_rating": "-1",
+    "power_shift": null,
+    "power_strategies": [
+      "Humor or sarcasm to assert"
+    ],
+    "validity": null,
+    "notes": ""
+  },
+  {
+    "doc_id": "S02E11_ANN-TOBY_pair3_exc3",
+    "episode": "S02E11",
+    "character_a": "ANN",
+    "character_b": "TOBY",
+    "pair_instance": "3",
+    "excerpt": "3",
+    "annotator": "galileo",
+    "logged_at": "2026-04-29T19:40:13.941457",
+    "power_rating": "+1",
+    "power_shift": null,
+    "power_strategies": [
+      "Controls information"
+    ],
+    "validity": null,
+    "notes": ""
+  },
+  {
+    "doc_id": "S03E10_BARTLET-TOBY_pair1_exc2",
+    "episode": "S03E10",
+    "character_a": "BARTLET",
+    "character_b": "TOBY",
+    "pair_instance": "1",
+    "excerpt": "2",
+    "annotator": "galileo",
+    "logged_at": "2026-04-29T19:40:13.941458",
+    "power_rating": "-1",
+    "power_shift": null,
+    "power_strategies": [
+      "Dismisses or shuts down",
+      "Humor or sarcasm to assert"
+    ],
+    "validity": null,
+    "notes": ""
+  },
+  {
+    "doc_id": "S01E20_C.J.-MANDY_pair1_exc1",
+    "episode": "S01E20",
+    "character_a": "C.J.",
+    "character_b": "MANDY",
+    "pair_instance": "1",
+    "excerpt": "1",
+    "annotator": "galileo",
+    "logged_at": "2026-04-29T19:40:13.941460",
+    "power_rating": "-2",
+    "power_shift": null,
+    "power_strategies": [
+      "Controls information",
+      "Dismisses or shuts down"
+    ],
+    "validity": null,
+    "notes": ""
+  },
+  {
+    "doc_id": "S03E03_DONNA-JOSH_pair1_exc2",
+    "episode": "S03E03",
+    "character_a": "DONNA",
+    "character_b": "JOSH",
+    "pair_instance": "1",
+    "excerpt": "2",
+    "annotator": "galileo",
+    "logged_at": "2026-04-29T19:40:13.941461",
+    "power_rating": "-1",
+    "power_shift": null,
+    "power_strategies": [
+      "Humor or sarcasm to assert",
+      "Emotional pressure or reprimand"
+    ],
+    "validity": null,
+    "notes": ""
+  },
+  {
+    "doc_id": "S03E06_BARTLET-CHARLIE_pair1_exc1",
+    "episode": "S03E06",
+    "character_a": "BARTLET",
+    "character_b": "CHARLIE",
+    "pair_instance": "1",
+    "excerpt": "1",
+    "annotator": "galileo",
+    "logged_at": "2026-04-29T19:40:13.941462",
+    "power_rating": "-2",
+    "power_shift": null,
+    "power_strategies": [
+      "Appeals to authority or rank"
+    ],
+    "validity": null,
+    "notes": ""
+  },
+  {
+    "doc_id": "S02E17_BARTLET-LEO_pair1_exc3",
+    "episode": "S02E17",
+    "character_a": "BARTLET",
+    "character_b": "LEO",
+    "pair_instance": "1",
+    "excerpt": "3",
+    "annotator": "galileo",
+    "logged_at": "2026-04-29T19:40:13.941464",
+    "power_rating": "-1",
+    "power_shift": null,
+    "power_strategies": [
+      "Controls information",
+      "Appeals to authority or rank"
+    ],
+    "validity": null,
+    "notes": ""
+  },
+  {
+    "doc_id": "S01E02_BARTLET-MORRIS_pair3_exc3",
+    "episode": "S01E02",
+    "character_a": "BARTLET",
+    "character_b": "MORRIS",
+    "pair_instance": "3",
+    "excerpt": "3",
+    "annotator": "galileo",
+    "logged_at": "2026-04-29T19:40:13.941465",
+    "power_rating": "-2",
+    "power_shift": null,
+    "power_strategies": [
+      "Controls information"
+    ],
+    "validity": null,
+    "notes": ""
+  },
+  {
+    "doc_id": "S02E11_ANN-TOBY_pair4_exc2",
+    "episode": "S02E11",
+    "character_a": "ANN",
+    "character_b": "TOBY",
+    "pair_instance": "4",
+    "excerpt": "2",
+    "annotator": "galileo",
+    "logged_at": "2026-04-29T19:40:13.941466",
+    "power_rating": "-1",
+    "power_shift": null,
+    "power_strategies": [
+      "Controls information"
+    ],
+    "validity": null,
+    "notes": ""
+  },
+  {
+    "doc_id": "S02E14_ABBEY-BARTLET_pair3_exc1",
+    "episode": "S02E14",
+    "character_a": "ABBEY",
+    "character_b": "BARTLET",
+    "pair_instance": "3",
+    "excerpt": "1",
+    "annotator": "galileo",
+    "logged_at": "2026-04-29T19:40:13.941468",
+    "power_rating": "0",
+    "power_shift": null,
+    "power_strategies": [],
+    "validity": null,
+    "notes": ""
+  },
+  {
+    "doc_id": "S03E15_MILLGATE-SAM_pair2_exc3",
+    "episode": "S03E15",
+    "character_a": "MILLGATE",
+    "character_b": "SAM",
+    "pair_instance": "2",
+    "excerpt": "3",
+    "annotator": "galileo",
+    "logged_at": "2026-04-29T19:40:13.941469",
+    "power_rating": "-2",
+    "power_shift": null,
+    "power_strategies": [
+      "Controls information",
+      "Dismisses or shuts down",
+      "Emotional pressure or reprimand"
+    ],
+    "validity": null,
+    "notes": ""
+  },
+  {
+    "doc_id": "S01E01_JOSH-LEO_pair1_exc2",
+    "episode": "S01E01",
+    "character_a": "JOSH",
+    "character_b": "LEO",
+    "pair_instance": "1",
+    "excerpt": "2",
+    "annotator": "galileo",
+    "logged_at": "2026-04-29T19:40:13.941470",
+    "power_rating": "+1",
+    "power_shift": "Yes",
+    "power_strategies": [
+      "Emotional pressure or reprimand"
+    ],
+    "validity": null,
+    "notes": ""
+  },
+  {
+    "doc_id": "S02E10_JOSH-STANLEY_pair2_exc2",
+    "episode": "S02E10",
+    "character_a": "JOSH",
+    "character_b": "STANLEY",
+    "pair_instance": "2",
+    "excerpt": "2",
+    "annotator": "galileo",
+    "logged_at": "2026-04-29T19:40:13.941471",
+    "power_rating": "+1",
+    "power_shift": null,
+    "power_strategies": [
+      "Controls information"
+    ],
+    "validity": null,
+    "notes": ""
+  },
+  {
+    "doc_id": "S02E13_ABBEY-BARTLET_pair1_exc1",
+    "episode": "S02E13",
+    "character_a": "ABBEY",
+    "character_b": "BARTLET",
+    "pair_instance": "1",
+    "excerpt": "1",
+    "annotator": "galileo",
+    "logged_at": "2026-04-29T19:40:13.941473",
+    "power_rating": "-2",
+    "power_shift": null,
+    "power_strategies": [
+      "Emotional pressure or reprimand"
+    ],
+    "validity": null,
+    "notes": ""
+  },
+  {
+    "doc_id": "S03E12_BARTLET-TOBY_pair3_exc1",
+    "episode": "S03E12",
+    "character_a": "BARTLET",
+    "character_b": "TOBY",
+    "pair_instance": "3",
+    "excerpt": "1",
+    "annotator": "galileo",
+    "logged_at": "2026-04-29T19:40:13.941474",
+    "power_rating": "-1",
+    "power_shift": null,
+    "power_strategies": [
+      "Controls information"
+    ],
+    "validity": null,
+    "notes": ""
+  },
+  {
+    "doc_id": "S03E03_C.J.-OLIVER_pair1_exc1",
+    "episode": "S03E03",
+    "character_a": "C.J.",
+    "character_b": "OLIVER",
+    "pair_instance": "1",
+    "excerpt": "1",
+    "annotator": "galileo",
+    "logged_at": "2026-04-29T19:40:13.941475",
+    "power_rating": "-1",
+    "power_shift": null,
+    "power_strategies": [
+      "Dismisses or shuts down"
+    ],
+    "validity": null,
+    "notes": ""
+  },
+  {
+    "doc_id": "S02E18_BARTLET-TOBY_pair1_exc1",
+    "episode": "S02E18",
+    "character_a": "BARTLET",
+    "character_b": "TOBY",
+    "pair_instance": "1",
+    "excerpt": "1",
+    "annotator": "galileo",
+    "logged_at": "2026-04-29T19:40:13.941477",
+    "power_rating": "-1",
+    "power_shift": null,
+    "power_strategies": [
+      "Controls information"
+    ],
+    "validity": null,
+    "notes": ""
+  },
+  {
+    "doc_id": "S02E21_DONNA-TOBY_pair1_exc1",
+    "episode": "S02E21",
+    "character_a": "DONNA",
+    "character_b": "TOBY",
+    "pair_instance": "1",
+    "excerpt": "1",
+    "annotator": "galileo",
+    "logged_at": "2026-04-29T19:40:13.941478",
+    "power_rating": "+2",
+    "power_shift": null,
+    "power_strategies": [
+      "Controls information"
+    ],
+    "validity": null,
+    "notes": ""
+  },
+  {
+    "doc_id": "S01E12_C.J.-DANNY_pair2_exc2",
+    "episode": "S01E12",
+    "character_a": "C.J.",
+    "character_b": "DANNY",
+    "pair_instance": "2",
+    "excerpt": "2",
+    "annotator": "galileo",
+    "logged_at": "2026-04-29T19:40:13.941479",
+    "power_rating": "0",
+    "power_shift": null,
+    "power_strategies": [],
+    "validity": null,
+    "notes": ""
+  },
+  {
+    "doc_id": "S01E20_BARTLET-LEO_pair2_exc1",
+    "episode": "S01E20",
+    "character_a": "BARTLET",
+    "character_b": "LEO",
+    "pair_instance": "2",
+    "excerpt": "1",
+    "annotator": "galileo",
+    "logged_at": "2026-04-29T19:40:13.941480",
+    "power_rating": "-1",
+    "power_shift": null,
+    "power_strategies": [
+      "Dismisses or shuts down",
+      "Humor or sarcasm to assert"
+    ],
+    "validity": null,
+    "notes": ""
+  },
+  {
+    "doc_id": "S02E13_LEO-MICKEY_pair1_exc1",
+    "episode": "S02E13",
+    "character_a": "LEO",
+    "character_b": "MICKEY",
+    "pair_instance": "1",
+    "excerpt": "1",
+    "annotator": "galileo",
+    "logged_at": "2026-04-29T19:40:13.941482",
+    "power_rating": "-2",
+    "power_shift": null,
+    "power_strategies": [
+      "Direct orders or instructions",
+      "Controls information"
+    ],
+    "validity": null,
+    "notes": ""
+  },
+  {
+    "doc_id": "S02E15_DR. GRIFFITH-LEO_pair1_exc1",
+    "episode": "S02E15",
+    "character_a": "DR. GRIFFITH",
+    "character_b": "LEO",
+    "pair_instance": "1",
+    "excerpt": "1",
+    "annotator": "galileo",
+    "logged_at": "2026-04-29T19:40:13.941483",
+    "power_rating": "+2",
+    "power_shift": null,
+    "power_strategies": [
+      "Emotional pressure or reprimand"
+    ],
+    "validity": null,
+    "notes": ""
+  },
+  {
+    "doc_id": "S02E17_C.J.-TOBY_pair1_exc1",
+    "episode": "S02E17",
+    "character_a": "C.J.",
+    "character_b": "TOBY",
+    "pair_instance": "1",
+    "excerpt": "1",
+    "annotator": "galileo",
+    "logged_at": "2026-04-29T19:40:13.941484",
+    "power_rating": "-1",
+    "power_shift": null,
+    "power_strategies": [
+      "Humor or sarcasm to assert"
+    ],
+    "validity": null,
+    "notes": ""
+  },
+  {
+    "doc_id": "S03E05_ABBEY-BARTLET_pair1_exc1",
+    "episode": "S03E05",
+    "character_a": "ABBEY",
+    "character_b": "BARTLET",
+    "pair_instance": "1",
+    "excerpt": "1",
+    "annotator": "galileo",
+    "logged_at": "2026-04-29T19:40:13.941486",
+    "power_rating": "0",
+    "power_shift": null,
+    "power_strategies": [],
+    "validity": null,
+    "notes": ""
+  },
+  {
+    "doc_id": "S03E17_HOYNES-LEO_pair1_exc2",
+    "episode": "S03E17",
+    "character_a": "HOYNES",
+    "character_b": "LEO",
+    "pair_instance": "1",
+    "excerpt": "2",
+    "annotator": "galileo",
+    "logged_at": "2026-04-29T19:40:13.941487",
+    "power_rating": "+1",
+    "power_shift": null,
+    "power_strategies": [
+      "Emotional pressure or reprimand"
+    ],
+    "validity": null,
+    "notes": ""
+  },
+  {
+    "doc_id": "S03E08_C.J.-LEO_pair2_exc1",
+    "episode": "S03E08",
+    "character_a": "C.J.",
+    "character_b": "LEO",
+    "pair_instance": "2",
+    "excerpt": "1",
+    "annotator": "galileo",
+    "logged_at": "2026-04-29T19:40:13.941488",
+    "power_rating": "+1",
+    "power_shift": null,
+    "power_strategies": [
+      "Direct orders or instructions",
+      "Controls information"
+    ],
+    "validity": null,
+    "notes": ""
+  },
+  {
+    "doc_id": "S03E16_TABITHA-TOBY_pair4_exc1",
+    "episode": "S03E16",
+    "character_a": "TABITHA",
+    "character_b": "TOBY",
+    "pair_instance": "4",
+    "excerpt": "1",
+    "annotator": "galileo",
+    "logged_at": "2026-04-29T19:40:13.941489",
+    "power_rating": "0",
+    "power_shift": null,
+    "power_strategies": [],
+    "validity": null,
+    "notes": ""
+  },
+  {
+    "doc_id": "S03E03_CLIFF-DONNA_pair2_exc1",
+    "episode": "S03E03",
+    "character_a": "CLIFF",
+    "character_b": "DONNA",
+    "pair_instance": "2",
+    "excerpt": "1",
+    "annotator": "galileo",
+    "logged_at": "2026-04-29T19:40:13.941490",
+    "power_rating": "+1",
+    "power_shift": "Yes",
+    "power_strategies": [
+      "Humor or sarcasm to assert"
+    ],
+    "validity": null,
+    "notes": ""
+  },
+  {
+    "doc_id": "S03E06_LEO-NANCY_pair1_exc2",
+    "episode": "S03E06",
+    "character_a": "LEO",
+    "character_b": "NANCY",
+    "pair_instance": "1",
+    "excerpt": "2",
+    "annotator": "galileo",
+    "logged_at": "2026-04-29T19:40:13.941492",
+    "power_rating": "0",
+    "power_shift": null,
+    "power_strategies": [
+      "Controls information"
+    ],
+    "validity": null,
+    "notes": ""
+  },
+  {
+    "doc_id": "S02E16_BARTLET-LEO_pair1_exc2",
+    "episode": "S02E16",
+    "character_a": "BARTLET",
+    "character_b": "LEO",
+    "pair_instance": "1",
+    "excerpt": "2",
+    "annotator": "galileo",
+    "logged_at": "2026-04-29T19:40:13.941493",
+    "power_rating": "-2",
+    "power_shift": null,
+    "power_strategies": [
+      "Controls information"
+    ],
+    "validity": null,
+    "notes": ""
+  },
+  {
+    "doc_id": "S02E06_DONNA-JOSH_pair3_exc1",
+    "episode": "S02E06",
+    "character_a": "DONNA",
+    "character_b": "JOSH",
+    "pair_instance": "3",
+    "excerpt": "1",
+    "annotator": "galileo",
+    "logged_at": "2026-04-29T19:40:13.941494",
+    "power_rating": "+2",
+    "power_shift": null,
+    "power_strategies": [
+      "Direct orders or instructions"
+    ],
+    "validity": null,
+    "notes": ""
   }
 ]
