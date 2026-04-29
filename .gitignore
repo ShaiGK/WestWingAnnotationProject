@@ -206,8 +206,8 @@ marimo/_static/
 marimo/_lsp/
 __marimo__/
 
-.scripts/
-.dialogues/
-*.txt
+scripts/
+dialogues/
+annotations/split_annotations/
 label_studio_tasks.json
 .annotate_config.json

@@ -2,7 +2,7 @@
 
 A corpus annotation project studying conversational power dynamics between characters in *The West Wing*. We extract paired dialogue excerpts from episode scripts and annotate them for assertiveness, dominance, and conversational strategies.
 
-For full annotation instructions, see `annotation_guidelines.md`. For a record of guideline revisions, see `guidelines_changelog.md`.
+For full annotation instructions, see `annotation_guidelines.md`.
 
 ---
 
@@ -13,13 +13,14 @@ WestWingAnnotationProject/
 ├── dialogues/                    # Extracted dialogue excerpts (gitignored, generated locally)
 ├── scripts/                      # Raw episode scripts (gitignored, generated locally)
 ├── annotations/
-│   └── all_annotations.json      # Shared annotation output (auto-updated)
+│   ├── all_annotations.json      # Shared annotation output (auto-updated)
+│   └── split_annotations/        # Per-annotator files (gitignored, generated locally by processing.py)
 ├── annotate.py                   # Annotation workflow script
 ├── annotation_guidelines.md      # Full guidelines for annotators
 ├── dialogue_parser.py            # Splits scripts into paired dialogues
-├── guidelines_changelog.md       # Record of guideline changes
 ├── label_studio_config.xml       # Label Studio interface configuration
 ├── prepare_for_label_studio.py   # Converts dialogues to Label Studio format
+├── processing.py                 # Dedup and split utilities for annotations
 ├── scrape_scripts.py             # Scrapes episode scripts from the web
 └── README.md
 ```
@@ -132,6 +133,20 @@ This will:
 
 Click **Label All Tasks** and annotate as many documents as you want. Make sure to click **Submit** after each one.
 
+### Annotate for IAA
+
+To annotate specifically chosen documents for the purposes of IAA, follow the same steps as above to start a Label Studio session, but instead of running `python annotate.py start`, run the following in your main terminal:
+
+```bash
+python annotate.py start --iaa
+```
+
+This will load a specific set of  documents instead of a random batch. The console will tell you how many you have completed and how many are left, and only the remaining documents should be loaded into Label Studio automatically. If you see more than the expected number of documents, rerun the above command to open new windows of Label Studio until you see the expected number.
+
+Otherwise, all instructions for annotating are the same as above.
+
+**Please Note:** there are two dashes (`--`) before the `iaa` flag, not one.
+
 ### Finish a session
 
 When you're done, go back to your main terminal and run:
@@ -155,6 +170,47 @@ python annotate.py status
 ```
 
 Shows total documents in the corpus, how many have been annotated, and a per-annotator breakdown.
+
+### Check IAA progress
+
+```bash
+python annotate.py status --iaa
+```
+
+Shows how many of the IAA documents each annotator has completed, in the format `completed / total`.
+
+---
+
+## Processing Annotations
+
+The `processing.py` script provides cleanup and organization utilities for `annotations/all_annotations.json`.
+
+### Run everything
+
+```bash
+python processing.py
+```
+
+With no arguments, this runs `dedup` and then `split` in sequence. This is the normal way to use it.
+
+### Dedup only
+
+```bash
+python processing.py dedup
+```
+
+Removes duplicate entries from `all_annotations.json`. Two entries are considered duplicates if every field is identical except for `logged_at` — in that case the first one is kept and the rest are dropped. The script also reports two kinds of potential issues:
+
+- **Same annotator + same `doc_id`, but different content** — flagged loudly, since this usually means someone re-annotated the same excerpt and changed their answer.
+- **Same `doc_id`, different annotators** — flagged as informational, since multiple annotators on the same document is often expected.
+
+### Split only
+
+```bash
+python processing.py split
+```
+
+Creates `annotations/split_annotations/` and writes one file per annotator inside it (e.g. `shai_annotations.json`, `nathan_annotations.json`), each containing only that annotator's entries. The folder is fully wiped and recreated every time so the per-annotator files never go stale.
 
 ---
 
