@@ -606,9 +606,51 @@ def cmd_finish():
     print()
 
 
-def cmd_status():
+def cmd_status(iaa=False):
     """Show annotation progress."""
     print()
+
+    if iaa:
+        print("=== IAA ANNOTATION STATUS ===")
+        print()
+
+        if not IAA_DOC_IDS:
+            print("  IAA_DOC_IDS is empty. Fill it in at the top of annotate.py.")
+            print()
+            return
+
+        total_iaa = len(IAA_DOC_IDS)
+        iaa_set = set(IAA_DOC_IDS)
+
+        if os.path.exists(SHARED_ANNOTATIONS):
+            with open(SHARED_ANNOTATIONS, 'r', encoding='utf-8') as f:
+                annotations = json.load(f)
+
+            # Only look at annotations for IAA docs
+            iaa_annotations = [a for a in annotations if a.get('doc_id') in iaa_set]
+
+            by_annotator = {}
+            for a in iaa_annotations:
+                annotator = a.get('annotator', 'unknown')
+                by_annotator[annotator] = by_annotator.get(annotator, 0) + 1
+
+            print(f"  IAA documents:   {total_iaa}")
+            print()
+            print("  Per annotator (completed / total):")
+            if by_annotator:
+                for annotator, count in sorted(by_annotator.items()):
+                    print(f"    {annotator}: {count} / {total_iaa}")
+            else:
+                print("    (none yet)")
+        else:
+            print(f"  IAA documents:   {total_iaa}")
+            print()
+            print("  Per annotator (completed / total):")
+            print("    (none yet)")
+
+        print()
+        return
+
     print("=== ANNOTATION STATUS ===")
     print()
 
@@ -655,6 +697,7 @@ def main():
         print("  python annotate.py start --iaa     (annotate the shared IAA set)")
         print("  python annotate.py finish          (save and push when done)")
         print("  python annotate.py status          (check team progress)")
+        print("  python annotate.py status --iaa    (check IAA progress per annotator)")
         print()
         return
 
@@ -663,9 +706,11 @@ def main():
 
     if command == "start" and iaa_flag:
         cmd_start_iaa()
-    elif command in ("setup", "start", "finish", "status"):
+    elif command == "status":
+        cmd_status(iaa=iaa_flag)
+    elif command in ("setup", "start", "finish"):
         {"setup": cmd_setup, "start": cmd_start,
-         "finish": cmd_finish, "status": cmd_status}[command]()
+         "finish": cmd_finish}[command]()
     else:
         print(f"Unknown command: {command}")
         print("Use: setup, start [--iaa], finish, or status")

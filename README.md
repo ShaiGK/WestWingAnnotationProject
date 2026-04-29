@@ -141,7 +141,7 @@ To annotate specifically chosen documents for the purposes of IAA, follow the sa
 python annotate.py start --iaa
 ```
 
-This will load a specific set of 10 documents instead of a random batch. The console will tell you how many you have completed and how many are left, and only the remaining documents should be loaded into Label Studio automatically. If you see more than the expected number of documents, rerun the above command to open new windows of Label Studio until you see the expected number.
+This will load a specific set of  documents instead of a random batch. The console will tell you how many you have completed and how many are left, and only the remaining documents should be loaded into Label Studio automatically. If you see more than the expected number of documents, rerun the above command to open new windows of Label Studio until you see the expected number.
 
 Otherwise, all instructions for annotating are the same as above.
 
@@ -170,6 +170,14 @@ python annotate.py status
 ```
 
 Shows total documents in the corpus, how many have been annotated, and a per-annotator breakdown.
+
+### Check IAA progress
+
+```bash
+python annotate.py status --iaa
+```
+
+Shows how many of the IAA documents each annotator has completed, in the format `completed / total`.
 
 ---
 
