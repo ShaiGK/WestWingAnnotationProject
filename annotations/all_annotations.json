@@ -10282,5 +10282,130 @@
     ],
     "validity": null,
     "notes": ""
+  },
+  {
+    "doc_id": "S01E10_JOSH-LEO_pair1_exc1",
+    "episode": "S01E10",
+    "character_a": "JOSH",
+    "character_b": "LEO",
+    "pair_instance": "1",
+    "excerpt": "1",
+    "annotator": "galileo",
+    "logged_at": "2026-04-29T20:22:40.346885",
+    "power_rating": "+2",
+    "power_shift": null,
+    "power_strategies": [
+      "Direct orders or instructions",
+      "Dismisses or shuts down"
+    ],
+    "validity": null,
+    "notes": ""
+  },
+  {
+    "doc_id": "S01E21_SAM-TOBY_pair3_exc1",
+    "episode": "S01E21",
+    "character_a": "SAM",
+    "character_b": "TOBY",
+    "pair_instance": "3",
+    "excerpt": "1",
+    "annotator": "galileo",
+    "logged_at": "2026-04-29T20:22:40.346893",
+    "power_rating": "+2",
+    "power_shift": null,
+    "power_strategies": [
+      "Direct orders or instructions",
+      "Dismisses or shuts down",
+      "Humor or sarcasm to assert",
+      "Emotional pressure or reprimand"
+    ],
+    "validity": null,
+    "notes": ""
+  },
+  {
+    "doc_id": "S03E04_DONNA-SAM_pair1_exc1",
+    "episode": "S03E04",
+    "character_a": "DONNA",
+    "character_b": "SAM",
+    "pair_instance": "1",
+    "excerpt": "1",
+    "annotator": "galileo",
+    "logged_at": "2026-04-29T20:22:40.346896",
+    "power_rating": "+1",
+    "power_shift": null,
+    "power_strategies": [
+      "Direct orders or instructions"
+    ],
+    "validity": null,
+    "notes": ""
+  },
+  {
+    "doc_id": "S01E17_SAM-TOBY_pair1_exc2",
+    "episode": "S01E17",
+    "character_a": "SAM",
+    "character_b": "TOBY",
+    "pair_instance": "1",
+    "excerpt": "2",
+    "annotator": "galileo",
+    "logged_at": "2026-04-29T20:22:40.346900",
+    "power_rating": "0",
+    "power_shift": null,
+    "power_strategies": [],
+    "validity": null,
+    "notes": ""
+  },
+  {
+    "doc_id": "S03E02_DOUG-SAM_pair1_exc1",
+    "episode": "S03E02",
+    "character_a": "DOUG",
+    "character_b": "SAM",
+    "pair_instance": "1",
+    "excerpt": "1",
+    "annotator": "galileo",
+    "logged_at": "2026-04-29T20:22:40.346902",
+    "power_rating": "-1",
+    "power_shift": null,
+    "power_strategies": [
+      "Direct orders or instructions",
+      "Controls information"
+    ],
+    "validity": null,
+    "notes": ""
+  },
+  {
+    "doc_id": "S01E01_JOSH-MANDY_pair1_exc1",
+    "episode": "S01E01",
+    "character_a": "JOSH",
+    "character_b": "MANDY",
+    "pair_instance": "1",
+    "excerpt": "1",
+    "annotator": "galileo",
+    "logged_at": "2026-04-29T20:22:40.346904",
+    "power_rating": "-1",
+    "power_shift": "Yes",
+    "power_strategies": [
+      "Controls information",
+      "Interrogates or corners"
+    ],
+    "validity": null,
+    "notes": ""
+  },
+  {
+    "doc_id": "S01E17_ABBEY-REESEMAN_pair1_exc2",
+    "episode": "S01E17",
+    "character_a": "ABBEY",
+    "character_b": "REESEMAN",
+    "pair_instance": "1",
+    "excerpt": "2",
+    "annotator": "galileo",
+    "logged_at": "2026-04-29T20:22:40.346906",
+    "power_rating": "-2",
+    "power_shift": null,
+    "power_strategies": [
+      "Direct orders or instructions",
+      "Controls information",
+      "Dismisses or shuts down"
+    ],
+    "validity": null,
+    "notes": ""
   }
 ]
