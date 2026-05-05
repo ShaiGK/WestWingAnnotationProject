@@ -11414,5 +11414,124 @@
     ],
     "validity": null,
     "notes": ""
+  },
+  {
+    "doc_id": "S02E17_HOYNES-TOBY_pair2_exc1",
+    "episode": "S02E17",
+    "character_a": "HOYNES",
+    "character_b": "TOBY",
+    "pair_instance": "2",
+    "excerpt": "1",
+    "annotator": "nathan",
+    "logged_at": "2026-05-05T01:20:09.709198",
+    "power_rating": "-2",
+    "power_shift": null,
+    "power_strategies": [
+      "Appeals to authority or rank",
+      "Humor or sarcasm to assert"
+    ],
+    "validity": null,
+    "notes": ""
+  },
+  {
+    "doc_id": "S01E21_SAM-TOBY_pair3_exc1",
+    "episode": "S01E21",
+    "character_a": "SAM",
+    "character_b": "TOBY",
+    "pair_instance": "3",
+    "excerpt": "1",
+    "annotator": "nathan",
+    "logged_at": "2026-05-05T01:20:09.709208",
+    "power_rating": "+2",
+    "power_shift": null,
+    "power_strategies": [
+      "Humor or sarcasm to assert"
+    ],
+    "validity": null,
+    "notes": ""
+  },
+  {
+    "doc_id": "S03E04_DONNA-SAM_pair1_exc1",
+    "episode": "S03E04",
+    "character_a": "DONNA",
+    "character_b": "SAM",
+    "pair_instance": "1",
+    "excerpt": "1",
+    "annotator": "nathan",
+    "logged_at": "2026-05-05T01:20:09.709212",
+    "power_rating": "+1",
+    "power_shift": null,
+    "power_strategies": [
+      "Direct orders or instructions"
+    ],
+    "validity": null,
+    "notes": ""
+  },
+  {
+    "doc_id": "S01E17_SAM-TOBY_pair1_exc2",
+    "episode": "S01E17",
+    "character_a": "SAM",
+    "character_b": "TOBY",
+    "pair_instance": "1",
+    "excerpt": "2",
+    "annotator": "nathan",
+    "logged_at": "2026-05-05T01:20:09.709218",
+    "power_rating": "0",
+    "power_shift": null,
+    "power_strategies": [],
+    "validity": null,
+    "notes": ""
+  },
+  {
+    "doc_id": "S03E02_DOUG-SAM_pair1_exc1",
+    "episode": "S03E02",
+    "character_a": "DOUG",
+    "character_b": "SAM",
+    "pair_instance": "1",
+    "excerpt": "1",
+    "annotator": "nathan",
+    "logged_at": "2026-05-05T01:20:09.709221",
+    "power_rating": "-1",
+    "power_shift": null,
+    "power_strategies": [
+      "Direct orders or instructions"
+    ],
+    "validity": null,
+    "notes": ""
+  },
+  {
+    "doc_id": "S01E01_JOSH-MANDY_pair1_exc1",
+    "episode": "S01E01",
+    "character_a": "JOSH",
+    "character_b": "MANDY",
+    "pair_instance": "1",
+    "excerpt": "1",
+    "annotator": "nathan",
+    "logged_at": "2026-05-05T01:20:09.709225",
+    "power_rating": "0",
+    "power_shift": "Yes",
+    "power_strategies": [
+      "Direct orders or instructions",
+      "Interrogates or corners"
+    ],
+    "validity": null,
+    "notes": ""
+  },
+  {
+    "doc_id": "S01E17_ABBEY-REESEMAN_pair1_exc2",
+    "episode": "S01E17",
+    "character_a": "ABBEY",
+    "character_b": "REESEMAN",
+    "pair_instance": "1",
+    "excerpt": "2",
+    "annotator": "nathan",
+    "logged_at": "2026-05-05T01:20:09.709228",
+    "power_rating": "-2",
+    "power_shift": null,
+    "power_strategies": [
+      "Dismisses or shuts down"
+    ],
+    "validity": null,
+    "notes": ""
   }
 ]
