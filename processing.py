@@ -15,6 +15,8 @@ import sys
 from collections import defaultdict
 from pathlib import Path
 
+from annotate import IAA_DOC_IDS
+
 ANNOTATIONS_PATH = Path("annotations/all_annotations.json")
 SPLIT_DIR = Path("annotations/split_annotations")
 
@@ -98,10 +100,13 @@ def dedup(path: Path = ANNOTATIONS_PATH):
 
     if conflict_diff_annotator:
         print(f"\n[i] {len(conflict_diff_annotator)} case(s) where the same doc_id "
-              f"was annotated by DIFFERENT annotators (this may be expected):")
-        for a, b in conflict_diff_annotator:
-            print(f"  - doc_id={a.get('doc_id')}: "
-                  f"{a.get('annotator')} vs {b.get('annotator')}")
+              f"was annotated by DIFFERENT annotators (this may be expected).")
+        conflict_diff_annotator = [conflict for conflict in conflict_diff_annotator if conflict[0].get('doc_id') not in IAA_DOC_IDS]
+        if conflict_diff_annotator:
+            print(f"\n[i] {len(conflict_diff_annotator)} case(s) are not including IAA docs:")
+            for a, b in conflict_diff_annotator:
+                print(f"  - doc_id={a.get('doc_id')}: "
+                      f"{a.get('annotator')} vs {b.get('annotator')}")
 
 
 def split(path: Path = ANNOTATIONS_PATH, out_dir: Path = SPLIT_DIR):
