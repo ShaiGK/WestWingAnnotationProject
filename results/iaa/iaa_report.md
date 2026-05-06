@@ -89,7 +89,27 @@ Agreement: **80.00%**
 | Controls information            | -0.0370   | -0.0198     | 50.00%  | 10.00%     |
 | Manages or caretakes            | N/A       | N/A         | 100.00% | 0.00%      |
 
-## 6. Pairwise Weighted Cohen's κ Matrix  *(ROBUSTNESS)*
+## 6. Trusted-Aggregate Agreement  *(ROBUSTNESS)*
+
+*Agreement measured against the item-wise mean of the core project team (shai, galileo, nathan), who authored the guidelines and whose calibration is most trusted. Complements the symmetric WAWA/DS-EM metrics above.*
+
+| Sub-group                        | Krippendorff α (ordinal) | Notes                                        |
+| -------------------------------- | ------------------------ | -------------------------------------------- |
+| Trusted  (shai, galileo, nathan) | 0.8194                   | Internal agreement within the trusted trio   |
+| External (claire, evan, quinn)   | 0.4668                   | Internal agreement among external annotators |
+
+*Per-annotator weighted κ against the rounded trusted-group mean:*
+
+| Annotator | κ vs. trusted mean | Group    |
+| --------- | ------------------ | -------- |
+| galileo   | 0.936              | trusted  |
+| nathan    | 0.863              | trusted  |
+| shai      | 0.643              | trusted  |
+| quinn     | 0.516              | external |
+| evan      | 0.333              | external |
+| claire    | 0.107              | external |
+
+## 7. Pairwise Weighted Cohen's κ Matrix  *(ROBUSTNESS)*
 
 |         | claire | evan  | galileo | nathan | quinn | shai  |
 | ------- | ------ | ----- | ------- | ------ | ----- | ----- |
@@ -100,7 +120,7 @@ Agreement: **80.00%**
 | quinn   | 0.259  | 0.394 | 0.453   | 0.636  | 1.000 | 0.300 |
 | shai    | 0.167  | 0.457 | 0.583   | 0.462  | 0.300 | 1.000 |
 
-## 7. Per-Item Breakdown
+## 8. Per-Item Breakdown
 
 | Document                    | claire | evan | galileo | nathan | quinn | shai | All Agree? |
 | --------------------------- | ------ | ---- | ------- | ------ | ----- | ---- | ---------- |
@@ -115,7 +135,7 @@ Agreement: **80.00%**
 | S03E04_DONNA-SAM_p1_e1      | 0      | 0    | 1       | 1      | 1     | 0    | ✗          |
 | S01E21_SAM-TOBY_p3_e1       | 0      | 1    | 2       | 2      | 0     | 2    | ✗          |
 
-## 8. Interpretation Guide
+## 9. Interpretation Guide
 
 Standard κ / α benchmarks (Landis & Koch 1977):
 

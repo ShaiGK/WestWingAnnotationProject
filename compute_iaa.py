@@ -771,6 +771,70 @@ def fig_ds_confusion_matrices(ds_results):
     plt.close()
 
 
+# ─── Robustness: Trusted-Aggregate Agreement ─────────────────────────────────
+
+TRUSTED = ["shai", "galileo", "nathan"]
+EXTERNAL = ["claire", "evan", "quinn"]
+
+
+def compute_trusted_aggregate(rating_matrix):
+    """
+    Measure each annotator's agreement against the item-wise mean of the
+    trusted sub-group {shai, galileo, nathan}.
+
+    Also reports within-group α for the trusted trio vs. the external trio,
+    and each annotator's weighted κ against the rounded trusted mean.
+    """
+    trusted_cols  = [a for a in TRUSTED  if a in rating_matrix.columns]
+    external_cols = [a for a in EXTERNAL if a in rating_matrix.columns]
+
+    # Item-level mean of trusted annotators (used as a soft reference)
+    trusted_mean = rating_matrix[trusted_cols].mean(axis=1)
+
+    # Round to nearest integer label so we can compute κ against it
+    trusted_rounded = trusted_mean.round().astype(float)
+
+    # Within-group α
+    alpha_trusted  = kripp_alpha(rating_matrix[trusted_cols],  "ordinal")
+    alpha_external = kripp_alpha(rating_matrix[external_cols], "ordinal")
+
+    # Per-annotator weighted κ against the rounded trusted mean
+    kappa_vs_trusted = {}
+    for ann in ANNOTATORS:
+        if ann not in rating_matrix.columns:
+            continue
+        ann_vals = rating_matrix[ann]
+        both = ann_vals.notna() & trusted_rounded.notna()
+        if both.sum() < 2:
+            kappa_vs_trusted[ann] = np.nan
+            continue
+        v_ann      = ann_vals[both].astype(int).tolist()
+        v_trusted  = trusted_rounded[both].astype(int).tolist()
+        try:
+            kappa_vs_trusted[ann] = cohen_kappa_score(
+                v_ann, v_trusted, weights="linear", labels=list(range(-2, 3))
+            )
+        except Exception:
+            kappa_vs_trusted[ann] = np.nan
+
+    print("\n── Trusted-Aggregate Robustness Check ──")
+    print(f"  Within-group α  trusted  ({', '.join(trusted_cols)}):  {alpha_trusted:.4f}")
+    print(f"  Within-group α  external ({', '.join(external_cols)}): {alpha_external:.4f}")
+    print("  Weighted κ vs. trusted mean (shai/galileo/nathan):")
+    for ann in sorted(kappa_vs_trusted, key=lambda a: -(kappa_vs_trusted[a] or -99)):
+        v = kappa_vs_trusted[ann]
+        tag = "  ← trusted" if ann in TRUSTED else ""
+        print(f"    {ann:10s}: {v:.3f}{tag}" if not np.isnan(v) else f"    {ann:10s}: N/A")
+
+    return {
+        "alpha_trusted":    alpha_trusted,
+        "alpha_external":   alpha_external,
+        "kappa_vs_trusted": kappa_vs_trusted,
+        "trusted_cols":     trusted_cols,
+        "external_cols":    external_cols,
+    }
+
+
 # ─── Report ───────────────────────────────────────────────────────────────────
 
 def _fmt(v):
@@ -792,7 +856,7 @@ def _table(headers, rows):
     return "\n".join(lines) + "\n"
 
 
-def generate_report(rating_r, wawa_r, ds_r, shift_r, strat_r, iaa_docs, overlap_docs):
+def generate_report(rating_r, wawa_r, ds_r, shift_r, strat_r, trusted_r, iaa_docs, overlap_docs):
     ns = rating_r.get("no_shift", {})
     pw = rating_r["pw_kappa"]
     ds_q = ds_r["ds_quality"]
@@ -921,7 +985,38 @@ def generate_report(rating_r, wawa_r, ds_r, shift_r, strat_r, iaa_docs, overlap_
             ]
         ),
 
-        "## 6. Pairwise Weighted Cohen's κ Matrix  *(ROBUSTNESS)*\n",
+        "## 6. Trusted-Aggregate Agreement  *(ROBUSTNESS)*\n",
+        "*Agreement measured against the item-wise mean of the core project team "
+        f"({', '.join(trusted_r['trusted_cols'])}), who authored the guidelines "
+        "and whose calibration is most trusted. "
+        "Complements the symmetric WAWA/DS-EM metrics above.*\n",
+        _table(
+            ["Sub-group", "Krippendorff α (ordinal)", "Notes"],
+            [
+                [f"Trusted  ({', '.join(trusted_r['trusted_cols'])})",
+                 _fmt(trusted_r["alpha_trusted"]),
+                 "Internal agreement within the trusted trio"],
+                [f"External ({', '.join(trusted_r['external_cols'])})",
+                 _fmt(trusted_r["alpha_external"]),
+                 "Internal agreement among external annotators"],
+            ]
+        ),
+        "*Per-annotator weighted κ against the rounded trusted-group mean:*\n",
+        _table(
+            ["Annotator", "κ vs. trusted mean", "Group"],
+            sorted(
+                [
+                    [ann,
+                     f"{v:.3f}" if not np.isnan(v) else "N/A",
+                     "trusted" if ann in TRUSTED else "external"]
+                    for ann, v in trusted_r["kappa_vs_trusted"].items()
+                ],
+                key=lambda row: float(row[1]) if row[1] != "N/A" else -99,
+                reverse=True,
+            )
+        ),
+
+        "## 7. Pairwise Weighted Cohen's κ Matrix  *(ROBUSTNESS)*\n",
         _table(
             [""] + list(pw.columns),
             [
@@ -932,7 +1027,7 @@ def generate_report(rating_r, wawa_r, ds_r, shift_r, strat_r, iaa_docs, overlap_
             ]
         ),
 
-        "## 7. Per-Item Breakdown\n",
+        "## 8. Per-Item Breakdown\n",
         _table(
             ["Document"] + ANNOTATORS + ["All Agree?"],
             [
@@ -945,7 +1040,7 @@ def generate_report(rating_r, wawa_r, ds_r, shift_r, strat_r, iaa_docs, overlap_
             ]
         ),
 
-        "## 8. Interpretation Guide\n",
+        "## 9. Interpretation Guide\n",
         "Standard κ / α benchmarks (Landis & Koch 1977):\n",
         _table(
             ["Range", "Interpretation"],
@@ -978,6 +1073,7 @@ def main():
     ds_r      = run_dawid_skene(rating_r["matrix"])
     shift_r   = compute_shift_metrics(iaa_docs)
     strat_r   = compute_strategy_metrics(iaa_docs)
+    trusted_r = compute_trusted_aggregate(rating_r["matrix"])
 
     print("\nGenerating figures...")
     fig_rating_per_item_heatmap(rating_r["matrix"])
@@ -988,7 +1084,7 @@ def main():
     fig_strategy_jaccard_heatmap(strat_r["jaccard"])
     fig_ds_confusion_matrices(ds_r)
 
-    generate_report(rating_r, wawa_r, ds_r, shift_r, strat_r, iaa_docs, overlap_docs)
+    generate_report(rating_r, wawa_r, ds_r, shift_r, strat_r, trusted_r, iaa_docs, overlap_docs)
 
     print(f"\nAll outputs written to {OUTPUT_DIR}/")
 
