@@ -1,0 +1,6 @@
+joblib
+numpy
+scikit-learn
+torch
+transformers
+sentencepiece
