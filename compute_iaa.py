@@ -24,6 +24,7 @@ ROBUSTNESS – No-shift subset re-run of primary rating metrics
 Outputs: results/iaa/  (7 PNG figures + iaa_report.md)
 """
 
+import argparse
 import json
 import os
 import warnings
@@ -65,18 +66,23 @@ def load_data():
     with open("annotations/all_annotations.json") as f:
         anns = json.load(f)
 
+    # Split adjudication out before any counting so it never inflates group sizes
+    adj_by_doc   = {a["doc_id"]: a for a in anns if a["annotator"] == "adjudication"}
+    regular_anns = [a for a in anns if a["annotator"] != "adjudication"]
+
     by_doc = defaultdict(list)
-    for a in anns:
+    for a in regular_anns:
         by_doc[a["doc_id"]].append(a)
 
     # Designated IAA set: all 6 annotators
-    iaa_docs    = {doc: v for doc, v in by_doc.items() if len(v) == 6}
+    iaa_docs     = {doc: v for doc, v in by_doc.items() if len(v) == 6}
     # Opportunistic overlaps: exactly 2 annotators
     overlap_docs = {doc: v for doc, v in by_doc.items() if len(v) == 2}
 
     print(f"Designated IAA items  (6 annotators): {len(iaa_docs)}")
     print(f"Opportunistic overlaps (2 annotators): {len(overlap_docs)}")
-    return iaa_docs, overlap_docs
+    print(f"Adjudicated items: {len(adj_by_doc)}")
+    return iaa_docs, overlap_docs, adj_by_doc
 
 
 # ─── Matrix Builders ──────────────────────────────────────────────────────────
@@ -771,6 +777,336 @@ def fig_ds_confusion_matrices(ds_results):
     plt.close()
 
 
+# ─── Adjudication Analysis ───────────────────────────────────────────────────
+
+def run_adjudication_analysis(iaa_docs, adj_by_doc):
+    """
+    Re-run all metrics treating adjudication annotations as gold labels.
+
+    For each annotator, measures:
+      - Weighted Cohen's κ vs. gold (power rating)
+      - Exact and adjacent (±1) agreement vs. gold
+      - Bias vs. gold (annotator mean − gold mean)
+      - Agreement with gold on power shift
+      - Jaccard similarity with gold strategy set (per-annotator and per-strategy)
+
+    Also compares majority vote and DS-EM inferred labels to gold.
+    """
+    # ── Build gold series ────────────────────────────────────────────────────
+    adj_items = [doc for doc in iaa_docs if doc in adj_by_doc]
+    if not adj_items:
+        print("\n  [adjudication] No adjudicated items overlap with IAA set — skipping.")
+        return None
+
+    gold_rating  = {}   # doc → int
+    gold_shift   = {}   # doc → 0/1
+    gold_strats  = {}   # doc → set of strategy strings
+
+    for doc in adj_items:
+        a = adj_by_doc[doc]
+        v = _rating_to_int(a.get("power_rating"))
+        if v is not None:
+            gold_rating[doc] = v
+        gold_shift[doc]  = 1 if a.get("power_shift") == "Yes" else 0
+        gold_strats[doc] = set(a.get("power_strategies") or [])
+
+    rating_docs = [d for d in adj_items if d in gold_rating]
+    gold_mean   = float(np.mean(list(gold_rating.values())))
+
+    print(f"\n── Adjudication Analysis ({len(adj_items)} items with gold labels) ──")
+
+    # ── Rating: per-annotator metrics vs. gold ───────────────────────────────
+    rating_mat = build_rating_matrix(iaa_docs)
+    ann_vs_gold = {}
+
+    for ann in ANNOTATORS:
+        if ann not in rating_mat.columns:
+            continue
+        both = [(doc, rating_mat.loc[doc, ann]) for doc in rating_docs
+                if not np.isnan(rating_mat.loc[doc, ann])]
+        if len(both) < 2:
+            ann_vs_gold[ann] = {"kappa": np.nan, "exact": np.nan,
+                                "adjacent": np.nan, "bias": np.nan}
+            continue
+        docs_both  = [d for d, _ in both]
+        ann_vals   = [int(v) for _, v in both]
+        gold_vals  = [gold_rating[d] for d in docs_both]
+
+        try:
+            kappa = cohen_kappa_score(ann_vals, gold_vals,
+                                      weights="linear", labels=list(range(-2, 3)))
+        except Exception:
+            kappa = np.nan
+
+        exact    = float(np.mean([a == g for a, g in zip(ann_vals, gold_vals)]))
+        adjacent = float(np.mean([abs(a - g) <= 1 for a, g in zip(ann_vals, gold_vals)]))
+        bias     = float(np.mean(ann_vals)) - gold_mean
+
+        ann_vs_gold[ann] = {"kappa": kappa, "exact": exact,
+                            "adjacent": adjacent, "bias": bias}
+
+    # ── Majority vote vs. gold ───────────────────────────────────────────────
+    mv_correct = []
+    for doc in rating_docs:
+        vals = rating_mat.loc[doc].dropna().astype(int).tolist()
+        if vals:
+            mv = max(set(vals), key=vals.count)
+            mv_correct.append(mv == gold_rating[doc])
+    mv_exact    = float(np.mean(mv_correct)) if mv_correct else np.nan
+    mv_adjacent = float(np.mean(
+        [abs(max(set(rating_mat.loc[d].dropna().astype(int).tolist()),
+                 key=rating_mat.loc[d].dropna().astype(int).tolist().count)
+             - gold_rating[d]) <= 1
+         for d in rating_docs
+         if not rating_mat.loc[d].dropna().empty]
+    ))
+
+    # ── DS-EM inferred vs. gold ──────────────────────────────────────────────
+    _, _, ds_inferred, *_ = dawid_skene_em(rating_mat)
+    ds_correct = [ds_inferred.get(d) == gold_rating.get(d)
+                  for d in rating_docs if d in ds_inferred]
+    ds_exact    = float(np.mean(ds_correct)) if ds_correct else np.nan
+    ds_adjacent = float(np.mean(
+        [abs(ds_inferred[d] - gold_rating[d]) <= 1
+         for d in rating_docs if d in ds_inferred]
+    )) if ds_correct else np.nan
+
+    print("  Per-annotator weighted κ vs. gold:")
+    for ann in sorted(ann_vs_gold, key=lambda a: -(ann_vs_gold[a]["kappa"] or -99)):
+        m = ann_vs_gold[ann]
+        print(f"    {ann:10s}: κ={m['kappa']:.3f}  exact={m['exact']:.2%}  "
+              f"adj={m['adjacent']:.2%}  bias={m['bias']:+.3f}")
+    print(f"  Majority vote vs. gold: exact={mv_exact:.2%}  adjacent={mv_adjacent:.2%}")
+    print(f"  DS-EM inferred vs. gold: exact={ds_exact:.2%}  adjacent={ds_adjacent:.2%}")
+
+    # ── Shift: per-annotator vs. gold ────────────────────────────────────────
+    shift_mat = build_shift_matrix(iaa_docs)
+    shift_docs = [d for d in adj_items if d in gold_shift]
+    shift_vs_gold = {}
+    for ann in ANNOTATORS:
+        if ann not in shift_mat.columns:
+            continue
+        pairs = [(int(shift_mat.loc[d, ann]), gold_shift[d])
+                 for d in shift_docs
+                 if not np.isnan(shift_mat.loc[d, ann])]
+        if not pairs:
+            shift_vs_gold[ann] = np.nan
+            continue
+        shift_vs_gold[ann] = float(np.mean([a == g for a, g in pairs]))
+
+    # ── Strategies: per-annotator Jaccard vs. gold ───────────────────────────
+    strat_docs = [d for d in adj_items if d in gold_strats]
+    strat_jaccard_vs_gold = {}
+    strat_peragreement_vs_gold = {s: [] for s in STRATEGIES}
+
+    for ann in ANNOTATORS:
+        jacs = []
+        for doc in strat_docs:
+            ann_anns = [a for a in iaa_docs[doc] if a["annotator"] == ann]
+            if not ann_anns:
+                continue
+            ann_set  = set(ann_anns[0].get("power_strategies") or [])
+            gold_set = gold_strats[doc]
+            union = ann_set | gold_set
+            jacs.append(1.0 if not union else len(ann_set & gold_set) / len(union))
+            for s in STRATEGIES:
+                strat_peragreement_vs_gold[s].append(
+                    (s in ann_set) == (s in gold_set)
+                )
+        strat_jaccard_vs_gold[ann] = float(np.mean(jacs)) if jacs else np.nan
+
+    strat_agreement_vs_gold = {
+        s: float(np.mean(v)) if v else np.nan
+        for s, v in strat_peragreement_vs_gold.items()
+    }
+
+    return {
+        "adj_items":              adj_items,
+        "rating_docs":            rating_docs,
+        "gold_rating":            gold_rating,
+        "gold_shift":             gold_shift,
+        "gold_strats":            gold_strats,
+        "ann_vs_gold":            ann_vs_gold,
+        "mv_exact":               mv_exact,
+        "mv_adjacent":            mv_adjacent,
+        "ds_exact":               ds_exact,
+        "ds_adjacent":            ds_adjacent,
+        "ds_inferred":            ds_inferred,
+        "shift_vs_gold":          shift_vs_gold,
+        "strat_jaccard_vs_gold":  strat_jaccard_vs_gold,
+        "strat_agreement_vs_gold": strat_agreement_vs_gold,
+        "rating_matrix":          rating_mat,
+    }
+
+
+def fig_adj_kappa_vs_gold(adj_r):
+    """Bar chart: each annotator's weighted κ vs. gold, with exact/adjacent overlay."""
+    ann_vs_gold = adj_r["ann_vs_gold"]
+    annotators  = sorted(ann_vs_gold, key=lambda a: -(ann_vs_gold[a]["kappa"] or -99))
+
+    kappa_vals    = [ann_vs_gold[a]["kappa"]    for a in annotators]
+    exact_vals    = [ann_vs_gold[a]["exact"]    for a in annotators]
+    adjacent_vals = [ann_vs_gold[a]["adjacent"] for a in annotators]
+
+    x     = np.arange(len(annotators))
+    width = 0.28
+    fig, ax = plt.subplots(figsize=(10, 5))
+
+    b1 = ax.bar(x - width, kappa_vals,    width, label="Weighted κ vs. gold",   color="#4575b4")
+    b2 = ax.bar(x,         exact_vals,    width, label="Exact agreement",        color="#91bfdb")
+    b3 = ax.bar(x + width, adjacent_vals, width, label="Adjacent (±1) agreement",color="#e0f3f8")
+
+    # Reference lines
+    ax.axhline(adj_r["mv_exact"],    color="#d73027", linewidth=1.2, linestyle="--",
+               label=f"Majority vote exact ({adj_r['mv_exact']:.2%})")
+    ax.axhline(adj_r["ds_exact"],    color="#fc8d59", linewidth=1.2, linestyle=":",
+               label=f"DS-EM exact ({adj_r['ds_exact']:.2%})")
+
+    ax.set_xticks(x)
+    ax.set_xticklabels(annotators)
+    ax.set_ylim(0, 1.1)
+    ax.set_ylabel("Score")
+    ax.set_title("Annotator Agreement vs. Gold (Adjudicated) Labels\n(Power Rating)",
+                 fontsize=12, fontweight="bold")
+    ax.legend(fontsize=8, loc="lower right")
+    plt.tight_layout()
+    plt.savefig(os.path.join(OUTPUT_DIR, "adj_rating_vs_gold.png"),
+                dpi=150, bbox_inches="tight")
+    plt.close()
+
+
+def fig_adj_per_item_heatmap(adj_r):
+    """Heatmap of annotator ratings per item with gold column appended."""
+    rating_mat = adj_r["rating_matrix"]
+    gold       = adj_r["gold_rating"]
+    docs       = adj_r["rating_docs"]
+
+    display = rating_mat.loc[docs].copy()
+    display["gold"] = pd.Series(gold)
+    display.index = [_short_doc(d) for d in display.index]
+
+    # Separate annotator columns from gold for different styling
+    ann_data  = display[ANNOTATORS].astype(float)
+    gold_data = display[["gold"]].astype(float)
+
+    fig, axes = plt.subplots(1, 2, figsize=(12, max(4, len(docs) * 0.55 + 1.5)),
+                              gridspec_kw={"width_ratios": [len(ANNOTATORS), 1],
+                                           "wspace": 0.05})
+    cmap = sns.diverging_palette(10, 240, n=5, as_cmap=True)
+
+    sns.heatmap(ann_data, cmap=cmap, vmin=-2, vmax=2,
+                annot=True, fmt=".0f", linewidths=0.5,
+                ax=axes[0], cbar=False)
+    axes[0].set_title("Annotator Ratings", fontsize=11)
+    axes[0].set_xlabel("Annotator")
+    axes[0].set_ylabel("Document")
+
+    sns.heatmap(gold_data, cmap=cmap, vmin=-2, vmax=2,
+                annot=True, fmt=".0f", linewidths=0.5,
+                ax=axes[1], cbar_kws={"label": "Rating"},
+                yticklabels=False)
+    axes[1].set_title("Gold", fontsize=11)
+    axes[1].set_xlabel("")
+
+    fig.suptitle("Ratings vs. Adjudicated Gold Labels  (IAA Set)",
+                 fontsize=13, fontweight="bold")
+    plt.savefig(os.path.join(OUTPUT_DIR, "adj_per_item_heatmap.png"),
+                dpi=150, bbox_inches="tight")
+    plt.close()
+
+
+def generate_adj_report(adj_r):
+    """Write results/iaa/adj_report.md."""
+    av = adj_r["ann_vs_gold"]
+    lines = [
+        "# Adjudication Analysis Report\n",
+        "*Gold labels from `adjudication` annotator. "
+        "Generated by `compute_iaa.py --adjudicate`*\n",
+
+        f"**Adjudicated items:** {len(adj_r['adj_items'])}  "
+        f"({len(adj_r['rating_docs'])} with gold rating)\n",
+
+        "## 1. Power Rating vs. Gold\n",
+        "*Weighted Cohen's κ, exact match, and adjacent (±1) agreement "
+        "between each annotator and the adjudicated gold label.*\n",
+        _table(
+            ["Annotator", "Weighted κ", "Exact %", "Adjacent %", "Bias vs. gold"],
+            [
+                [ann,
+                 _fmt(m["kappa"]),
+                 f"{m['exact']:.2%}",
+                 f"{m['adjacent']:.2%}",
+                 f"{m['bias']:+.3f}"]
+                for ann, m in sorted(av.items(), key=lambda x: -(x[1]["kappa"] or -99))
+            ]
+        ),
+
+        "## 2. Aggregate Comparators vs. Gold\n",
+        _table(
+            ["Method", "Exact %", "Adjacent %"],
+            [
+                ["Majority vote",  f"{adj_r['mv_exact']:.2%}",  f"{adj_r['mv_adjacent']:.2%}"],
+                ["DS-EM inferred", f"{adj_r['ds_exact']:.2%}",  f"{adj_r['ds_adjacent']:.2%}"],
+            ]
+        ),
+
+        "## 3. Per-Item Rating Breakdown\n",
+        _table(
+            ["Document"] + ANNOTATORS + ["Gold", "MV correct?", "DS correct?"],
+            [
+                [_short_doc(doc)] +
+                [str(int(adj_r["rating_matrix"].loc[doc, a]))
+                 if not np.isnan(adj_r["rating_matrix"].loc[doc, a]) else "—"
+                 for a in ANNOTATORS] +
+                [str(adj_r["gold_rating"][doc]),
+                 "✓" if (lambda vals: vals and max(set(vals), key=vals.count) == adj_r["gold_rating"][doc])(
+                     adj_r["rating_matrix"].loc[doc].dropna().astype(int).tolist()) else "✗",
+                 "✓" if adj_r["ds_inferred"].get(doc) == adj_r["gold_rating"][doc] else "✗"]
+                for doc in adj_r["rating_docs"]
+            ]
+        ),
+
+        "## 4. Power Shift vs. Gold\n",
+        "*Exact agreement rate between each annotator's shift flag and the gold shift label.*\n",
+        _table(
+            ["Annotator", "Exact agreement vs. gold"],
+            sorted(
+                [[ann, f"{v:.2%}" if not np.isnan(v) else "N/A"]
+                 for ann, v in adj_r["shift_vs_gold"].items()],
+                key=lambda r: float(r[1].rstrip("%")) if r[1] != "N/A" else -1,
+                reverse=True,
+            )
+        ),
+
+        "## 5. Strategy Agreement vs. Gold\n",
+        f"*Mean pairwise Jaccard similarity with gold strategy set per annotator.*\n",
+        _table(
+            ["Annotator", "Mean Jaccard vs. gold"],
+            sorted(
+                [[ann, f"{v:.3f}" if not np.isnan(v) else "N/A"]
+                 for ann, v in adj_r["strat_jaccard_vs_gold"].items()],
+                key=lambda r: float(r[1]) if r[1] != "N/A" else -1,
+                reverse=True,
+            )
+        ),
+        "*Per-strategy exact agreement rate vs. gold (averaged across items and annotators):*\n",
+        _table(
+            ["Strategy", "Agreement vs. gold"],
+            sorted(
+                [[s, f"{v:.2%}" if not np.isnan(v) else "N/A"]
+                 for s, v in adj_r["strat_agreement_vs_gold"].items()],
+                key=lambda r: float(r[1].rstrip("%")) if r[1] != "N/A" else -1,
+                reverse=True,
+            )
+        ),
+    ]
+
+    path = os.path.join(OUTPUT_DIR, "adj_report.md")
+    with open(path, "w") as f:
+        f.write("\n".join(lines))
+    print(f"\nAdjudication report written to {path}")
+
+
 # ─── Robustness: Trusted-Aggregate Agreement ─────────────────────────────────
 
 TRUSTED = ["shai", "galileo", "nathan"]
@@ -1064,29 +1400,48 @@ def generate_report(rating_r, wawa_r, ds_r, shift_r, strat_r, trusted_r, iaa_doc
 # ─── Main ─────────────────────────────────────────────────────────────────────
 
 def main():
+    parser = argparse.ArgumentParser(description="Compute IAA for West Wing annotations.")
+    parser.add_argument(
+        "--adjudicate", action="store_true",
+        help="Re-run all metrics against adjudicated gold labels instead of pairwise IAA.",
+    )
+    args = parser.parse_args()
+
     os.makedirs(OUTPUT_DIR, exist_ok=True)
 
-    iaa_docs, overlap_docs = load_data()
+    iaa_docs, overlap_docs, adj_by_doc = load_data()
 
-    rating_r  = compute_rating_metrics(iaa_docs, overlap_docs)
-    wawa_r    = compute_annotator_quality(rating_r["matrix"])
-    ds_r      = run_dawid_skene(rating_r["matrix"])
-    shift_r   = compute_shift_metrics(iaa_docs)
-    strat_r   = compute_strategy_metrics(iaa_docs)
-    trusted_r = compute_trusted_aggregate(rating_r["matrix"])
+    if args.adjudicate:
+        # ── Adjudication mode ────────────────────────────────────────────────
+        adj_r = run_adjudication_analysis(iaa_docs, adj_by_doc)
+        if adj_r is None:
+            return
+        print("\nGenerating adjudication figures...")
+        fig_adj_kappa_vs_gold(adj_r)
+        fig_adj_per_item_heatmap(adj_r)
+        generate_adj_report(adj_r)
+        print(f"\nAdjudication outputs written to {OUTPUT_DIR}/")
+    else:
+        # ── Normal IAA mode ──────────────────────────────────────────────────
+        rating_r  = compute_rating_metrics(iaa_docs, overlap_docs)
+        wawa_r    = compute_annotator_quality(rating_r["matrix"])
+        ds_r      = run_dawid_skene(rating_r["matrix"])
+        shift_r   = compute_shift_metrics(iaa_docs)
+        strat_r   = compute_strategy_metrics(iaa_docs)
+        trusted_r = compute_trusted_aggregate(rating_r["matrix"])
 
-    print("\nGenerating figures...")
-    fig_rating_per_item_heatmap(rating_r["matrix"])
-    fig_pairwise_kappa_heatmap(rating_r["pw_kappa"])
-    fig_annotator_quality(wawa_r, ds_r)
-    fig_rating_distribution(rating_r["matrix"])
-    fig_strategy_kappa_bar(strat_r)
-    fig_strategy_jaccard_heatmap(strat_r["jaccard"])
-    fig_ds_confusion_matrices(ds_r)
+        print("\nGenerating figures...")
+        fig_rating_per_item_heatmap(rating_r["matrix"])
+        fig_pairwise_kappa_heatmap(rating_r["pw_kappa"])
+        fig_annotator_quality(wawa_r, ds_r)
+        fig_rating_distribution(rating_r["matrix"])
+        fig_strategy_kappa_bar(strat_r)
+        fig_strategy_jaccard_heatmap(strat_r["jaccard"])
+        fig_ds_confusion_matrices(ds_r)
 
-    generate_report(rating_r, wawa_r, ds_r, shift_r, strat_r, trusted_r, iaa_docs, overlap_docs)
+        generate_report(rating_r, wawa_r, ds_r, shift_r, strat_r, trusted_r, iaa_docs, overlap_docs)
 
-    print(f"\nAll outputs written to {OUTPUT_DIR}/")
+        print(f"\nAll outputs written to {OUTPUT_DIR}/")
 
 
 if __name__ == "__main__":
